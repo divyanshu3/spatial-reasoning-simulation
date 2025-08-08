@@ -1,0 +1,1922 @@
+[
+    {
+        "complexity_level": "low",
+        "prompt_id": "1",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Dog2, which is located at (4,3) and is facing East. Based on Bike1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "2",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Train1, which is located at (4,1) and is facing South. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "3",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing East. Dog3, which is located at (3,1) and is facing West. Based on Bike2's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "4",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Child1, which is located at (2,3) and is facing South. Based on Dog1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "5",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Bike1, which is located at (3,3) and is facing South. Based on Child1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "6",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing South. Child1, which is located at (2,3) and is facing North. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "7",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing West. Bike2, which is located at (3,4) and is facing South. Based on Dog3's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "8",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Dog2, which is located at (4,3) and is facing South. Based on Train1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "9",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Dog3, which is located at (3,1) and is facing West. Based on Horse1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "10",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Man1, which is located at (0,3) and is facing North. Based on Child1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "11",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing South. Dog3, which is located at (3,1) and is facing South. Based on Train1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "12",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing East. Bike1, which is located at (3,3) and is facing South. Based on Bike2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "13",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Dog1, which is located at (2,2) and is facing North. Based on Child1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "14",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Child1, which is located at (2,3) and is facing West. Based on Man1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "15",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Dog2, which is located at (4,3) and is facing South. Based on Plane1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "16",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Bike1, which is located at (3,3) and is facing East. Based on Child1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "17",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Dog2, which is located at (4,3) and is facing West. Based on Train1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "18",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Cat1, which is located at (0,0) and is facing East. Based on Man1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "19",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Train1, which is located at (4,1) and is facing West. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "20",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Bike1, which is located at (3,3) and is facing East. Based on Horse1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "21",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing West. Bike1, which is located at (3,3) and is facing North. Based on Car1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "22",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing East. Dog3, which is located at (3,1) and is facing South. Based on Plane1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "23",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing West. Plane1, which is located at (4,2) and is facing West. Based on Dog3's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "24",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Man1, which is located at (0,3) and is facing West. Based on Car1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "25",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Cat1, which is located at (0,0) and is facing West. Based on Dog1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "26",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Man1, which is located at (0,3) and is facing East. Based on Car1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "27",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Train1, which is located at (4,1) and is facing West. Based on Horse1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "28",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing East. Man1, which is located at (0,3) and is facing North. Based on Bike2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "29",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Plane1, which is located at (4,2) and is facing South. Based on Bike1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "30",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Man1, which is located at (0,3) and is facing South. Based on Car1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "31",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing East. Dog1, which is located at (2,2) and is facing East. Based on Bike2's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "32",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Bike2, which is located at (3,4) and is facing East. Based on Man1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "33",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing East. Cat1, which is located at (0,0) and is facing North. Based on Bike1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "34",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Cat1, which is located at (0,0) and is facing West. Based on Car1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "35",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Horse1, which is located at (3,0) and is facing East. Based on Dog2's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "36",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Plane1, which is located at (4,2) and is facing North. Based on Horse1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "37",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing West. Plane1, which is located at (4,2) and is facing East. Based on Cat1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "38",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Dog3, which is located at (3,1) and is facing West. Based on Dog1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "39",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Horse1, which is located at (3,0) and is facing West. Based on Car1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "40",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing South. Bike1, which is located at (3,3) and is facing East. Based on Train1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "41",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Bike2, which is located at (3,4) and is facing East. Based on Plane1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "42",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing East. Dog2, which is located at (4,3) and is facing South. Based on Horse1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "43",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Child1, which is located at (2,3) and is facing North. Based on Plane1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "44",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Car1, which is located at (1,2) and is facing North. Based on Horse1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "45",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing West. Car1, which is located at (1,2) and is facing North. Based on Bike2's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "46",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Man1, which is located at (0,3) and is facing South. Based on Car1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "47",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing West. Man1, which is located at (0,3) and is facing East. Based on Bike2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "48",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Horse1, which is located at (3,0) and is facing West. Based on Man1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "49",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Horse1, which is located at (3,0) and is facing East. Based on Car1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "50",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Car1, which is located at (1,2) and is facing South. Based on Horse1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "51",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Cat1, which is located at (0,0) and is facing West. Based on Bike1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "52",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Dog1, which is located at (2,2) and is facing West. Based on Horse1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "53",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Train1, which is located at (4,1) and is facing East. Based on Car1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "54",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing East. Car1, which is located at (1,2) and is facing West. Based on Cat1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "55",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing East. Bike2, which is located at (3,4) and is facing West. Based on Cat1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "56",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Horse1, which is located at (3,0) and is facing South. Based on Car1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "57",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Bike1, which is located at (3,3) and is facing West. Based on Dog1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "58",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Train1, which is located at (4,1) and is facing West. Based on Child1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "59",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing West. Cat1, which is located at (0,0) and is facing South. Based on Car1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "60",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Dog2, which is located at (4,3) and is facing West. Based on Dog1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "61",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing South. Dog3, which is located at (3,1) and is facing South. Based on Bike2's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "62",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Dog1, which is located at (2,2) and is facing West. Based on Plane1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "63",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Horse1, which is located at (3,0) and is facing South. Based on Bike1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "64",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Car1, which is located at (1,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "65",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing South. Train1, which is located at (4,1) and is facing South. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "66",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing South. Bike1, which is located at (3,3) and is facing North. Based on Bike2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "67",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Bike1, which is located at (3,3) and is facing West. Based on Child1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "68",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing South. Train1, which is located at (4,1) and is facing East. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "69",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Dog2, which is located at (4,3) and is facing South. Based on Child1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "70",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Horse1, which is located at (3,0) and is facing North. Based on Bike1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "71",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing East. Dog2, which is located at (4,3) and is facing South. Based on Bike1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "72",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Cat1, which is located at (0,0) and is facing West. Based on Man1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "73",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Man1, which is located at (0,3) and is facing South. Based on Dog2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "74",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Dog1, which is located at (2,2) and is facing South. Based on Child1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "75",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Bike1, which is located at (3,3) and is facing South. Based on Child1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "76",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Bike1, which is located at (3,3) and is facing South. Based on Dog2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "77",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing East. Train1, which is located at (4,1) and is facing South. Based on Dog3's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "78",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Cat1, which is located at (0,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "79",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing East. Horse1, which is located at (3,0) and is facing East. Based on Cat1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "80",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Plane1, which is located at (4,2) and is facing South. Based on Dog1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "81",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Train1, which is located at (4,1) and is facing East. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "82",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Plane1, which is located at (4,2) and is facing East. Based on Dog1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "83",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Dog2, which is located at (4,3) and is facing East. Based on Bike1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "84",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Car1, which is located at (1,2) and is facing West. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "85",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Man1, which is located at (0,3) and is facing South. Based on Bike1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "86",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing East. Bike2, which is located at (3,4) and is facing East. Based on Bike1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "87",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Dog1, which is located at (2,2) and is facing North. Based on Plane1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "88",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Car1, which is located at (1,2) and is facing South. Based on Plane1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "89",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing West. Dog3, which is located at (3,1) and is facing South. Based on Bike2's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "90",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Cat1, which is located at (0,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "91",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Cat1, which is located at (0,0) and is facing South. Based on Horse1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "92",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing East. Plane1, which is located at (4,2) and is facing North. Based on Train1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "93",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Train1, which is located at (4,1) and is facing North. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "94",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing North. Dog3, which is located at (3,1) and is facing North. Based on Train1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "95",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Man1, which is located at (0,3) and is facing East. Based on Bike1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "96",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Plane1, which is located at (4,2) and is facing West. Based on Car1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "97",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Plane1, which is located at (4,2) and is facing South. Based on Car1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "98",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Plane1, which is located at (4,2) and is facing East. Based on Car1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "99",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Dog3, which is located at (3,1) and is facing East. Based on Bike1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "100",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Child1, which is located at (2,3) and is facing South. Based on Man1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "101",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Child1, which is located at (2,3) and is facing East. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "102",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing West. Bike1, which is located at (3,3) and is facing North. Based on Child1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "103",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing East. Child1, which is located at (2,3) and is facing North. Based on Bike1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "104",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Man1, which is located at (0,3) and is facing South. Based on Child1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "105",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Man1, which is located at (0,3) and is facing North. Based on Child1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "106",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing North. Plane1, which is located at (4,2) and is facing South. Based on Dog2's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "107",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Child1, which is located at (2,3) and is facing North. Based on Dog1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "108",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing East. Dog3, which is located at (3,1) and is facing West. Based on Train1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "109",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Bike2, which is located at (3,4) and is facing West. Based on Horse1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "110",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Child1, which is located at (2,3) and is facing East. Based on Dog1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "111",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Bike2, which is located at (3,4) and is facing West. Based on Bike1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "112",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing South. Bike1, which is located at (3,3) and is facing North. Based on Dog3's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "113",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing East. Car1, which is located at (1,2) and is facing West. Based on Plane1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "114",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing West. Horse1, which is located at (3,0) and is facing West. Based on Cat1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "115",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Bike1, which is located at (3,3) and is facing South. Based on Man1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "116",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing West. Bike1, which is located at (3,3) and is facing East. Based on Child1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "117",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Man1, which is located at (0,3) and is facing West. Based on Dog2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "118",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Car1, which is located at (1,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "119",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing East. Car1, which is located at (1,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "120",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Dog3, which is located at (3,1) and is facing East. Based on Bike1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "121",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing East. Bike1, which is located at (3,3) and is facing North. Based on Plane1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "122",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing West. Train1, which is located at (4,1) and is facing East. Based on Child1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "123",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Bike2, which is located at (3,4) and is facing South. Based on Man1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "124",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Train1, which is located at (4,1) and is facing South. Based on Bike1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "125",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing East. Dog1, which is located at (2,2) and is facing East. Based on Horse1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "126",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing South. Dog1, which is located at (2,2) and is facing West. Based on Cat1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "127",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Bike2, which is located at (3,4) and is facing East. Based on Man1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "128",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Man1, which is located at (0,3) and is facing South. Based on Car1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "129",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing East. Bike2, which is located at (3,4) and is facing West. Based on Train1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "130",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing North. Horse1, which is located at (3,0) and is facing South. Based on Train1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "131",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing West. Dog3, which is located at (3,1) and is facing South. Based on Child1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "132",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Horse1, which is located at (3,0) and is facing South. Based on Dog1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "133",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Train1, which is located at (4,1) and is facing East. Based on Horse1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "134",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Train1, which is located at (4,1) and is facing South. Based on Man1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "135",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing West. Dog2, which is located at (4,3) and is facing South. Based on Bike2's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "136",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing North. Cat1, which is located at (0,0) and is facing South. Based on Train1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "137",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Cat1, which is located at (0,0) and is facing West. Based on Child1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "138",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Train1, which is located at (4,1) and is facing West. Based on Dog1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "139",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing East. Car1, which is located at (1,2) and is facing South. Based on Train1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "140",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Dog2, which is located at (4,3) and is facing North. Based on Horse1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "141",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Dog2, which is located at (4,3) and is facing West. Based on Car1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "142",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Horse1, which is located at (3,0) and is facing South. Based on Man1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "143",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Man1, which is located at (0,3) and is facing West. Based on Horse1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "144",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Man1, which is located at (0,3) and is facing East. Based on Dog1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "145",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Horse1, which is located at (3,0) and is facing East. Based on Car1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "146",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Cat1, which is located at (0,0) and is facing North. Based on Bike1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "147",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Bike2, which is located at (3,4) and is facing North. Based on Train1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "148",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Man1, which is located at (0,3) and is facing North. Based on Train1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "149",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Man1, which is located at (0,3) and is facing North. Based on Dog1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "150",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Plane1, which is located at (4,2) and is facing East. Based on Child1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "151",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Dog2, which is located at (4,3) and is facing West. Based on Horse1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "152",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing North. Dog2, which is located at (4,3) and is facing North. Based on Cat1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "153",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Car1, which is located at (1,2) and is facing West. Based on Man1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "154",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Bike1, which is located at (3,3) and is facing West. Based on Train1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "155",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Cat1, which is located at (0,0) and is facing East. Based on Car1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "156",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing North. Dog2, which is located at (4,3) and is facing West. Based on Cat1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "157",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing East. Train1, which is located at (4,1) and is facing West. Based on Bike1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "158",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Child1, which is located at (2,3) and is facing West. Based on Car1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "159",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Child1, which is located at (2,3) and is facing North. Based on Car1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "160",
+        "template_id_source": "1",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Train1, which is located at (4,1) and is facing North. Based on Man1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "161",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "162",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing South. Dog3, which is located at (3,1) and is facing West. Based on Dog3's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "163",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Train1, which is located at (4,1) and is facing South. Based on Train1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "164",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Horse1, which is located at (3,0) and is facing South. Based on Horse1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "165",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Dog2, which is located at (4,3) and is facing East. Based on Dog2's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "166",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing East. Cat1, which is located at (0,0) and is facing West. Based on Cat1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "167",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Dog3, which is located at (3,1) and is facing South. Based on Dog3's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "168",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing East. Man1, which is located at (0,3) and is facing North. Based on Man1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "169",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing South. Bike2, which is located at (3,4) and is facing East. Based on Bike2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "170",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing South. Car1, which is located at (1,2) and is facing West. Based on Car1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "171",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Dog2, which is located at (4,3) and is facing East. Based on Dog2's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "172",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing East. Child1, which is located at (2,3) and is facing East. Based on Child1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "173",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing South. Plane1, which is located at (4,2) and is facing South. Based on Plane1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "174",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Child1, which is located at (2,3) and is facing North. Based on Child1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "175",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Cat1, which is located at (0,0) and is facing West. Based on Cat1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "176",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing West. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "177",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing North. Child1, which is located at (2,3) and is facing East. Based on Child1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "178",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Car1, which is located at (1,2) and is facing West. Based on Car1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "179",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Bike2, which is located at (3,4) and is facing North. Based on Bike2's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "180",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Plane1, which is located at (4,2) and is facing South. Based on Plane1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "181",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing North. Bike1, which is located at (3,3) and is facing North. Based on Bike1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "182",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing North. Bike1, which is located at (3,3) and is facing North. Based on Bike1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "183",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing East. Man1, which is located at (0,3) and is facing West. Based on Man1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "184",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Car1, which is located at (1,2) and is facing West. Based on Car1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "185",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "186",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Dog2, which is located at (4,3) and is facing North. Based on Dog2's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "187",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Car1, which is located at (1,2) and is facing West. Based on Car1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "188",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Car1, which is located at (1,2) and is facing West. Based on Car1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "189",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Bike1, which is located at (3,3) and is facing West. Based on Bike1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "190",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Dog2, which is located at (4,3) and is facing East. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "191",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Plane1, which is located at (4,2) and is facing North. Based on Plane1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "192",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing South. Dog1, which is located at (2,2) and is facing West. Based on Dog1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "193",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Bike1, which is located at (3,3) and is facing East. Based on Bike1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "194",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing North. Dog2, which is located at (4,3) and is facing North. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "195",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Dog2, which is located at (4,3) and is facing East. Based on Dog2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "196",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing North. Dog3, which is located at (3,1) and is facing South. Based on Dog3's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "197",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing North. Man1, which is located at (0,3) and is facing North. Based on Man1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "198",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Child1, which is located at (2,3) and is facing East. Based on Child1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "199",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Child1, which is located at (2,3) and is facing North. Based on Child1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "200",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "201",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "202",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "203",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing East. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "204",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Horse1, which is located at (3,0) and is facing South. Based on Horse1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "205",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "206",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing South. Car1, which is located at (1,2) and is facing South. Based on Car1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "207",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing East. Man1, which is located at (0,3) and is facing West. Based on Man1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "208",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Cat1, which is located at (0,0) and is facing South. Based on Cat1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "209",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Man1, which is located at (0,3) and is facing West. Based on Man1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "210",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing East. Car1, which is located at (1,2) and is facing South. Based on Car1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "211",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Cat1, which is located at (0,0) and is facing South. Based on Cat1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "212",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing West. Train1, which is located at (4,1) and is facing East. Based on Train1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "213",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing West. Plane1, which is located at (4,2) and is facing North. Based on Plane1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "214",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Cat1, which is located at (0,0) and is facing South. Based on Cat1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "215",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Car1, which is located at (1,2) and is facing South. Based on Car1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "216",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Horse1, which is located at (3,0) and is facing East. Based on Horse1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "217",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing East. Dog3, which is located at (3,1) and is facing North. Based on Dog3's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "218",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Dog2, which is located at (4,3) and is facing North. Based on Dog2's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "219",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing East. Bike2, which is located at (3,4) and is facing West. Based on Bike2's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "220",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing North. Man1, which is located at (0,3) and is facing West. Based on Man1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "221",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Dog3, which is located at (3,1) and is facing North. Based on Dog3's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "222",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing East. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "223",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing West. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "224",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "225",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing West. Bike1, which is located at (3,3) and is facing South. Based on Bike1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "226",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Car1, which is located at (1,2) and is facing North. Based on Car1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "227",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "228",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Man1, which is located at (0,3) and is facing East. Based on Man1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "229",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Horse1, which is located at (3,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "230",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Car1, which is located at (1,2) and is facing East. Based on Car1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "231",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing West. Child1, which is located at (2,3) and is facing South. Based on Child1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "232",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Bike2, which is located at (3,4) and is facing South. Based on Bike2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "233",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "234",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Child1, which is located at (2,3) and is facing South. Based on Child1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "235",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing North. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "236",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Horse1, which is located at (3,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "237",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing South. Horse1, which is located at (3,0) and is facing North. Based on Horse1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "238",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing North. Car1, which is located at (1,2) and is facing North. Based on Car1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "239",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "240",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing West. Dog3, which is located at (3,1) and is facing West. Based on Dog3's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "241",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Child1, which is located at (2,3) and is facing North. Based on Child1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "242",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing South. Bike1, which is located at (3,3) and is facing West. Based on Bike1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "243",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Dog2, which is located at (4,3) and is facing North. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "244",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing East. Bike2, which is located at (3,4) and is facing West. Based on Bike2's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "245",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Dog2, which is located at (4,3) and is facing North. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "246",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Plane1, which is located at (4,2) and is facing North. Based on Plane1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "247",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing West. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "248",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Man1, which is located at (0,3) and is facing South. Based on Man1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "249",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Dog3, which is located at (3,1) and is facing West. Based on Dog3's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "250",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing East. Plane1, which is located at (4,2) and is facing North. Based on Plane1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "251",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Dog3, which is located at (3,1) and is facing East. Based on Dog3's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "252",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Dog1, which is located at (2,2) and is facing South. Based on Dog1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "253",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing East. Bike1, which is located at (3,3) and is facing West. Based on Bike1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "254",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Dog2, which is located at (4,3) and is facing West. Based on Dog2's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "255",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Bike2, which is located at (3,4) and is facing West. Based on Bike2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "256",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing South. Dog1, which is located at (2,2) and is facing South. Based on Dog1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "257",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing South. Horse1, which is located at (3,0) and is facing North. Based on Horse1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "258",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Plane1, which is located at (4,2) and is facing East. Based on Plane1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "259",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing South. Cat1, which is located at (0,0) and is facing South. Based on Cat1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "260",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "261",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing South. Car1, which is located at (1,2) and is facing East. Based on Car1's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "262",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing South. Bike1, which is located at (3,3) and is facing West. Based on Bike1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "263",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Bike2, which is located at (3,4) and is facing South. Based on Bike2's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "264",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Bike2, which is located at (3,4) and is facing West. Based on Bike2's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "265",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Horse1, which is located at (3,0) and is facing North. Based on Horse1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "266",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Plane1, which is located at (4,2) and is facing North. Based on Plane1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "267",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing West. Child1, which is located at (2,3) and is facing West. Based on Child1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "268",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing West. Dog2, which is located at (4,3) and is facing West. Based on Dog2's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "269",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing South. Car1, which is located at (1,2) and is facing South. Based on Car1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "270",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing North. Plane1, which is located at (4,2) and is facing West. Based on Plane1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "271",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Dog1, which is located at (2,2) and is facing East. Based on Dog1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "272",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing West. Man1, which is located at (0,3) and is facing South. Based on Man1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "273",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing West. Car1, which is located at (1,2) and is facing South. Based on Car1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "274",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing South. Train1, which is located at (4,1) and is facing West. Based on Train1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "275",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing South. Car1, which is located at (1,2) and is facing West. Based on Car1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "276",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Car1, which is located at (1,2) and is facing East. Based on Car1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "277",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing South. Dog1, which is located at (2,2) and is facing South. Based on Dog1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "278",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing East. Dog1, which is located at (2,2) and is facing South. Based on Dog1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "279",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Bike1, which is located at (3,3) and is facing West. Based on Bike1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "280",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing East. Train1, which is located at (4,1) and is facing North. Based on Train1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "281",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing North. Plane1, which is located at (4,2) and is facing South. Based on Plane1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "282",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing West. Bike2, which is located at (3,4) and is facing East. Based on Bike2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "283",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing North. Horse1, which is located at (3,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "284",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing North. Man1, which is located at (0,3) and is facing East. Based on Man1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "285",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "286",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Dog2, which is located at (4,3) and is facing South. Based on Dog2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "287",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Dog2, which is located at (4,3) and is facing East. Based on Dog2's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "288",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing North. Plane1, which is located at (4,2) and is facing South. Based on Plane1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "289",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing South. Bike2, which is located at (3,4) and is facing East. Based on Bike2's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "290",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing West. Horse1, which is located at (3,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "291",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Child1, which is located at (2,3) and is facing South. Based on Child1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "292",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing North. Dog2, which is located at (4,3) and is facing South. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "293",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Child1, which is located at (2,3) and is facing North. Based on Child1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "294",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing North. Car1, which is located at (1,2) and is facing North. Based on Car1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "295",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing South. Dog1, which is located at (2,2) and is facing South. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "296",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing South. Train1, which is located at (4,1) and is facing West. Based on Train1's current perspective, in which primary direction is Plane1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "297",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing West. Bike1, which is located at (3,3) and is facing South. Based on Bike1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "298",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike1, who is at grid position (3,3) and is facing North. Horse1, which is located at (3,0) and is facing West. Based on Horse1's current perspective, in which primary direction is Bike1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "299",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing North. Bike1, which is located at (3,3) and is facing North. Based on Bike1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "300",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Bike1, which is located at (3,3) and is facing South. Based on Bike1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "301",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing South. Horse1, which is located at (3,0) and is facing North. Based on Horse1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "302",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Man1, which is located at (0,3) and is facing East. Based on Man1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "303",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Car1, who is at grid position (1,2) and is facing West. Dog1, which is located at (2,2) and is facing West. Based on Dog1's current perspective, in which primary direction is Car1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "304",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing West. Train1, which is located at (4,1) and is facing North. Based on Train1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "305",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing North. Dog2, which is located at (4,3) and is facing South. Based on Dog2's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "306",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing East. Cat1, which is located at (0,0) and is facing East. Based on Cat1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "307",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Bike2, who is at grid position (3,4) and is facing West. Dog3, which is located at (3,1) and is facing North. Based on Dog3's current perspective, in which primary direction is Bike2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "308",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Train1, who is at grid position (4,1) and is facing South. Plane1, which is located at (4,2) and is facing South. Based on Plane1's current perspective, in which primary direction is Train1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "309",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing East. Bike1, which is located at (3,3) and is facing East. Based on Bike1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "310",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing North. Horse1, which is located at (3,0) and is facing North. Based on Horse1's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "311",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing East. Dog1, which is located at (2,2) and is facing North. Based on Dog1's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "312",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog1, who is at grid position (2,2) and is facing West. Child1, which is located at (2,3) and is facing South. Based on Child1's current perspective, in which primary direction is Dog1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "313",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Cat1, who is at grid position (0,0) and is facing East. Man1, which is located at (0,3) and is facing South. Based on Man1's current perspective, in which primary direction is Cat1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "314",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing North. Dog2, which is located at (4,3) and is facing West. Based on Dog2's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "315",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Child1, who is at grid position (2,3) and is facing South. Dog2, which is located at (4,3) and is facing West. Based on Dog2's current perspective, in which primary direction is Child1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "316",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Horse1, who is at grid position (3,0) and is facing East. Bike1, which is located at (3,3) and is facing South. Based on Bike1's current perspective, in which primary direction is Horse1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "317",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog2, who is at grid position (4,3) and is facing North. Child1, which is located at (2,3) and is facing East. Based on Child1's current perspective, in which primary direction is Dog2 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "318",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Man1, who is at grid position (0,3) and is facing East. Cat1, which is located at (0,0) and is facing North. Based on Cat1's current perspective, in which primary direction is Man1 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "319",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Dog3, who is at grid position (3,1) and is facing South. Bike2, which is located at (3,4) and is facing South. Based on Bike2's current perspective, in which primary direction is Dog3 located?"
+    },
+    {
+        "complexity_level": "low",
+        "prompt_id": "320",
+        "template_id_source": "2",
+        "generated_prompt_text": "Consider the observer, Plane1, who is at grid position (4,2) and is facing West. Car1, which is located at (1,2) and is facing East. Based on Car1's current perspective, in which primary direction is Plane1 located?"
+    }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "complexity_level": "high",
+        "prompt_id": "1",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing South. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Reverse direction on the spot.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "2",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing South. The target, Dog2, is at position (4,3) and is facing North. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Turn 180 degrees around.,3. Turn 90 degrees to the Right.,4. Turn 180 degrees around.,5. Move two steps to the Left.,6. Move one step to the Front.,7. Turn 90 degrees to the Right.,8. Shift one cell to the Right.,9. Reverse direction on the spot.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "3",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing South. The target, Dog2, is at position (4,3) and is facing South. Now, the agent (Man1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Turn 90 degrees to the Right.,3. Face the direction on their Left.,4. Take a single step forward.,5. Make a 90-degree left turn.,6. Move one step to the Front.,7. Face the direction on their Left.,8. Reverse direction on the spot.,9. Move one step to the Right.,10. Make a 90-degree right turn.,11. Make a 90-degree right turn.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "4",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing East. The target, Train1, is at position (4,1) and is facing North. Now, the agent (Car1) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Turn 90 degrees to the Left.,3. Make a 90-degree left turn.,4. Make a 90-degree right turn.,5. Face the direction on their Left.,6. Move two steps to the Left.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "5",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing South. The target, Train1, is at position (4,1) and is facing East. Now, the agent (Car1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Face the direction on their Left.,3. Turn 90 degrees to the Left.,4. Face the direction on their Left.,5. Make a 90-degree left turn.,6. Shift one cell to the Right.,7. Face the direction on their Left.,8. Move one step to the Right.,9. Turn 180 degrees around.,10. Shift one cell to the Right.,11. Face the direction on their Right.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "6",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing East. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Man1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Face the direction on their Right.,3. Take a single step backward.,4. Take a single step forward.,5. Turn 90 degrees to the Right.,6. Face the direction on their Right.,7. Reverse direction on the spot.,8. Turn 90 degrees to the Left.,9. Turn 90 degrees to the Right.,10. Move one step to the Right.,11. Make a 90-degree left turn.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "7",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing East. The target, Car1, is at position (1,2) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Move one step to the Right.,3. Turn 90 degrees to the Left.,4. Move one step to the Left.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "8",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing North. The target, Child1, is at position (2,3) and is facing East. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Take a single step backward.,3. Turn 90 degrees to the Left.,4. Shift one cell to the Right.,5. Turn 90 degrees to the Right.,6. Move one step to the Left.,7. Turn 180 degrees around.,8. Turn 90 degrees to the Right.,9. Move one step to the Behind.,10. Turn 90 degrees to the Right.,11. Face the direction on their Left.,12. Shift one cell to the Left.,13. Turn 90 degrees to the Right.,14. Move one step to the Front.,15. Take a single step backward.,16. Reverse direction on the spot.,17. Move one step to the Behind.,18. Turn 180 degrees around.,19. Turn 90 degrees to the Left.,20. Move one step to the Left.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "9",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing South. The target, Dog1, is at position (2,2) and is facing East. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Take a single step backward.,3. Reverse direction on the spot.,4. Shift one cell to the Left.,5. Move one step to the Right.,6. Turn 180 degrees around.,7. Turn 90 degrees to the Right.,8. Turn 90 degrees to the Right.,9. Move two steps to the Front.,10. Make a 90-degree right turn.,11. Face the direction on their Right.,12. Make a 90-degree left turn.,13. Move one step to the Right.,14. Move two steps to the Right.,15. Turn 90 degrees to the Left.,16. Turn 90 degrees to the Right.,17. Turn 180 degrees around.,18. Shift one cell to the Right.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "10",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing North. The target, Plane1, is at position (4,2) and is facing South. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Move one step to the Front.,2. Move one step to the Behind.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "11",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing South. The target, Bike2, is at position (3,4) and is facing North. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Take a single step backward.,2. Turn 180 degrees around.,3. Turn 180 degrees around.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "12",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing East. The target, Man1, is at position (0,3) and is facing East. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Turn 90 degrees to the Right.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "13",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing North. The target, Dog3, is at position (3,1) and is facing South. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Make a 90-degree left turn.,3. Reverse direction on the spot.,4. Turn 90 degrees to the Right.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "14",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing West. The target, Horse1, is at position (3,0) and is facing West. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Take a single step forward.,3. Move one step to the Behind.,4. Turn 180 degrees around.,5. Take a single step backward.,6. Turn 90 degrees to the Right.,7. Reverse direction on the spot.,8. Shift one cell to the Right.,9. Turn 90 degrees to the Left.,10. Reverse direction on the spot.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "15",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing West. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Train1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Move one step to the Right.,3. Turn 90 degrees to the Left.,4. Turn 90 degrees to the Right.,5. Face the direction on their Right.,6. Face the direction on their Left.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "16",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing East. The target, Train1, is at position (4,1) and is facing South. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Turn 90 degrees to the Left.,3. Move two steps to the Right.,4. Turn 90 degrees to the Right.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "17",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing West. The target, Car1, is at position (1,2) and is facing East. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Face the direction on their Right.,3. Face the direction on their Left.,4. Make a 90-degree right turn.,5. Make a 90-degree left turn.,6. Move one step to the Behind.,7. Make a 90-degree right turn.,8. Make a 90-degree right turn.,9. Make a 90-degree left turn.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "18",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing South. The target, Dog2, is at position (4,3) and is facing North. Now, the agent (Man1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Face the direction on their Left.,3. Face the direction on their Right.,4. Take a single step backward.,5. Move one step to the Front.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "19",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing North. The target, Horse1, is at position (3,0) and is facing West. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Shift one cell to the Right.,2. Take a single step forward.,3. Shift one cell to the Right.,4. Turn 90 degrees to the Left.,5. Move one step to the Front.,6. Shift one cell to the Left.,7. Move one step to the Right.,8. Turn 90 degrees to the Left.,9. Turn 180 degrees around.,10. Move one step to the Behind.,11. Turn 90 degrees to the Right.,12. Move three steps to the Front.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "20",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing North. The target, Bike2, is at position (3,4) and is facing West. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Make a 90-degree right turn.,3. Shift one cell to the Right.,4. Make a 90-degree right turn.,5. Face the direction on their Left.,6. Make a 90-degree left turn.,7. Face the direction on their Left.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "21",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing North. The target, Horse1, is at position (3,0) and is facing West. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Move one step to the Behind.,2. Move one step to the Front.,3. Turn 90 degrees to the Right.,4. Turn 90 degrees to the Right.,5. Move one step to the Front.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "22",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing South. The target, Cat1, is at position (0,0) and is facing North. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Face the direction on their Left.,3. Reverse direction on the spot.,4. Turn 90 degrees to the Left.,5. Turn 90 degrees to the Right.,6. Turn 90 degrees to the Right.,7. Move one step to the Left.,8. Reverse direction on the spot.,9. Shift one cell to the Right.,10. Move three steps to the Front.,11. Move two steps to the Right.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "23",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing North. The target, Horse1, is at position (3,0) and is facing South. Now, the agent (Car1) performs the following sequence of actions in order: (1. Move two steps to the Right.,2. Move two steps to the Left.,3. Move one step to the Behind.,4. Take a single step backward.,5. Shift one cell to the Right.,6. Take a single step forward.,7. Turn 180 degrees around.,8. Move one step to the Front.,9. Turn 90 degrees to the Left.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "24",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing East. The target, Man1, is at position (0,3) and is facing South. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Move two steps to the Right.,3. Move two steps to the Left.,4. Turn 90 degrees to the Right.,5. Move two steps to the Front.,6. Turn 90 degrees to the Right.,7. Turn 90 degrees to the Right.,8. Move two steps to the Front.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "25",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing East. The target, Train1, is at position (4,1) and is facing South. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Make a 90-degree right turn.,3. Turn 180 degrees around.,4. Turn 90 degrees to the Left.,5. Turn 90 degrees to the Left.,6. Make a 90-degree right turn.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "26",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing East. The target, Bike1, is at position (3,3) and is facing West. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Turn 90 degrees to the Right.,3. Turn 180 degrees around.,4. Take a single step forward.,5. Move two steps to the Front.,6. Turn 90 degrees to the Right.,7. Face the direction on their Right.,8. Shift one cell to the Left.,9. Turn 90 degrees to the Left.,10. Face the direction on their Right.,11. Move three steps to the Front.,12. Turn 90 degrees to the Right.,13. Face the direction on their Right.,14. Turn 90 degrees to the Left.,15. Reverse direction on the spot.,16. Turn 90 degrees to the Right.,17. Make a 90-degree left turn.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "27",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing West. The target, Child1, is at position (2,3) and is facing East. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Move two steps to the Right.,2. Move three steps to the Front.,3. Move one step to the Behind.,4. Make a 90-degree left turn.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "28",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing East. The target, Child1, is at position (2,3) and is facing South. Now, the agent (Train1) performs the following sequence of actions in order: (1. Move one step to the Right.,2. Reverse direction on the spot.,3. Turn 180 degrees around.,4. Face the direction on their Left.,5. Move two steps to the Left.,6. Take a single step forward.,7. Turn 90 degrees to the Left.,8. Face the direction on their Right.,9. Reverse direction on the spot.,10. Face the direction on their Right.,11. Make a 90-degree right turn.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "29",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing North. The target, Dog2, is at position (4,3) and is facing South. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Move two steps to the Front.,2. Turn 180 degrees around.,3. Move two steps to the Right.,4. Turn 180 degrees around.,5. Reverse direction on the spot.,6. Turn 90 degrees to the Left.,7. Face the direction on their Right.,8. Move three steps to the Front.,9. Take a single step forward.,10. Reverse direction on the spot.,11. Turn 90 degrees to the Left.,12. Reverse direction on the spot.,13. Take a single step backward.,14. Turn 180 degrees around.,15. Face the direction on their Right.,16. Turn 90 degrees to the Right.,17. Move three steps to the Front.,18. Face the direction on their Left.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "30",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing East. The target, Dog3, is at position (3,1) and is facing East. Now, the agent (Train1) performs the following sequence of actions in order: (1. Make a 90-degree right turn.,2. Face the direction on their Right.,3. Make a 90-degree left turn.,4. Make a 90-degree left turn.,5. Make a 90-degree right turn.,6. Face the direction on their Left.,7. Reverse direction on the spot.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "31",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing West. The target, Dog3, is at position (3,1) and is facing East. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Move one step to the Front.,2. Turn 180 degrees around.,3. Face the direction on their Right.,4. Move three steps to the Front.,5. Move two steps to the Right.,6. Face the direction on their Left.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "32",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing East. The target, Dog2, is at position (4,3) and is facing North. Now, the agent (Train1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Face the direction on their Left.,3. Turn 90 degrees to the Left.,4. Reverse direction on the spot.,5. Face the direction on their Right.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "33",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing West. The target, Plane1, is at position (4,2) and is facing East. Now, the agent (Train1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Reverse direction on the spot.,3. Face the direction on their Right.,4. Make a 90-degree left turn.,5. Face the direction on their Left.,6. Turn 90 degrees to the Right.,7. Face the direction on their Left.,8. Face the direction on their Left.,9. Turn 90 degrees to the Left.,10. Turn 90 degrees to the Right.,11. Face the direction on their Left.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "34",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing West. The target, Dog2, is at position (4,3) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Take a single step forward.,2. Turn 180 degrees around.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "35",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing North. The target, Dog3, is at position (3,1) and is facing South. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Move two steps to the Front.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "36",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing North. The target, Cat1, is at position (0,0) and is facing North. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Reverse direction on the spot.,3. Face the direction on their Right.,4. Move three steps to the Front.,5. Move two steps to the Right.,6. Make a 90-degree right turn.,7. Turn 180 degrees around.,8. Turn 90 degrees to the Left.,9. Make a 90-degree left turn.,10. Face the direction on their Left.,11. Move one step to the Behind.,12. Turn 90 degrees to the Right.,13. Move one step to the Behind.,14. Turn 180 degrees around.,15. Move three steps to the Front.,16. Make a 90-degree right turn.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "37",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing West. The target, Train1, is at position (4,1) and is facing North. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Reverse direction on the spot.,3. Face the direction on their Right.,4. Move one step to the Front.,5. Face the direction on their Left.,6. Face the direction on their Left.,7. Turn 90 degrees to the Left.,8. Move one step to the Right.,9. Face the direction on their Left.,10. Turn 90 degrees to the Left.,11. Take a single step forward.,12. Turn 90 degrees to the Left.,13. Make a 90-degree left turn.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "38",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing East. The target, Plane1, is at position (4,2) and is facing West. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Face the direction on their Right.,3. Move three steps to the Front.,4. Shift one cell to the Right.,5. Reverse direction on the spot.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "39",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing North. The target, Plane1, is at position (4,2) and is facing North. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Turn 180 degrees around.,3. Shift one cell to the Right.,4. Turn 180 degrees around.,5. Reverse direction on the spot.,6. Turn 90 degrees to the Right.,7. Turn 90 degrees to the Right.,8. Face the direction on their Right.,9. Turn 90 degrees to the Left.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "40",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Bike1, is at position (3,3) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Take a single step forward.,3. Turn 180 degrees around.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "41",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing East. The target, Horse1, is at position (3,0) and is facing East. Now, the agent (Child1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Turn 90 degrees to the Left.,3. Move one step to the Right.,4. Move three steps to the Front.,5. Turn 180 degrees around.,6. Face the direction on their Left.,7. Face the direction on their Left.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "42",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing South. The target, Dog1, is at position (2,2) and is facing East. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Move one step to the Left.,3. Face the direction on their Right.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "43",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing West. The target, Plane1, is at position (4,2) and is facing East. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Face the direction on their Right.,3. Move one step to the Front.,4. Face the direction on their Left.,5. Move two steps to the Front.,6. Move two steps to the Right.,7. Turn 90 degrees to the Right.,8. Move two steps to the Right.,9. Move two steps to the Right.,10. Move two steps to the Left.,11. Reverse direction on the spot.,12. Turn 180 degrees around.,13. Turn 90 degrees to the Right.,14. Turn 90 degrees to the Left.,15. Turn 90 degrees to the Right.,16. Face the direction on their Left.,17. Reverse direction on the spot.,18. Move two steps to the Front.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "44",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing West. The target, Plane1, is at position (4,2) and is facing South. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Move two steps to the Left.,3. Reverse direction on the spot.,4. Face the direction on their Right.,5. Turn 90 degrees to the Left.,6. Turn 180 degrees around.,7. Move two steps to the Right.,8. Take a single step forward.,9. Face the direction on their Left.,10. Make a 90-degree left turn.,11. Reverse direction on the spot.,12. Turn 90 degrees to the Right.,13. Turn 180 degrees around.,14. Turn 90 degrees to the Left.,15. Make a 90-degree left turn.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "45",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing East. The target, Dog3, is at position (3,1) and is facing North. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Turn 90 degrees to the Left.,3. Face the direction on their Left.,4. Shift one cell to the Right.,5. Shift one cell to the Left.,6. Reverse direction on the spot.,7. Turn 180 degrees around.,8. Reverse direction on the spot.,9. Face the direction on their Right.,10. Turn 180 degrees around.,11. Face the direction on their Right.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "46",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing South. The target, Bike2, is at position (3,4) and is facing South. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Shift one cell to the Right.,2. Make a 90-degree left turn.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "47",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing East. The target, Car1, is at position (1,2) and is facing East. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Face the direction on their Left.,3. Make a 90-degree left turn.,4. Face the direction on their Right.,5. Make a 90-degree right turn.,6. Turn 180 degrees around.,7. Reverse direction on the spot.,8. Turn 90 degrees to the Right.,9. Make a 90-degree right turn.,10. Turn 90 degrees to the Left.,11. Turn 180 degrees around.,12. Make a 90-degree right turn.,13. Face the direction on their Right.,14. Turn 180 degrees around.,15. Face the direction on their Right.,16. Make a 90-degree left turn.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "48",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing South. The target, Plane1, is at position (4,2) and is facing West. Now, the agent (Car1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Turn 90 degrees to the Left.,3. Make a 90-degree right turn.,4. Turn 90 degrees to the Left.,5. Turn 180 degrees around.,6. Reverse direction on the spot.,7. Face the direction on their Left.,8. Reverse direction on the spot.,9. Make a 90-degree left turn.,10. Make a 90-degree right turn.,11. Reverse direction on the spot.,12. Make a 90-degree right turn.,13. Turn 90 degrees to the Right.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "49",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing East. The target, Horse1, is at position (3,0) and is facing North. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Turn 90 degrees to the Right.,3. Move one step to the Right.,4. Shift one cell to the Right.,5. Take a single step backward.,6. Move one step to the Left.,7. Turn 90 degrees to the Right.,8. Make a 90-degree left turn.,9. Turn 90 degrees to the Left.,10. Turn 180 degrees around.,11. Take a single step forward.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "50",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing East. The target, Bike2, is at position (3,4) and is facing North. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Turn 90 degrees to the Left.,3. Turn 180 degrees around.,4. Move one step to the Right.,5. Move one step to the Left.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "51",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing East. The target, Cat1, is at position (0,0) and is facing South. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Reverse direction on the spot.,3. Shift one cell to the Left.,4. Turn 180 degrees around.,5. Make a 90-degree left turn.,6. Make a 90-degree left turn.,7. Make a 90-degree right turn.,8. Turn 90 degrees to the Left.,9. Move one step to the Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "52",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing West. The target, Car1, is at position (1,2) and is facing West. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Move three steps to the Front.,2. Face the direction on their Left.,3. Turn 90 degrees to the Right.,4. Face the direction on their Right.,5. Shift one cell to the Right.,6. Face the direction on their Right.,7. Reverse direction on the spot.,8. Move one step to the Front.,9. Move two steps to the Left.,10. Reverse direction on the spot.,11. Move two steps to the Left.,12. Face the direction on their Right.,13. Make a 90-degree right turn.,14. Move two steps to the Left.,15. Turn 180 degrees around.,16. Move one step to the Right.,17. Turn 90 degrees to the Right.,18. Move one step to the Behind.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "53",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing North. The target, Horse1, is at position (3,0) and is facing North. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Move three steps to the Front.,3. Make a 90-degree left turn.,4. Face the direction on their Right.,5. Make a 90-degree right turn.,6. Move three steps to the Front.,7. Make a 90-degree right turn.,8. Turn 180 degrees around.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "54",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing West. The target, Plane1, is at position (4,2) and is facing South. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Move three steps to the Front.,2. Move one step to the Behind.,3. Face the direction on their Left.,4. Move two steps to the Left.,5. Move one step to the Behind.,6. Turn 90 degrees to the Left.,7. Turn 180 degrees around.,8. Face the direction on their Left.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "55",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing North. The target, Child1, is at position (2,3) and is facing East. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Take a single step forward.,2. Move two steps to the Left.,3. Turn 180 degrees around.,4. Shift one cell to the Right.,5. Face the direction on their Left.,6. Face the direction on their Left.,7. Take a single step backward.,8. Face the direction on their Right.,9. Turn 180 degrees around.,10. Face the direction on their Right.,11. Make a 90-degree left turn.,12. Make a 90-degree left turn.,13. Turn 180 degrees around.,14. Make a 90-degree left turn.,15. Turn 90 degrees to the Right.,16. Reverse direction on the spot.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "56",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing East. The target, Train1, is at position (4,1) and is facing South. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Shift one cell to the Left.,3. Make a 90-degree right turn.,4. Turn 90 degrees to the Left.,5. Make a 90-degree left turn.,6. Make a 90-degree left turn.,7. Reverse direction on the spot.,8. Turn 180 degrees around.,9. Make a 90-degree right turn.,10. Take a single step backward.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "57",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing East. The target, Dog1, is at position (2,2) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Shift one cell to the Right.,3. Face the direction on their Left.,4. Turn 90 degrees to the Left.,5. Make a 90-degree left turn.,6. Face the direction on their Right.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "58",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing East. The target, Bike2, is at position (3,4) and is facing West. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Turn 90 degrees to the Right.,3. Turn 90 degrees to the Left.,4. Turn 90 degrees to the Left.,5. Face the direction on their Right.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "59",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing North. The target, Bike1, is at position (3,3) and is facing East. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Face the direction on their Right.,3. Turn 90 degrees to the Right.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "60",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing North. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Make a 90-degree right turn.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "61",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing West. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Move two steps to the Right.,2. Face the direction on their Left.,3. Turn 90 degrees to the Right.,4. Face the direction on their Left.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "62",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Bike1, is at position (3,3) and is facing North. Now, the agent (Child1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Shift one cell to the Right.,3. Face the direction on their Left.,4. Turn 90 degrees to the Left.,5. Move three steps to the Front.,6. Move two steps to the Left.,7. Face the direction on their Left.,8. Make a 90-degree left turn.,9. Reverse direction on the spot.,10. Turn 90 degrees to the Right.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "63",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing South. The target, Dog3, is at position (3,1) and is facing West. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Move one step to the Front.,3. Turn 90 degrees to the Right.,4. Turn 90 degrees to the Left.,5. Turn 90 degrees to the Right.,6. Turn 180 degrees around.,7. Turn 90 degrees to the Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "64",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing North. The target, Man1, is at position (0,3) and is facing East. Now, the agent (Train1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Turn 90 degrees to the Right.,3. Face the direction on their Left.,4. Turn 180 degrees around.,5. Turn 90 degrees to the Right.,6. Face the direction on their Right.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "65",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing South. The target, Horse1, is at position (3,0) and is facing North. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Turn 90 degrees to the Right.,3. Face the direction on their Right.,4. Move two steps to the Front.,5. Move one step to the Behind.,6. Turn 90 degrees to the Right.,7. Turn 90 degrees to the Left.,8. Move one step to the Front.,9. Turn 90 degrees to the Left.,10. Turn 180 degrees around.,11. Turn 90 degrees to the Left.,12. Move one step to the Left.,13. Turn 90 degrees to the Left.,14. Face the direction on their Left.,15. Face the direction on their Right.,16. Face the direction on their Left.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "66",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing West. The target, Dog2, is at position (4,3) and is facing West. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Move one step to the Front.,3. Turn 180 degrees around.,4. Take a single step forward.,5. Move one step to the Front.,6. Reverse direction on the spot.,7. Take a single step backward.,8. Move three steps to the Front.,9. Take a single step backward.,10. Turn 90 degrees to the Left.,11. Face the direction on their Left.,12. Face the direction on their Left.,13. Shift one cell to the Left.,14. Face the direction on their Left.,15. Reverse direction on the spot.,16. Move three steps to the Front.,17. Move one step to the Left.,18. Move two steps to the Left.,19. Take a single step backward.,20. Face the direction on their Right.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "67",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing South. The target, Man1, is at position (0,3) and is facing North. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Take a single step forward.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "68",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing West. The target, Bike1, is at position (3,3) and is facing South. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Move two steps to the Right.,3. Move two steps to the Left.,4. Turn 90 degrees to the Left.,5. Take a single step backward.,6. Reverse direction on the spot.,7. Reverse direction on the spot.,8. Turn 90 degrees to the Left.,9. Shift one cell to the Right.,10. Move two steps to the Left.,11. Move one step to the Right.,12. Turn 90 degrees to the Right.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "69",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing East. The target, Man1, is at position (0,3) and is facing South. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Face the direction on their Left.,3. Make a 90-degree left turn.,4. Move two steps to the Front.,5. Turn 90 degrees to the Left.,6. Turn 90 degrees to the Right.,7. Make a 90-degree left turn.,8. Turn 90 degrees to the Right.,9. Turn 90 degrees to the Right.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "70",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Bike1, is at position (3,3) and is facing North. Now, the agent (Child1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Turn 90 degrees to the Right.,3. Move one step to the Left.,4. Turn 180 degrees around.,5. Take a single step forward.,6. Face the direction on their Right.,7. Face the direction on their Right.,8. Move two steps to the Front.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "71",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing East. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Face the direction on their Left.,3. Move two steps to the Right.,4. Turn 90 degrees to the Right.,5. Turn 180 degrees around.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "72",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing East. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Move one step to the Right.,3. Move one step to the Right.,4. Turn 90 degrees to the Left.,5. Face the direction on their Left.,6. Move one step to the Right.,7. Reverse direction on the spot.,8. Make a 90-degree right turn.,9. Take a single step forward.,10. Make a 90-degree right turn.,11. Reverse direction on the spot.,12. Face the direction on their Left.,13. Take a single step forward.,14. Take a single step backward.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "73",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing North. The target, Man1, is at position (0,3) and is facing South. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Move three steps to the Front.,3. Face the direction on their Right.,4. Shift one cell to the Left.,5. Move three steps to the Front.,6. Turn 180 degrees around.,7. Face the direction on their Left.,8. Make a 90-degree right turn.,9. Face the direction on their Right.,10. Turn 90 degrees to the Right.,11. Reverse direction on the spot.,12. Turn 180 degrees around.,13. Face the direction on their Left.,14. Turn 90 degrees to the Right.,15. Make a 90-degree right turn.,16. Face the direction on their Right.,17. Face the direction on their Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "74",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing East. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Move one step to the Behind.,2. Face the direction on their Right.,3. Move two steps to the Front.,4. Face the direction on their Right.,5. Turn 180 degrees around.,6. Face the direction on their Left.,7. Face the direction on their Right.,8. Turn 90 degrees to the Left.,9. Turn 90 degrees to the Left.,10. Move two steps to the Right.,11. Turn 90 degrees to the Left.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "75",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing West. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Man1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Move one step to the Right.,3. Face the direction on their Right.,4. Make a 90-degree left turn.,5. Turn 180 degrees around.,6. Reverse direction on the spot.,7. Make a 90-degree right turn.,8. Turn 90 degrees to the Left.,9. Shift one cell to the Right.,10. Turn 90 degrees to the Left.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "76",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing West. The target, Horse1, is at position (3,0) and is facing East. Now, the agent (Car1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Reverse direction on the spot.,3. Move one step to the Front.,4. Move one step to the Front.,5. Move one step to the Left.,6. Move one step to the Right.,7. Move one step to the Right.,8. Face the direction on their Right.,9. Face the direction on their Left.,10. Face the direction on their Left.,11. Turn 180 degrees around.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "77",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing South. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Face the direction on their Left.,3. Face the direction on their Left.,4. Move two steps to the Front.,5. Shift one cell to the Left.,6. Turn 90 degrees to the Right.,7. Face the direction on their Right.,8. Make a 90-degree left turn.,9. Turn 90 degrees to the Right.,10. Face the direction on their Left.,11. Make a 90-degree left turn.,12. Turn 90 degrees to the Right.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "78",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing North. The target, Child1, is at position (2,3) and is facing East. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Move one step to the Right.,2. Turn 90 degrees to the Right.,3. Reverse direction on the spot.,4. Take a single step forward.,5. Face the direction on their Left.,6. Move one step to the Left.,7. Turn 90 degrees to the Right.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "79",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Plane1, is at position (4,2) and is facing North. The target, Dog1, is at position (2,2) and is facing North. Now, the agent (Plane1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Move two steps to the Left.,3. Face the direction on their Left.,4. Turn 90 degrees to the Left.,5. Reverse direction on the spot.,6. Make a 90-degree left turn.,7. Face the direction on their Right.). After completing all actions, from Plane1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "80",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing West. The target, Horse1, is at position (3,0) and is facing North. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Move three steps to the Front.,2. Turn 90 degrees to the Left.,3. Move two steps to the Left.,4. Face the direction on their Left.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "81",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing West. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Turn 90 degrees to the Left.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "82",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing South. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Move two steps to the Left.,3. Make a 90-degree right turn.,4. Turn 180 degrees around.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "83",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing East. The target, Bike1, is at position (3,3) and is facing West. Now, the agent (Train1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Take a single step forward.,3. Turn 90 degrees to the Left.,4. Face the direction on their Right.,5. Turn 90 degrees to the Right.,6. Reverse direction on the spot.,7. Reverse direction on the spot.,8. Turn 90 degrees to the Left.,9. Turn 90 degrees to the Right.,10. Move two steps to the Front.,11. Move one step to the Front.,12. Shift one cell to the Right.,13. Face the direction on their Right.,14. Shift one cell to the Right.,15. Turn 180 degrees around.,16. Turn 90 degrees to the Right.,17. Shift one cell to the Left.,18. Move one step to the Right.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "84",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing West. The target, Car1, is at position (1,2) and is facing West. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Move one step to the Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "85",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing West. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Make a 90-degree right turn.,2. Move two steps to the Left.,3. Face the direction on their Left.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "86",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing North. The target, Cat1, is at position (0,0) and is facing East. Now, the agent (Car1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Face the direction on their Left.,3. Reverse direction on the spot.,4. Turn 90 degrees to the Left.,5. Turn 90 degrees to the Left.,6. Face the direction on their Right.,7. Face the direction on their Right.,8. Move one step to the Front.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "87",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing North. The target, Dog3, is at position (3,1) and is facing East. Now, the agent (Man1) performs the following sequence of actions in order: (1. Move one step to the Behind.,2. Turn 90 degrees to the Right.,3. Move one step to the Right.,4. Reverse direction on the spot.,5. Move one step to the Behind.,6. Move one step to the Left.,7. Move one step to the Behind.,8. Make a 90-degree right turn.,9. Turn 90 degrees to the Right.,10. Turn 90 degrees to the Left.,11. Make a 90-degree left turn.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "88",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing North. The target, Dog1, is at position (2,2) and is facing South. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Move three steps to the Front.,3. Reverse direction on the spot.,4. Make a 90-degree right turn.,5. Reverse direction on the spot.,6. Make a 90-degree left turn.,7. Move one step to the Front.,8. Make a 90-degree left turn.,9. Make a 90-degree left turn.,10. Turn 180 degrees around.,11. Reverse direction on the spot.,12. Reverse direction on the spot.,13. Turn 90 degrees to the Right.,14. Take a single step backward.,15. Face the direction on their Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "89",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing East. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Reverse direction on the spot.,3. Make a 90-degree right turn.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "90",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing East. The target, Bike2, is at position (3,4) and is facing East. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Shift one cell to the Right.,2. Reverse direction on the spot.,3. Face the direction on their Left.,4. Face the direction on their Right.,5. Reverse direction on the spot.,6. Move one step to the Left.,7. Move one step to the Right.,8. Reverse direction on the spot.,9. Turn 90 degrees to the Right.,10. Turn 180 degrees around.,11. Reverse direction on the spot.,12. Reverse direction on the spot.,13. Turn 90 degrees to the Right.,14. Face the direction on their Right.,15. Face the direction on their Right.,16. Face the direction on their Left.,17. Reverse direction on the spot.,18. Face the direction on their Left.,19. Reverse direction on the spot.,20. Move three steps to the Front.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "91",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing East. The target, Dog3, is at position (3,1) and is facing North. Now, the agent (Train1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Turn 90 degrees to the Right.,3. Turn 180 degrees around.,4. Turn 90 degrees to the Left.,5. Make a 90-degree right turn.,6. Move two steps to the Front.,7. Move one step to the Left.,8. Turn 90 degrees to the Right.,9. Turn 90 degrees to the Right.,10. Move one step to the Behind.,11. Turn 180 degrees around.,12. Make a 90-degree left turn.,13. Make a 90-degree right turn.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "92",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing East. The target, Bike1, is at position (3,3) and is facing North. Now, the agent (Man1) performs the following sequence of actions in order: (1. Shift one cell to the Right.,2. Turn 180 degrees around.,3. Move one step to the Left.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "93",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing South. The target, Dog1, is at position (2,2) and is facing South. Now, the agent (Car1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Move one step to the Front.,3. Shift one cell to the Left.,4. Take a single step backward.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "94",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Dog3, is at position (3,1) and is facing North. Now, the agent (Child1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Take a single step backward.,3. Face the direction on their Left.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "95",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Car1, is at position (1,2) and is facing South. Now, the agent (Child1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Face the direction on their Left.,3. Turn 90 degrees to the Left.,4. Move one step to the Left.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "96",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing East. The target, Child1, is at position (2,3) and is facing East. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Take a single step backward.,2. Turn 180 degrees around.,3. Turn 90 degrees to the Left.,4. Turn 90 degrees to the Right.,5. Reverse direction on the spot.,6. Take a single step forward.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "97",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing West. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Man1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Move one step to the Left.,3. Move one step to the Front.,4. Face the direction on their Left.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "98",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing South. The target, Child1, is at position (2,3) and is facing East. Now, the agent (Car1) performs the following sequence of actions in order: (1. Make a 90-degree right turn.,2. Reverse direction on the spot.,3. Face the direction on their Right.,4. Turn 180 degrees around.,5. Face the direction on their Right.,6. Take a single step backward.,7. Take a single step forward.,8. Reverse direction on the spot.,9. Move two steps to the Left.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "99",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing East. The target, Dog3, is at position (3,1) and is facing North. Now, the agent (Train1) performs the following sequence of actions in order: (1. Move one step to the Right.,2. Turn 90 degrees to the Right.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "100",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing North. The target, Dog3, is at position (3,1) and is facing East. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Turn 180 degrees around.,3. Move one step to the Left.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "101",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing North. The target, Dog1, is at position (2,2) and is facing West. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Move one step to the Behind.,3. Move one step to the Left.,4. Reverse direction on the spot.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "102",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing West. The target, Dog2, is at position (4,3) and is facing South. Now, the agent (Man1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Take a single step forward.,3. Face the direction on their Right.,4. Face the direction on their Right.,5. Face the direction on their Right.,6. Face the direction on their Right.,7. Turn 90 degrees to the Left.,8. Make a 90-degree right turn.,9. Face the direction on their Left.,10. Face the direction on their Right.,11. Move one step to the Left.,12. Move one step to the Behind.,13. Move two steps to the Front.,14. Reverse direction on the spot.,15. Reverse direction on the spot.,16. Reverse direction on the spot.,17. Move one step to the Front.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "103",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing North. The target, Bike2, is at position (3,4) and is facing South. Now, the agent (Train1) performs the following sequence of actions in order: (1. Take a single step backward.,2. Turn 90 degrees to the Right.,3. Move one step to the Left.,4. Face the direction on their Right.,5. Face the direction on their Right.,6. Move two steps to the Front.,7. Take a single step forward.,8. Turn 180 degrees around.,9. Move one step to the Behind.,10. Make a 90-degree right turn.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "104",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing North. The target, Dog1, is at position (2,2) and is facing East. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Turn 90 degrees to the Left.,3. Move one step to the Right.,4. Shift one cell to the Right.,5. Turn 180 degrees around.,6. Turn 90 degrees to the Left.,7. Move one step to the Right.,8. Face the direction on their Right.,9. Move two steps to the Front.,10. Face the direction on their Right.,11. Turn 90 degrees to the Right.,12. Turn 90 degrees to the Right.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "105",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing North. The target, Horse1, is at position (3,0) and is facing West. Now, the agent (Car1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Turn 180 degrees around.,3. Move one step to the Left.,4. Take a single step backward.,5. Turn 90 degrees to the Right.,6. Take a single step forward.,7. Move one step to the Behind.,8. Move two steps to the Front.,9. Turn 180 degrees around.,10. Face the direction on their Right.,11. Turn 180 degrees around.,12. Move one step to the Right.,13. Face the direction on their Right.,14. Move one step to the Front.,15. Face the direction on their Left.,16. Turn 90 degrees to the Right.,17. Reverse direction on the spot.,18. Move two steps to the Front.,19. Reverse direction on the spot.,20. Take a single step forward.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "106",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing South. The target, Dog3, is at position (3,1) and is facing West. Now, the agent (Man1) performs the following sequence of actions in order: (1. Take a single step backward.,2. Move two steps to the Left.,3. Turn 90 degrees to the Left.,4. Turn 90 degrees to the Right.,5. Face the direction on their Right.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "107",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing North. The target, Dog1, is at position (2,2) and is facing West. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Make a 90-degree right turn.,2. Face the direction on their Left.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "108",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing North. The target, Plane1, is at position (4,2) and is facing South. Now, the agent (Train1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Shift one cell to the Right.,3. Turn 90 degrees to the Left.,4. Face the direction on their Left.,5. Move two steps to the Front.,6. Make a 90-degree left turn.,7. Turn 90 degrees to the Right.,8. Make a 90-degree left turn.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "109",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing East. The target, Dog1, is at position (2,2) and is facing South. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Move two steps to the Front.,2. Move two steps to the Front.,3. Make a 90-degree left turn.,4. Make a 90-degree right turn.,5. Make a 90-degree left turn.,6. Turn 90 degrees to the Right.,7. Turn 180 degrees around.,8. Reverse direction on the spot.,9. Face the direction on their Left.,10. Turn 90 degrees to the Right.,11. Face the direction on their Left.,12. Make a 90-degree right turn.,13. Face the direction on their Left.,14. Face the direction on their Left.,15. Reverse direction on the spot.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "110",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing East. The target, Dog2, is at position (4,3) and is facing West. Now, the agent (Car1) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Turn 180 degrees around.,3. Move one step to the Left.,4. Move two steps to the Left.,5. Move one step to the Behind.,6. Face the direction on their Left.,7. Move two steps to the Left.,8. Face the direction on their Right.,9. Move three steps to the Front.,10. Reverse direction on the spot.,11. Face the direction on their Left.,12. Turn 90 degrees to the Left.,13. Make a 90-degree left turn.,14. Face the direction on their Left.,15. Face the direction on their Right.,16. Move one step to the Behind.,17. Turn 180 degrees around.,18. Reverse direction on the spot.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "111",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing East. The target, Man1, is at position (0,3) and is facing East. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Move one step to the Front.,3. Take a single step backward.,4. Reverse direction on the spot.,5. Turn 90 degrees to the Left.,6. Move one step to the Front.,7. Turn 90 degrees to the Right.,8. Turn 90 degrees to the Left.,9. Face the direction on their Left.,10. Turn 90 degrees to the Right.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "112",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing North. The target, Train1, is at position (4,1) and is facing South. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Reverse direction on the spot.,3. Make a 90-degree left turn.,4. Reverse direction on the spot.,5. Turn 90 degrees to the Left.,6. Turn 180 degrees around.,7. Take a single step backward.,8. Move one step to the Front.,9. Reverse direction on the spot.,10. Reverse direction on the spot.,11. Take a single step backward.,12. Face the direction on their Left.,13. Turn 90 degrees to the Right.,14. Face the direction on their Left.,15. Make a 90-degree right turn.,16. Reverse direction on the spot.,17. Shift one cell to the Left.,18. Take a single step forward.,19. Face the direction on their Left.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "113",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing East. The target, Dog2, is at position (4,3) and is facing West. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Take a single step forward.,2. Take a single step backward.,3. Turn 90 degrees to the Right.,4. Move two steps to the Right.,5. Take a single step backward.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "114",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing East. The target, Horse1, is at position (3,0) and is facing East. Now, the agent (Car1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Move one step to the Left.,3. Turn 180 degrees around.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "115",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing South. The target, Dog2, is at position (4,3) and is facing South. Now, the agent (Man1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Turn 90 degrees to the Right.,3. Face the direction on their Right.,4. Reverse direction on the spot.,5. Make a 90-degree right turn.,6. Shift one cell to the Right.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "116",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing East. The target, Dog3, is at position (3,1) and is facing East. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Shift one cell to the Right.,3. Turn 90 degrees to the Left.,4. Move one step to the Front.,5. Turn 180 degrees around.,6. Move one step to the Front.,7. Move three steps to the Front.,8. Face the direction on their Left.,9. Make a 90-degree right turn.,10. Face the direction on their Left.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "117",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing East. The target, Dog1, is at position (2,2) and is facing East. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Face the direction on their Right.,3. Turn 90 degrees to the Right.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "118",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing West. The target, Dog2, is at position (4,3) and is facing South. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Turn 180 degrees around.,3. Face the direction on their Right.,4. Reverse direction on the spot.,5. Face the direction on their Right.,6. Turn 180 degrees around.,7. Shift one cell to the Left.,8. Shift one cell to the Right.,9. Turn 90 degrees to the Right.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "119",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing West. The target, Car1, is at position (1,2) and is facing East. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Move two steps to the Right.,2. Turn 90 degrees to the Left.,3. Take a single step forward.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "120",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing North. The target, Bike2, is at position (3,4) and is facing South. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Reverse direction on the spot.,3. Reverse direction on the spot.,4. Turn 180 degrees around.,5. Move one step to the Right.,6. Move one step to the Behind.,7. Take a single step forward.,8. Face the direction on their Left.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "121",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing East. The target, Cat1, is at position (0,0) and is facing North. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Shift one cell to the Right.,3. Move three steps to the Front.,4. Move one step to the Left.,5. Move one step to the Right.,6. Turn 180 degrees around.,7. Face the direction on their Right.,8. Turn 90 degrees to the Left.,9. Shift one cell to the Right.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "122",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing South. The target, Car1, is at position (1,2) and is facing East. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Shift one cell to the Right.,2. Reverse direction on the spot.,3. Turn 90 degrees to the Left.,4. Turn 90 degrees to the Right.,5. Move one step to the Left.,6. Face the direction on their Right.,7. Move one step to the Front.,8. Face the direction on their Left.,9. Face the direction on their Left.,10. Move one step to the Left.,11. Move one step to the Front.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "123",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing East. The target, Bike2, is at position (3,4) and is facing East. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Shift one cell to the Right.,3. Face the direction on their Left.,4. Turn 180 degrees around.,5. Move two steps to the Left.,6. Move one step to the Left.,7. Move one step to the Left.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "124",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing East. The target, Dog2, is at position (4,3) and is facing North. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Take a single step forward.,2. Turn 180 degrees around.,3. Face the direction on their Left.,4. Face the direction on their Left.,5. Turn 90 degrees to the Left.,6. Turn 180 degrees around.,7. Face the direction on their Left.,8. Turn 90 degrees to the Left.,9. Face the direction on their Right.,10. Reverse direction on the spot.,11. Make a 90-degree right turn.,12. Face the direction on their Right.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Dog2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "125",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing West. The target, Train1, is at position (4,1) and is facing West. Now, the agent (Man1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Move two steps to the Front.,3. Turn 180 degrees around.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "126",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing West. The target, Dog1, is at position (2,2) and is facing South. Now, the agent (Man1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Turn 90 degrees to the Right.,3. Reverse direction on the spot.,4. Shift one cell to the Left.,5. Face the direction on their Right.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "127",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Train1, is at position (4,1) and is facing West. The target, Plane1, is at position (4,2) and is facing North. Now, the agent (Train1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Face the direction on their Right.,3. Turn 90 degrees to the Right.,4. Move one step to the Behind.,5. Face the direction on their Left.,6. Face the direction on their Left.,7. Face the direction on their Right.). After completing all actions, from Train1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "128",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing South. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Child1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Reverse direction on the spot.,3. Face the direction on their Left.,4. Shift one cell to the Right.,5. Move two steps to the Front.,6. Move one step to the Left.,7. Take a single step forward.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "129",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing West. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Face the direction on their Right.,3. Reverse direction on the spot.,4. Move two steps to the Left.,5. Make a 90-degree right turn.,6. Turn 90 degrees to the Right.,7. Make a 90-degree left turn.,8. Face the direction on their Left.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "130",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Cat1, is at position (0,0) and is facing North. Now, the agent (Child1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Move two steps to the Left.,3. Take a single step forward.,4. Move one step to the Behind.,5. Move two steps to the Front.,6. Face the direction on their Right.,7. Face the direction on their Left.,8. Reverse direction on the spot.,9. Shift one cell to the Left.,10. Face the direction on their Right.,11. Face the direction on their Right.,12. Shift one cell to the Left.,13. Turn 180 degrees around.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "131",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing East. The target, Dog1, is at position (2,2) and is facing East. Now, the agent (Child1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Face the direction on their Left.,3. Face the direction on their Left.,4. Turn 180 degrees around.,5. Turn 180 degrees around.,6. Make a 90-degree right turn.,7. Turn 180 degrees around.,8. Reverse direction on the spot.,9. Turn 90 degrees to the Right.,10. Turn 90 degrees to the Left.,11. Face the direction on their Right.,12. Turn 90 degrees to the Left.,13. Turn 90 degrees to the Right.,14. Turn 90 degrees to the Right.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "132",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing North. The target, Dog1, is at position (2,2) and is facing East. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Move one step to the Right.,3. Face the direction on their Right.,4. Make a 90-degree right turn.,5. Make a 90-degree left turn.,6. Make a 90-degree left turn.,7. Make a 90-degree left turn.,8. Take a single step forward.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "133",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing East. The target, Plane1, is at position (4,2) and is facing South. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Take a single step forward.,3. Face the direction on their Left.,4. Make a 90-degree right turn.,5. Make a 90-degree right turn.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "134",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing West. The target, Train1, is at position (4,1) and is facing West. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Turn 90 degrees to the Left.,3. Make a 90-degree left turn.,4. Move one step to the Left.,5. Turn 90 degrees to the Right.,6. Move two steps to the Front.,7. Turn 90 degrees to the Right.,8. Turn 90 degrees to the Left.,9. Make a 90-degree left turn.,10. Turn 90 degrees to the Right.,11. Reverse direction on the spot.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "135",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing East. The target, Dog3, is at position (3,1) and is facing North. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Move one step to the Right.,2. Move one step to the Left.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "136",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing East. The target, Bike2, is at position (3,4) and is facing East. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Take a single step backward.,2. Turn 180 degrees around.,3. Take a single step backward.,4. Face the direction on their Right.,5. Turn 90 degrees to the Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "137",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing West. The target, Train1, is at position (4,1) and is facing South. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Face the direction on their Right.,2. Turn 90 degrees to the Left.,3. Make a 90-degree right turn.,4. Face the direction on their Right.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "138",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing East. The target, Plane1, is at position (4,2) and is facing North. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Take a single step backward.,3. Take a single step backward.,4. Move two steps to the Front.,5. Move two steps to the Right.,6. Face the direction on their Right.,7. Make a 90-degree right turn.,8. Turn 90 degrees to the Left.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "139",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing West. The target, Bike1, is at position (3,3) and is facing East. Now, the agent (Child1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Make a 90-degree right turn.,3. Make a 90-degree left turn.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "140",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing West. The target, Horse1, is at position (3,0) and is facing South. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Take a single step backward.,2. Make a 90-degree right turn.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Horse1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "141",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing North. The target, Bike2, is at position (3,4) and is facing West. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Reverse direction on the spot.,3. Move two steps to the Front.,4. Turn 90 degrees to the Left.,5. Move one step to the Right.,6. Move one step to the Behind.,7. Move one step to the Front.,8. Face the direction on their Left.,9. Turn 180 degrees around.,10. Turn 180 degrees around.,11. Move one step to the Front.,12. Take a single step backward.,13. Shift one cell to the Left.,14. Reverse direction on the spot.,15. Move one step to the Left.,16. Reverse direction on the spot.,17. Move three steps to the Front.,18. Take a single step backward.,19. Move one step to the Right.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "142",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing South. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Turn 90 degrees to the Right.,3. Move two steps to the Front.,4. Take a single step forward.,5. Face the direction on their Left.,6. Face the direction on their Right.,7. Shift one cell to the Left.,8. Move two steps to the Left.,9. Face the direction on their Right.,10. Turn 180 degrees around.,11. Move one step to the Left.,12. Move two steps to the Right.,13. Face the direction on their Left.,14. Move one step to the Front.,15. Take a single step backward.,16. Move one step to the Front.,17. Make a 90-degree left turn.,18. Make a 90-degree right turn.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "143",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing North. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Move two steps to the Right.,3. Move one step to the Right.,4. Make a 90-degree right turn.,5. Move one step to the Behind.,6. Make a 90-degree left turn.,7. Face the direction on their Right.,8. Make a 90-degree right turn.,9. Make a 90-degree right turn.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "144",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing East. The target, Child1, is at position (2,3) and is facing North. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Turn 180 degrees around.,2. Turn 90 degrees to the Right.,3. Take a single step backward.,4. Face the direction on their Right.,5. Take a single step backward.,6. Turn 180 degrees around.,7. Make a 90-degree right turn.,8. Make a 90-degree right turn.,9. Move one step to the Front.,10. Make a 90-degree right turn.,11. Move one step to the Right.,12. Face the direction on their Left.,13. Make a 90-degree left turn.,14. Make a 90-degree left turn.,15. Turn 90 degrees to the Right.,16. Reverse direction on the spot.,17. Face the direction on their Left.,18. Turn 90 degrees to the Right.,19. Face the direction on their Left.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "145",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing South. The target, Plane1, is at position (4,2) and is facing South. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Make a 90-degree left turn.,2. Turn 180 degrees around.,3. Turn 90 degrees to the Right.,4. Make a 90-degree left turn.,5. Make a 90-degree left turn.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Plane1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "146",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog1, is at position (2,2) and is facing North. The target, Man1, is at position (0,3) and is facing North. Now, the agent (Dog1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Left.,2. Move two steps to the Front.,3. Turn 90 degrees to the Left.,4. Reverse direction on the spot.,5. Move two steps to the Right.,6. Move one step to the Behind.,7. Move one step to the Behind.,8. Move two steps to the Right.,9. Face the direction on their Left.,10. Move two steps to the Front.,11. Face the direction on their Right.). After completing all actions, from Dog1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "147",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Child1, is at position (2,3) and is facing North. The target, Train1, is at position (4,1) and is facing North. Now, the agent (Child1) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Move one step to the Front.,3. Face the direction on their Right.,4. Face the direction on their Right.). After completing all actions, from Child1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "148",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing North. The target, Dog1, is at position (2,2) and is facing North. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Shift one cell to the Left.,2. Take a single step forward.,3. Turn 90 degrees to the Left.,4. Move two steps to the Front.,5. Reverse direction on the spot.,6. Face the direction on their Left.,7. Reverse direction on the spot.,8. Shift one cell to the Left.,9. Turn 180 degrees around.,10. Turn 90 degrees to the Left.,11. Reverse direction on the spot.,12. Make a 90-degree right turn.,13. Turn 90 degrees to the Left.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Dog1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "149",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing West. The target, Dog3, is at position (3,1) and is facing North. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Turn 90 degrees to the Left.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "150",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike1, is at position (3,3) and is facing West. The target, Cat1, is at position (0,0) and is facing West. Now, the agent (Bike1) performs the following sequence of actions in order: (1. Face the direction on their Left.,2. Take a single step forward.,3. Turn 90 degrees to the Right.,4. Shift one cell to the Right.,5. Move two steps to the Front.,6. Shift one cell to the Right.). After completing all actions, from Bike1's new and final perspective, in which primary direction is the target (Cat1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "151",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing South. The target, Bike2, is at position (3,4) and is facing East. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Move two steps to the Right.,2. Move one step to the Right.,3. Move one step to the Left.,4. Face the direction on their Left.,5. Face the direction on their Right.,6. Turn 90 degrees to the Left.,7. Shift one cell to the Right.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Bike2) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "152",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing West. The target, Dog3, is at position (3,1) and is facing West. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Reverse direction on the spot.,2. Turn 180 degrees around.,3. Shift one cell to the Right.,4. Turn 90 degrees to the Left.,5. Reverse direction on the spot.,6. Reverse direction on the spot.,7. Face the direction on their Right.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Dog3) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "153",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Bike2, is at position (3,4) and is facing East. The target, Car1, is at position (1,2) and is facing South. Now, the agent (Bike2) performs the following sequence of actions in order: (1. Move one step to the Behind.,2. Reverse direction on the spot.,3. Turn 90 degrees to the Right.,4. Move one step to the Left.,5. Face the direction on their Right.,6. Take a single step backward.,7. Face the direction on their Right.). After completing all actions, from Bike2's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "154",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Horse1, is at position (3,0) and is facing East. The target, Train1, is at position (4,1) and is facing North. Now, the agent (Horse1) performs the following sequence of actions in order: (1. Take a single step forward.,2. Turn 90 degrees to the Right.,3. Turn 180 degrees around.,4. Make a 90-degree right turn.,5. Turn 90 degrees to the Right.,6. Turn 90 degrees to the Left.,7. Face the direction on their Right.,8. Reverse direction on the spot.,9. Turn 180 degrees around.,10. Face the direction on their Right.,11. Make a 90-degree left turn.,12. Turn 90 degrees to the Left.,13. Take a single step backward.). After completing all actions, from Horse1's new and final perspective, in which primary direction is the target (Train1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "155",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Man1, is at position (0,3) and is facing South. The target, Child1, is at position (2,3) and is facing West. Now, the agent (Man1) performs the following sequence of actions in order: (1. Turn 90 degrees to the Right.,2. Shift one cell to the Left.,3. Reverse direction on the spot.). After completing all actions, from Man1's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "156",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing East. The target, Bike1, is at position (3,3) and is facing South. Now, the agent (Car1) performs the following sequence of actions in order: (1. Move one step to the Behind.,2. Move three steps to the Front.,3. Turn 90 degrees to the Right.,4. Face the direction on their Left.,5. Face the direction on their Left.,6. Turn 90 degrees to the Left.,7. Move three steps to the Front.,8. Turn 180 degrees around.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Bike1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "157",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog3, is at position (3,1) and is facing South. The target, Child1, is at position (2,3) and is facing South. Now, the agent (Dog3) performs the following sequence of actions in order: (1. Move one step to the Right.,2. Face the direction on their Left.,3. Move one step to the Front.,4. Make a 90-degree left turn.). After completing all actions, from Dog3's new and final perspective, in which primary direction is the target (Child1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "158",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Dog2, is at position (4,3) and is facing South. The target, Car1, is at position (1,2) and is facing North. Now, the agent (Dog2) performs the following sequence of actions in order: (1. Move one step to the Behind.,2. Face the direction on their Left.,3. Shift one cell to the Right.,4. Turn 90 degrees to the Right.,5. Turn 90 degrees to the Right.). After completing all actions, from Dog2's new and final perspective, in which primary direction is the target (Car1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "159",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Cat1, is at position (0,0) and is facing South. The target, Man1, is at position (0,3) and is facing West. Now, the agent (Cat1) performs the following sequence of actions in order: (1. Move one step to the Left.,2. Move one step to the Behind.,3. Turn 180 degrees around.,4. Turn 90 degrees to the Right.,5. Turn 180 degrees around.,6. Move one step to the Behind.,7. Take a single step forward.,8. Face the direction on their Right.,9. Reverse direction on the spot.,10. Move one step to the Front.,11. Turn 180 degrees around.). After completing all actions, from Cat1's new and final perspective, in which primary direction is the target (Man1) located?"
+    },
+    {
+        "complexity_level": "high",
+        "prompt_id": "160",
+        "template_id_source": "1",
+        "generated_prompt_text": "On a grid, the initial scene is set up as follows: The agent, Car1, is at position (1,2) and is facing West. The target, Plane1, is at position (4,2) and is facing North. Now, the agent (Car1) performs the following sequence of actions in order: (1. Move two steps to the Left.,2. Face the direction on their Left.,3. Turn 180 degrees around.,4. Shift one cell to the Right.,5. Turn 90 degrees to the Right.,6. Face the direction on their Left.,7. Move two steps to the Right.,8. Reverse direction on the spot.,9. Turn 90 degrees to the Left.,10. Face the direction on their Left.,11. Move two steps to the Left.,12. Move one step to the Left.,13. Move one step to the Front.,14. Move one step to the Right.,15. Move two steps to the Left.,16. Turn 90 degrees to the Right.). After completing all actions, from Car1's new and final perspective, in which primary direction is the target (Plane1) located?"
+    }
+]

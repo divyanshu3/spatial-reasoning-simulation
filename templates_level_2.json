@@ -1,0 +1,45 @@
+{
+  "complexity_level": "medium",
+  "prompt_templates": [
+    {
+      "id": "1",
+      "template_string": "On a grid, [AGENT_ID] is at ([AGENT_X],[AGENT_Y]) looking towards the [AGENT_ORIENTATION]. From [AGENT_ID]'s point of view, [OBJECT_A_ID] is at ([OBJECT_A_X],[OBJECT_A_Y]) facing [OBJECT_A_ORIENTATION] and appears to their [RELATIVE_DIR_A_FROM_AGENT], while [OBJECT_B_ID] is at ([OBJECT_B_X],[OBJECT_B_Y]) facing [OBJECT_B_ORIENTATION] and appears to their [RELATIVE_DIR_B_FROM_AGENT]. From [AGENT_ID]'s perspective, in which primary direction is [OBJECT_B_ID] located relative to [OBJECT_A_ID]?",
+      "placeholders": [
+        "[AGENT_ID]",
+        "[AGENT_X]",
+        "[AGENT_Y]",
+        "[AGENT_ORIENTATION]",
+        "[OBJECT_A_ID]",
+        "[OBJECT_A_X]",
+        "[OBJECT_A_Y]",
+        "[OBJECT_A_ORIENTATION]",
+        "[RELATIVE_DIR_A_FROM_AGENT]",
+        "[OBJECT_B_ID]",
+        "[OBJECT_B_X]",
+        "[OBJECT_B_Y]",
+        "[OBJECT_B_ORIENTATION]",
+        "[RELATIVE_DIR_B_FROM_AGENT]"
+      ],
+      "expected_answer_format": "Spatial Direction (e.g., 'Left', 'Right', 'In front', 'Behind')"
+    },
+    {
+      "id": "2",
+      "template_string": "Consider [AGENT_ID] at ([AGENT_X],[AGENT_Y]), who is initially looking towards the [AGENT_ORIENTATION].[OBJECT_B_TO_FACE_ID] is at grid position ([OBJECT_B_TO_FACE_X],[OBJECT_B_TO_FACE_Y]) and is facing [OBJECT_B_ORIENTATION]. [OBJECT_C_TO_LOCATE_ID] is at grid position ([OBJECT_C_TO_LOCATE_X],[OBJECT_C_TO_LOCATE_Y]) and is facing [OBJECT_C_ORIENTATION]. If [AGENT_ID] reoriented itself to look directly at [OBJECT_B_TO_FACE_ID], from this new perspective, what would be the primary direction to [OBJECT_C_TO_LOCATE_ID]?",
+      "placeholders": [
+        "[AGENT_ID]",
+        "[AGENT_X]",
+        "[AGENT_Y]",
+        "[AGENT_ORIENTATION]",
+        "[OBJECT_B_TO_FACE_ID]",
+        "[OBJECT_B_TO_FACE_X]",
+        "[OBJECT_B_TO_FACE_Y]",
+        "[OBJECT_B_ORIENTATION]", 
+        "[OBJECT_C_TO_LOCATE_ID]",
+        "[OBJECT_C_TO_LOCATE_X]",
+        "[OBJECT_C_TO_LOCATE_Y]",
+        "[OBJECT_C_ORIENTATION]"
+      ],
+      "expected_answer_format": "Spatial Direction (e.g., 'Left', 'Right', 'In-Front', 'Behind')"
+    }
+  ]
+}

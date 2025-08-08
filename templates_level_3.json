@@ -1,0 +1,24 @@
+{
+  "complexity_level": "high",
+  "prompt_templates": [
+    {
+      "id": "1",
+      "template_string": "On a grid, the initial scene is set up as follows: The agent, [AGENT_ID], is at position ([AGENT_X_INITIAL],[AGENT_Y_INITIAL]) and is facing [AGENT_ORIENTATION_INITIAL]. The target, [TARGET_OBJECT_ID], is at position ([TARGET_OBJECT_X],[TARGET_OBJECT_Y]) and is facing [TARGET_OBJECT_ORIENTATION]. Now, the agent ([AGENT_ID]) performs the following sequence of actions in order: ([ACTION_SEQUENCE_LIST_TEXT]). After completing all actions, from [AGENT_ID]'s new and final perspective, in which primary direction is the target ([TARGET_OBJECT_ID]) located?",
+      "placeholders": [
+        "[AGENT_ID]",
+        "[AGENT_X_INITIAL]",
+        "[AGENT_Y_INITIAL]",
+        "[AGENT_ORIENTATION_INITIAL]",
+        "[TARGET_OBJECT_ID]",
+        "[TARGET_OBJECT_X]",
+        "[TARGET_OBJECT_Y]",
+        "[TARGET_OBJECT_ORIENTATION]",
+        "[ACTION_SEQUENCE_LIST_TEXT]"
+      ],
+      "expected_answer_format": "8-Way Spatial Direction"
+    }
+  ]
+}
+
+
+

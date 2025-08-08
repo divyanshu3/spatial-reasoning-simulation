@@ -1,0 +1,4002 @@
+[
+    {
+        "prompt_id": "1",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2384,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.52"
+    },
+    {
+        "prompt_id": "2",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3451,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.20"
+    },
+    {
+        "prompt_id": "3",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3051,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.82"
+    },
+    {
+        "prompt_id": "4",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2358,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.57"
+    },
+    {
+        "prompt_id": "5",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3447,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "26.95"
+    },
+    {
+        "prompt_id": "6",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3332,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "28.91"
+    },
+    {
+        "prompt_id": "7",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 4405,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "44.92"
+    },
+    {
+        "prompt_id": "8",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2931,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.26"
+    },
+    {
+        "prompt_id": "9",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 1889,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.86"
+    },
+    {
+        "prompt_id": "10",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2978,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.27"
+    },
+    {
+        "prompt_id": "11",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2283,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.23"
+    },
+    {
+        "prompt_id": "12",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2669,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.43"
+    },
+    {
+        "prompt_id": "13",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2149,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.40"
+    },
+    {
+        "prompt_id": "14",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3680,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.72"
+    },
+    {
+        "prompt_id": "15",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 1963,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.99"
+    },
+    {
+        "prompt_id": "16",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2419,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.20"
+    },
+    {
+        "prompt_id": "17",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 1888,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.47"
+    },
+    {
+        "prompt_id": "18",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2466,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.85"
+    },
+    {
+        "prompt_id": "19",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3181,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "33.71"
+    },
+    {
+        "prompt_id": "20",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2777,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.46"
+    },
+    {
+        "prompt_id": "21",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3272,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.98"
+    },
+    {
+        "prompt_id": "22",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3090,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.32"
+    },
+    {
+        "prompt_id": "23",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2284,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.22"
+    },
+    {
+        "prompt_id": "24",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2687,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.54"
+    },
+    {
+        "prompt_id": "25",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 1707,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.58"
+    },
+    {
+        "prompt_id": "26",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3095,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "35.71"
+    },
+    {
+        "prompt_id": "27",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2238,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.78"
+    },
+    {
+        "prompt_id": "28",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2874,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.40"
+    },
+    {
+        "prompt_id": "29",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 1909,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.16"
+    },
+    {
+        "prompt_id": "30",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3562,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.69"
+    },
+    {
+        "prompt_id": "31",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2173,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.42"
+    },
+    {
+        "prompt_id": "32",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2964,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.98"
+    },
+    {
+        "prompt_id": "33",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3063,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.62"
+    },
+    {
+        "prompt_id": "34",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 1889,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.76"
+    },
+    {
+        "prompt_id": "35",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 4431,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "27.34"
+    },
+    {
+        "prompt_id": "36",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2318,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.04"
+    },
+    {
+        "prompt_id": "37",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3207,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.53"
+    },
+    {
+        "prompt_id": "38",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.09"
+    },
+    {
+        "prompt_id": "39",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 4643,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "31.94"
+    },
+    {
+        "prompt_id": "40",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3235,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.48"
+    },
+    {
+        "prompt_id": "41",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3509,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "26.96"
+    },
+    {
+        "prompt_id": "42",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2754,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.73"
+    },
+    {
+        "prompt_id": "43",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2293,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.55"
+    },
+    {
+        "prompt_id": "44",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 3887,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.32"
+    },
+    {
+        "prompt_id": "45",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2795,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.86"
+    },
+    {
+        "prompt_id": "46",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2759,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.77"
+    },
+    {
+        "prompt_id": "47",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2778,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.90"
+    },
+    {
+        "prompt_id": "48",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2996,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.53"
+    },
+    {
+        "prompt_id": "49",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 2420,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.08"
+    },
+    {
+        "prompt_id": "50",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Left",
+        "tokens_used": 3538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.35"
+    },
+    {
+        "prompt_id": "51",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 5001,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "33.08"
+    },
+    {
+        "prompt_id": "52",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 6341,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "45.67"
+    },
+    {
+        "prompt_id": "53",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3275,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.19"
+    },
+    {
+        "prompt_id": "54",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2895,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "26.68"
+    },
+    {
+        "prompt_id": "55",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2057,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.86"
+    },
+    {
+        "prompt_id": "56",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2998,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.48"
+    },
+    {
+        "prompt_id": "57",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2293,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.41"
+    },
+    {
+        "prompt_id": "58",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3983,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.47"
+    },
+    {
+        "prompt_id": "59",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 4256,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "26.68"
+    },
+    {
+        "prompt_id": "60",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 1636,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.45"
+    },
+    {
+        "prompt_id": "61",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3914,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.12"
+    },
+    {
+        "prompt_id": "62",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 4059,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "38.43"
+    },
+    {
+        "prompt_id": "63",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 4905,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "33.06"
+    },
+    {
+        "prompt_id": "64",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 1902,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.37"
+    },
+    {
+        "prompt_id": "65",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2596,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.16"
+    },
+    {
+        "prompt_id": "66",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2531,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.10"
+    },
+    {
+        "prompt_id": "67",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2761,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.09"
+    },
+    {
+        "prompt_id": "68",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3272,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.99"
+    },
+    {
+        "prompt_id": "69",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2629,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.05"
+    },
+    {
+        "prompt_id": "70",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2760,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.98"
+    },
+    {
+        "prompt_id": "71",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3181,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.97"
+    },
+    {
+        "prompt_id": "72",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 4237,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "26.96"
+    },
+    {
+        "prompt_id": "73",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2551,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.82"
+    },
+    {
+        "prompt_id": "74",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2914,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.51"
+    },
+    {
+        "prompt_id": "75",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2740,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.96"
+    },
+    {
+        "prompt_id": "76",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3617,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.67"
+    },
+    {
+        "prompt_id": "77",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3260,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.43"
+    },
+    {
+        "prompt_id": "78",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2926,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.70"
+    },
+    {
+        "prompt_id": "79",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3757,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.03"
+    },
+    {
+        "prompt_id": "80",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2988,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.63"
+    },
+    {
+        "prompt_id": "81",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 3561,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.31"
+    },
+    {
+        "prompt_id": "82",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3179,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.51"
+    },
+    {
+        "prompt_id": "83",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3700,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.74"
+    },
+    {
+        "prompt_id": "84",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2578,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.08"
+    },
+    {
+        "prompt_id": "85",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3276,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.72"
+    },
+    {
+        "prompt_id": "86",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 3838,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.10"
+    },
+    {
+        "prompt_id": "87",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2867,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.55"
+    },
+    {
+        "prompt_id": "88",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2342,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.84"
+    },
+    {
+        "prompt_id": "89",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2935,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.04"
+    },
+    {
+        "prompt_id": "90",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2539,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.20"
+    },
+    {
+        "prompt_id": "91",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 4083,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "24.52"
+    },
+    {
+        "prompt_id": "92",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2020,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.67"
+    },
+    {
+        "prompt_id": "93",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 4198,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "24.73"
+    },
+    {
+        "prompt_id": "94",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2424,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.36"
+    },
+    {
+        "prompt_id": "95",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 1955,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.96"
+    },
+    {
+        "prompt_id": "96",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2351,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.63"
+    },
+    {
+        "prompt_id": "97",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2084,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.02"
+    },
+    {
+        "prompt_id": "98",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2933,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.89"
+    },
+    {
+        "prompt_id": "99",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2653,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.99"
+    },
+    {
+        "prompt_id": "100",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2350,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.58"
+    },
+    {
+        "prompt_id": "101",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 4130,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "28.45"
+    },
+    {
+        "prompt_id": "102",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2795,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.53"
+    },
+    {
+        "prompt_id": "103",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2160,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.09"
+    },
+    {
+        "prompt_id": "104",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3264,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.49"
+    },
+    {
+        "prompt_id": "105",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2043,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.40"
+    },
+    {
+        "prompt_id": "106",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2703,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.01"
+    },
+    {
+        "prompt_id": "107",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1829,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.30"
+    },
+    {
+        "prompt_id": "108",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2467,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.24"
+    },
+    {
+        "prompt_id": "109",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3528,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.67"
+    },
+    {
+        "prompt_id": "110",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2084,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.31"
+    },
+    {
+        "prompt_id": "111",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Left",
+        "tokens_used": 2224,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.03"
+    },
+    {
+        "prompt_id": "112",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2313,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.78"
+    },
+    {
+        "prompt_id": "113",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2492,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.39"
+    },
+    {
+        "prompt_id": "114",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2907,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.36"
+    },
+    {
+        "prompt_id": "115",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3039,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.84"
+    },
+    {
+        "prompt_id": "116",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2462,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.94"
+    },
+    {
+        "prompt_id": "117",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3940,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.49"
+    },
+    {
+        "prompt_id": "118",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 4059,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.04"
+    },
+    {
+        "prompt_id": "119",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2631,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.30"
+    },
+    {
+        "prompt_id": "120",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1910,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.82"
+    },
+    {
+        "prompt_id": "121",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2002,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.51"
+    },
+    {
+        "prompt_id": "122",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2597,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.09"
+    },
+    {
+        "prompt_id": "123",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3429,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.85"
+    },
+    {
+        "prompt_id": "124",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1780,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.63"
+    },
+    {
+        "prompt_id": "125",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2697,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.11"
+    },
+    {
+        "prompt_id": "126",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1982,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.99"
+    },
+    {
+        "prompt_id": "127",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2932,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.80"
+    },
+    {
+        "prompt_id": "128",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2268,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.65"
+    },
+    {
+        "prompt_id": "129",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3239,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.60"
+    },
+    {
+        "prompt_id": "130",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2531,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.43"
+    },
+    {
+        "prompt_id": "131",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2029,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.30"
+    },
+    {
+        "prompt_id": "132",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2608,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.43"
+    },
+    {
+        "prompt_id": "133",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2020,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.41"
+    },
+    {
+        "prompt_id": "134",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1846,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.40"
+    },
+    {
+        "prompt_id": "135",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2447,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.16"
+    },
+    {
+        "prompt_id": "136",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2277,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.65"
+    },
+    {
+        "prompt_id": "137",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2021,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.11"
+    },
+    {
+        "prompt_id": "138",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3657,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.59"
+    },
+    {
+        "prompt_id": "139",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2996,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.58"
+    },
+    {
+        "prompt_id": "140",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3228,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.64"
+    },
+    {
+        "prompt_id": "141",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3262,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.80"
+    },
+    {
+        "prompt_id": "142",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2340,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.99"
+    },
+    {
+        "prompt_id": "143",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2338,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.32"
+    },
+    {
+        "prompt_id": "144",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1931,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.34"
+    },
+    {
+        "prompt_id": "145",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1682,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.69"
+    },
+    {
+        "prompt_id": "146",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2122,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.65"
+    },
+    {
+        "prompt_id": "147",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 3031,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.22"
+    },
+    {
+        "prompt_id": "148",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 4597,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "31.32"
+    },
+    {
+        "prompt_id": "149",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 2805,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.77"
+    },
+    {
+        "prompt_id": "150",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front-Right",
+        "tokens_used": 1827,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.73"
+    },
+    {
+        "prompt_id": "151",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2487,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.27"
+    },
+    {
+        "prompt_id": "152",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2830,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.34"
+    },
+    {
+        "prompt_id": "153",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3132,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.78"
+    },
+    {
+        "prompt_id": "154",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2090,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.54"
+    },
+    {
+        "prompt_id": "155",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3213,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.31"
+    },
+    {
+        "prompt_id": "156",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2373,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.85"
+    },
+    {
+        "prompt_id": "157",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 1764,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.11"
+    },
+    {
+        "prompt_id": "158",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2026,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.79"
+    },
+    {
+        "prompt_id": "159",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2045,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.68"
+    },
+    {
+        "prompt_id": "160",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3486,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.05"
+    },
+    {
+        "prompt_id": "161",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3132,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.38"
+    },
+    {
+        "prompt_id": "162",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2439,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.44"
+    },
+    {
+        "prompt_id": "163",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3942,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.53"
+    },
+    {
+        "prompt_id": "164",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2637,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.49"
+    },
+    {
+        "prompt_id": "165",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2175,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.39"
+    },
+    {
+        "prompt_id": "166",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 1974,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.78"
+    },
+    {
+        "prompt_id": "167",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 1961,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.56"
+    },
+    {
+        "prompt_id": "168",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2432,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.11"
+    },
+    {
+        "prompt_id": "169",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2477,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.54"
+    },
+    {
+        "prompt_id": "170",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2292,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.03"
+    },
+    {
+        "prompt_id": "171",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2766,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.12"
+    },
+    {
+        "prompt_id": "172",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2636,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.47"
+    },
+    {
+        "prompt_id": "173",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3309,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.90"
+    },
+    {
+        "prompt_id": "174",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1868,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.56"
+    },
+    {
+        "prompt_id": "175",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2368,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.11"
+    },
+    {
+        "prompt_id": "176",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3243,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.03"
+    },
+    {
+        "prompt_id": "177",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2785,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.30"
+    },
+    {
+        "prompt_id": "178",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2302,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.69"
+    },
+    {
+        "prompt_id": "179",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 1974,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.66"
+    },
+    {
+        "prompt_id": "180",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 4514,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "30.02"
+    },
+    {
+        "prompt_id": "181",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2483,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.17"
+    },
+    {
+        "prompt_id": "182",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3354,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.01"
+    },
+    {
+        "prompt_id": "183",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 1828,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.28"
+    },
+    {
+        "prompt_id": "184",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 4178,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.06"
+    },
+    {
+        "prompt_id": "185",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3316,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.83"
+    },
+    {
+        "prompt_id": "186",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3310,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.90"
+    },
+    {
+        "prompt_id": "187",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3234,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.57"
+    },
+    {
+        "prompt_id": "188",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2189,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.15"
+    },
+    {
+        "prompt_id": "189",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.40"
+    },
+    {
+        "prompt_id": "190",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2165,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.61"
+    },
+    {
+        "prompt_id": "191",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3932,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.90"
+    },
+    {
+        "prompt_id": "192",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 3081,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.26"
+    },
+    {
+        "prompt_id": "193",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2367,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.42"
+    },
+    {
+        "prompt_id": "194",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2190,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.49"
+    },
+    {
+        "prompt_id": "195",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2236,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.12"
+    },
+    {
+        "prompt_id": "196",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2493,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.02"
+    },
+    {
+        "prompt_id": "197",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2026,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.22"
+    },
+    {
+        "prompt_id": "198",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 2192,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.52"
+    },
+    {
+        "prompt_id": "199",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3599,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.46"
+    },
+    {
+        "prompt_id": "200",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind-Right",
+        "tokens_used": 3233,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.14"
+    },
+    {
+        "prompt_id": "201",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1620,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.82"
+    },
+    {
+        "prompt_id": "202",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 4951,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "34.38"
+    },
+    {
+        "prompt_id": "203",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1769,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "4.70"
+    },
+    {
+        "prompt_id": "204",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1823,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.20"
+    },
+    {
+        "prompt_id": "205",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1792,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "4.38"
+    },
+    {
+        "prompt_id": "206",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2113,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.14"
+    },
+    {
+        "prompt_id": "207",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1888,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.21"
+    },
+    {
+        "prompt_id": "208",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 4547,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "27.11"
+    },
+    {
+        "prompt_id": "209",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1726,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.46"
+    },
+    {
+        "prompt_id": "210",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2343,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.81"
+    },
+    {
+        "prompt_id": "211",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1908,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.22"
+    },
+    {
+        "prompt_id": "212",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2755,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.26"
+    },
+    {
+        "prompt_id": "213",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2396,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.08"
+    },
+    {
+        "prompt_id": "214",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1806,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.00"
+    },
+    {
+        "prompt_id": "215",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2143,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.87"
+    },
+    {
+        "prompt_id": "216",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 4990,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "34.75"
+    },
+    {
+        "prompt_id": "217",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2904,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.10"
+    },
+    {
+        "prompt_id": "218",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1970,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.12"
+    },
+    {
+        "prompt_id": "219",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2163,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.28"
+    },
+    {
+        "prompt_id": "220",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3530,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.74"
+    },
+    {
+        "prompt_id": "221",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2328,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.64"
+    },
+    {
+        "prompt_id": "222",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3841,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.67"
+    },
+    {
+        "prompt_id": "223",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2731,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.31"
+    },
+    {
+        "prompt_id": "224",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2015,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.36"
+    },
+    {
+        "prompt_id": "225",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3129,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.89"
+    },
+    {
+        "prompt_id": "226",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 3386,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "28.84"
+    },
+    {
+        "prompt_id": "227",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3657,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "26.54"
+    },
+    {
+        "prompt_id": "228",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1704,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.85"
+    },
+    {
+        "prompt_id": "229",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3361,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.25"
+    },
+    {
+        "prompt_id": "230",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2110,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.79"
+    },
+    {
+        "prompt_id": "231",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2016,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.47"
+    },
+    {
+        "prompt_id": "232",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 3321,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "28.16"
+    },
+    {
+        "prompt_id": "233",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2335,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.19"
+    },
+    {
+        "prompt_id": "234",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3625,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.39"
+    },
+    {
+        "prompt_id": "235",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2228,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.14"
+    },
+    {
+        "prompt_id": "236",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1658,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "4.18"
+    },
+    {
+        "prompt_id": "237",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3215,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.90"
+    },
+    {
+        "prompt_id": "238",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2639,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.59"
+    },
+    {
+        "prompt_id": "239",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 3697,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.13"
+    },
+    {
+        "prompt_id": "240",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1970,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.43"
+    },
+    {
+        "prompt_id": "241",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2259,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.45"
+    },
+    {
+        "prompt_id": "242",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2689,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.61"
+    },
+    {
+        "prompt_id": "243",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2383,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.75"
+    },
+    {
+        "prompt_id": "244",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2121,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.93"
+    },
+    {
+        "prompt_id": "245",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2618,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.26"
+    },
+    {
+        "prompt_id": "246",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 1953,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.86"
+    },
+    {
+        "prompt_id": "247",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2906,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.73"
+    },
+    {
+        "prompt_id": "248",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1592,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.98"
+    },
+    {
+        "prompt_id": "249",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2169,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.89"
+    },
+    {
+        "prompt_id": "250",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Behind",
+        "tokens_used": 2435,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.17"
+    },
+    {
+        "prompt_id": "251",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 4780,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "33.26"
+    },
+    {
+        "prompt_id": "252",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3342,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.17"
+    },
+    {
+        "prompt_id": "253",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2949,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.95"
+    },
+    {
+        "prompt_id": "254",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2318,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.55"
+    },
+    {
+        "prompt_id": "255",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3382,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.19"
+    },
+    {
+        "prompt_id": "256",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2938,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.53"
+    },
+    {
+        "prompt_id": "257",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3213,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.46"
+    },
+    {
+        "prompt_id": "258",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2358,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.21"
+    },
+    {
+        "prompt_id": "259",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2238,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.12"
+    },
+    {
+        "prompt_id": "260",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2868,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.06"
+    },
+    {
+        "prompt_id": "261",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1782,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "4.39"
+    },
+    {
+        "prompt_id": "262",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2253,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.81"
+    },
+    {
+        "prompt_id": "263",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3395,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.32"
+    },
+    {
+        "prompt_id": "264",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2702,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.13"
+    },
+    {
+        "prompt_id": "265",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2745,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.26"
+    },
+    {
+        "prompt_id": "266",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 1806,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.97"
+    },
+    {
+        "prompt_id": "267",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2711,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.91"
+    },
+    {
+        "prompt_id": "268",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3001,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.78"
+    },
+    {
+        "prompt_id": "269",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 1889,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.06"
+    },
+    {
+        "prompt_id": "270",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2685,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.62"
+    },
+    {
+        "prompt_id": "271",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1513,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.27"
+    },
+    {
+        "prompt_id": "272",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 1899,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.51"
+    },
+    {
+        "prompt_id": "273",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2099,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.95"
+    },
+    {
+        "prompt_id": "274",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3263,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.36"
+    },
+    {
+        "prompt_id": "275",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2309,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.67"
+    },
+    {
+        "prompt_id": "276",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3865,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "28.48"
+    },
+    {
+        "prompt_id": "277",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3261,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "17.19"
+    },
+    {
+        "prompt_id": "278",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2407,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.52"
+    },
+    {
+        "prompt_id": "279",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2001,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.45"
+    },
+    {
+        "prompt_id": "280",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2235,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.81"
+    },
+    {
+        "prompt_id": "281",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2291,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.82"
+    },
+    {
+        "prompt_id": "282",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3517,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.49"
+    },
+    {
+        "prompt_id": "283",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2227,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.32"
+    },
+    {
+        "prompt_id": "284",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3581,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.68"
+    },
+    {
+        "prompt_id": "285",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2355,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.81"
+    },
+    {
+        "prompt_id": "286",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2490,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.37"
+    },
+    {
+        "prompt_id": "287",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3898,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.93"
+    },
+    {
+        "prompt_id": "288",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3061,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.32"
+    },
+    {
+        "prompt_id": "289",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 1769,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.74"
+    },
+    {
+        "prompt_id": "290",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 3201,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.30"
+    },
+    {
+        "prompt_id": "291",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3079,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.55"
+    },
+    {
+        "prompt_id": "292",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3946,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "33.19"
+    },
+    {
+        "prompt_id": "293",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2324,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.53"
+    },
+    {
+        "prompt_id": "294",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 2893,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.56"
+    },
+    {
+        "prompt_id": "295",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.68"
+    },
+    {
+        "prompt_id": "296",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2236,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.35"
+    },
+    {
+        "prompt_id": "297",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3508,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.41"
+    },
+    {
+        "prompt_id": "298",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 1833,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.73"
+    },
+    {
+        "prompt_id": "299",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 3421,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.47"
+    },
+    {
+        "prompt_id": "300",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Right",
+        "tokens_used": 1770,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.00"
+    },
+    {
+        "prompt_id": "301",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2502,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.44"
+    },
+    {
+        "prompt_id": "302",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2155,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.52"
+    },
+    {
+        "prompt_id": "303",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2164,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.40"
+    },
+    {
+        "prompt_id": "304",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2099,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.19"
+    },
+    {
+        "prompt_id": "305",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2273,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.51"
+    },
+    {
+        "prompt_id": "306",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2097,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.39"
+    },
+    {
+        "prompt_id": "307",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2545,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.76"
+    },
+    {
+        "prompt_id": "308",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2217,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.74"
+    },
+    {
+        "prompt_id": "309",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3629,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.89"
+    },
+    {
+        "prompt_id": "310",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3983,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.19"
+    },
+    {
+        "prompt_id": "311",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2891,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.25"
+    },
+    {
+        "prompt_id": "312",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 4153,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "24.54"
+    },
+    {
+        "prompt_id": "313",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3482,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.32"
+    },
+    {
+        "prompt_id": "314",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3691,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "21.13"
+    },
+    {
+        "prompt_id": "315",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3992,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.03"
+    },
+    {
+        "prompt_id": "316",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 4910,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "32.66"
+    },
+    {
+        "prompt_id": "317",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3453,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.34"
+    },
+    {
+        "prompt_id": "318",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1705,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.53"
+    },
+    {
+        "prompt_id": "319",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3762,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.92"
+    },
+    {
+        "prompt_id": "320",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2104,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.50"
+    },
+    {
+        "prompt_id": "321",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2451,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.09"
+    },
+    {
+        "prompt_id": "322",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2818,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.37"
+    },
+    {
+        "prompt_id": "323",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2635,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.76"
+    },
+    {
+        "prompt_id": "324",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2640,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.29"
+    },
+    {
+        "prompt_id": "325",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2451,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.85"
+    },
+    {
+        "prompt_id": "326",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3941,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "25.51"
+    },
+    {
+        "prompt_id": "327",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2721,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.73"
+    },
+    {
+        "prompt_id": "328",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 5081,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "33.59"
+    },
+    {
+        "prompt_id": "329",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3168,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.79"
+    },
+    {
+        "prompt_id": "330",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 1988,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.86"
+    },
+    {
+        "prompt_id": "331",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2171,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.61"
+    },
+    {
+        "prompt_id": "332",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2946,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.03"
+    },
+    {
+        "prompt_id": "333",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2426,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.26"
+    },
+    {
+        "prompt_id": "334",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3633,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "20.60"
+    },
+    {
+        "prompt_id": "335",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2264,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.59"
+    },
+    {
+        "prompt_id": "336",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2107,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.36"
+    },
+    {
+        "prompt_id": "337",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2982,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.06"
+    },
+    {
+        "prompt_id": "338",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3302,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.00"
+    },
+    {
+        "prompt_id": "339",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 1886,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.29"
+    },
+    {
+        "prompt_id": "340",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2356,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.66"
+    },
+    {
+        "prompt_id": "341",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3012,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.67"
+    },
+    {
+        "prompt_id": "342",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3031,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.91"
+    },
+    {
+        "prompt_id": "343",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 1778,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.23"
+    },
+    {
+        "prompt_id": "344",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2088,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.00"
+    },
+    {
+        "prompt_id": "345",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2274,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.62"
+    },
+    {
+        "prompt_id": "346",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2314,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.99"
+    },
+    {
+        "prompt_id": "347",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2503,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.28"
+    },
+    {
+        "prompt_id": "348",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 3159,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.76"
+    },
+    {
+        "prompt_id": "349",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2060,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.60"
+    },
+    {
+        "prompt_id": "350",
+        "model": "o4-mini",
+        "raw_response": "###Answer: Left",
+        "tokens_used": 2791,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.36"
+    },
+    {
+        "prompt_id": "351",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3221,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.85"
+    },
+    {
+        "prompt_id": "352",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 4207,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "24.80"
+    },
+    {
+        "prompt_id": "353",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2822,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.89"
+    },
+    {
+        "prompt_id": "354",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1771,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.10"
+    },
+    {
+        "prompt_id": "355",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1982,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.81"
+    },
+    {
+        "prompt_id": "356",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3783,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "23.38"
+    },
+    {
+        "prompt_id": "357",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1736,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.17"
+    },
+    {
+        "prompt_id": "358",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2027,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.64"
+    },
+    {
+        "prompt_id": "359",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1899,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.20"
+    },
+    {
+        "prompt_id": "360",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1993,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.25"
+    },
+    {
+        "prompt_id": "361",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2238,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.56"
+    },
+    {
+        "prompt_id": "362",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2189,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.03"
+    },
+    {
+        "prompt_id": "363",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3223,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "16.36"
+    },
+    {
+        "prompt_id": "364",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2617,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.67"
+    },
+    {
+        "prompt_id": "365",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2976,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.15"
+    },
+    {
+        "prompt_id": "366",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2938,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.30"
+    },
+    {
+        "prompt_id": "367",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.49"
+    },
+    {
+        "prompt_id": "368",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2430,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.23"
+    },
+    {
+        "prompt_id": "369",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3945,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "22.02"
+    },
+    {
+        "prompt_id": "370",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1992,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "6.55"
+    },
+    {
+        "prompt_id": "371",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3076,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.57"
+    },
+    {
+        "prompt_id": "372",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2549,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.42"
+    },
+    {
+        "prompt_id": "373",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2853,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.04"
+    },
+    {
+        "prompt_id": "374",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2339,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "9.86"
+    },
+    {
+        "prompt_id": "375",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2885,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.29"
+    },
+    {
+        "prompt_id": "376",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 1676,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "4.04"
+    },
+    {
+        "prompt_id": "377",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1516,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "3.40"
+    },
+    {
+        "prompt_id": "378",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2630,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.01"
+    },
+    {
+        "prompt_id": "379",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2996,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.15"
+    },
+    {
+        "prompt_id": "380",
+        "model": "o4-mini",
+        "raw_response": "incorrect prompt",
+        "tokens_used": 2797,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.79"
+    },
+    {
+        "prompt_id": "381",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2660,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "13.14"
+    },
+    {
+        "prompt_id": "382",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3381,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.12"
+    },
+    {
+        "prompt_id": "383",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2130,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "7.89"
+    },
+    {
+        "prompt_id": "384",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2435,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "11.26"
+    },
+    {
+        "prompt_id": "385",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2100,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.53"
+    },
+    {
+        "prompt_id": "386",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3268,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.10"
+    },
+    {
+        "prompt_id": "387",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.79"
+    },
+    {
+        "prompt_id": "388",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2892,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.64"
+    },
+    {
+        "prompt_id": "389",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1697,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "4.67"
+    },
+    {
+        "prompt_id": "390",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2953,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "14.89"
+    },
+    {
+        "prompt_id": "391",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1445,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "2.46"
+    },
+    {
+        "prompt_id": "392",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3435,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "19.66"
+    },
+    {
+        "prompt_id": "393",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2776,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.36"
+    },
+    {
+        "prompt_id": "394",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2868,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "15.88"
+    },
+    {
+        "prompt_id": "395",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1699,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.38"
+    },
+    {
+        "prompt_id": "396",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 1837,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "5.36"
+    },
+    {
+        "prompt_id": "397",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2429,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "12.39"
+    },
+    {
+        "prompt_id": "398",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2092,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "8.70"
+    },
+    {
+        "prompt_id": "399",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 2337,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "10.06"
+    },
+    {
+        "prompt_id": "400",
+        "model": "o4-mini",
+        "raw_response": "###Answer: In-Front",
+        "tokens_used": 3304,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "high",
+        "time_taken": "18.62"
+    }
+]

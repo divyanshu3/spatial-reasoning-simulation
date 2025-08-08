@@ -1,0 +1,3202 @@
+[
+    {
+        "prompt_id": "1",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and is facing North. Dog2 is at (4,3) and is facing East. The direction from Bike1 to Dog2 is Right.\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "8.31"
+    },
+    {
+        "prompt_id": "2",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.12"
+    },
+    {
+        "prompt_id": "3",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing East. Dog3 is at (3,1) and facing West. Therefore, Dog3 is located Behind-Right.\n###Answer: Behind-Right",
+        "tokens_used": 562,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.93"
+    },
+    {
+        "prompt_id": "4",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-Front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.86"
+    },
+    {
+        "prompt_id": "5",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing North. Bike1 is at (3,3) and facing South. The South direction is towards the North. Therefore, Bike1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.32"
+    },
+    {
+        "prompt_id": "6",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.95"
+    },
+    {
+        "prompt_id": "7",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is at (3,1) and facing West. Bike2 is at (3,4) and facing South. Therefore, Bike2 is located in the Behind-Right direction.\n###Answer: Behind-Right",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.06"
+    },
+    {
+        "prompt_id": "8",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing West. Dog2 is at (4,3) and facing South. Therefore, Dog2 is located in the Right direction.\n###Answer: Right",
+        "tokens_used": 561,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.83"
+    },
+    {
+        "prompt_id": "9",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and is facing West. Dog3 is at (3,1) and is also facing West. Therefore, Dog3 is located Behind Horse1.\n\n###Answer: Behind",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.00"
+    },
+    {
+        "prompt_id": "10",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Child1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.61"
+    },
+    {
+        "prompt_id": "11",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing South. Dog3 is at (3,1) and facing South. Since both objects are facing the same direction, Dog3 is located Behind Train1.\n\n###Answer: Behind",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.09"
+    },
+    {
+        "prompt_id": "12",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing East. Bike1 is at (3,3) and facing South. To determine the direction Bike1 is located from Bike2's perspective, we need to consider the relative positions. Bike1 is to the South-West of Bike2. Therefore, Bike1 is located in the direction Behind-Left.\n\n###Answer: Behind-Left",
+        "tokens_used": 600,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.24"
+    },
+    {
+        "prompt_id": "13",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.87"
+    },
+    {
+        "prompt_id": "14",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.83"
+    },
+    {
+        "prompt_id": "15",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing West. Dog2 is at (4,3) and facing South.\n\nTo determine the direction Dog2 is located from Plane1's perspective, we need to consider the relative coordinates. Plane1 is at (4,2) and Dog2 is at (4,3).\n\nPlane1 is facing West, meaning it is looking East. Dog2 is at (4,3), which is South of Plane1's position.\n\n###Answer: Right",
+        "tokens_used": 625,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.33"
+    },
+    {
+        "prompt_id": "16",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing North. Bike1 is at (3,3) and facing East. The direction from Child1 to Bike1 is In-Front-Right.\n###Answer: In-Front-Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.28"
+    },
+    {
+        "prompt_id": "17",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing West. Dog2 is at (4,3) and facing West. Since both objects are facing the same direction, Dog2 is located Behind Train1.\n###Answer: Behind",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.17"
+    },
+    {
+        "prompt_id": "18",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.07"
+    },
+    {
+        "prompt_id": "19",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.42"
+    },
+    {
+        "prompt_id": "20",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing West. Bike1 is at (3,3) and facing East. The East direction is the opposite of West. Thus, Bike1 is located to the Right of Horse1.\n\n###Answer: Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.38"
+    },
+    {
+        "prompt_id": "21",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing West. Bike1 is at (3,3) and facing North.\n\nTo determine Bike1\u2019s location relative to Car1, we need to consider the directions. Car1 is facing West, so it's looking East. Bike1 is at (3,3) and facing North. Therefore, Bike1 is located in-front-right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 612,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.86"
+    },
+    {
+        "prompt_id": "22",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing East. Dog3 is at (3,1) and facing South. To determine the direction from Plane1's perspective, we need to find the relative direction of Dog3.\n\nPlane1 is at (4,2) and Dog3 is at (3,1). The x-axis increases to the East and the y-axis increases to the North.\n-   Plane1 is at x=4, y=2.\n-   Dog3 is at x=3, y=1.\n\nThe difference in x-coordinates is 3 - 4 = -1 (which means West).\nThe difference in y-coordinates is 1 - 2 = -1 (which means South).\n\nTherefore, Dog3 is located to the West and South of Plane1.\n\n###Answer: Behind-Left",
+        "tokens_used": 700,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "8.13"
+    },
+    {
+        "prompt_id": "23",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.30"
+    },
+    {
+        "prompt_id": "24",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing South. Man1 is at (0,3).\n\nLet's analyze the direction from Car1's perspective:\n\n*   North is the opposite of South.\n*   West is to the left of South.\n\nTherefore, Man1 is located to the West of Car1.\n\n###Answer: Left",
+        "tokens_used": 595,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.48"
+    },
+    {
+        "prompt_id": "25",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.84"
+    },
+    {
+        "prompt_id": "26",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing South. Man1 is at (0,3). The direction from Car1 to Man1 is North.\n\n###Answer: Behind",
+        "tokens_used": 557,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.75"
+    },
+    {
+        "prompt_id": "27",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.84"
+    },
+    {
+        "prompt_id": "28",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) facing East. Man1 is at (0,3) and facing North.\n\nTo determine the direction Man1 is located from Bike2's perspective:\n\n*   Man1's x-coordinate is 0, which is to the West of Bike2's x-coordinate (3).\n*   Man1's y-coordinate is 3, which is to the South of Bike2's y-coordinate (4).\n\nTherefore, Man1 is located Behind-Left.\n\n###Answer: Behind-Left",
+        "tokens_used": 638,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.85"
+    },
+    {
+        "prompt_id": "29",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front of Bike1.\n###Answer: In-Front-Right",
+        "tokens_used": 539,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.12"
+    },
+    {
+        "prompt_id": "30",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Car1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.39"
+    },
+    {
+        "prompt_id": "31",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and faces East. Dog1 is at (2,2) and faces East. Since both objects are facing East, Dog1 is located In-Front-Right.\n###Answer: In-Front-Right",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.16"
+    },
+    {
+        "prompt_id": "32",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing West. Bike2 is at (3,4) and facing East. The East direction is opposite to the West direction. Therefore, Bike2 is located to the Right of Man1.\n###Answer: Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.29"
+    },
+    {
+        "prompt_id": "33",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing East. Cat1 is at (0,0). To determine the direction of Cat1 relative to Bike1, we need to consider the coordinates.\n\nCat1's x-coordinate is 0, and Bike1's x-coordinate is 3. This means Cat1 is to the Left of Bike1.\nCat1's y-coordinate is 0, and Bike1's y-coordinate is 3. This means Cat1 is Behind Bike1.\n\nTherefore, Cat1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 643,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "6.18"
+    },
+    {
+        "prompt_id": "34",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) facing East. Cat1 is at (0,0) facing West. Therefore, Cat1 is located in the Front direction.\n###Answer: Front",
+        "tokens_used": 559,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.91"
+    },
+    {
+        "prompt_id": "35",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front-right.###Answer: In-Front-Right",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.98"
+    },
+    {
+        "prompt_id": "36",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing West. Plane1 is at (4,2) and facing North.\n\nTo determine the direction of Plane1 relative to Horse1, we need to consider the coordinates. Horse1 is at (3,0) and Plane1 is at (4,2).\n\nLet's analyze the directions:\n\n-   West: Horse1 is facing West.\n-   East: The x-coordinate of Plane1 (4) is greater than Horse1's x-coordinate (3), so Plane1 is to the East of Horse1.\n-   North: The y-coordinate of Plane1 (2) is equal to Horse1's y-coordinate (0), so Plane1 is in-front of Horse1.\n-   South: The y-coordinate of Plane1 (2) is not equal to Horse1's y-coordinate (0).\n-   Behind: The x-coordinate of Plane1 (4) is not equal to Horse1's x-coordinate (3).\n-   In-Front: The y-coordinate of Plane1 (2) is equal to Horse1's y-coordinate (0).\n-   Behind-Left: The x-coordinate of Plane1 (4) is not equal to Horse1's x-coordinate (3).\n-   In-Front-Right: The x-coordinate of Plane1 (4) is not equal to Horse1's x-coordinate (3).\n\nTherefore, Plane1 is located in-front of Horse1.\n\n###Answer: In-Front",
+        "tokens_used": 854,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "13.59"
+    },
+    {
+        "prompt_id": "37",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at (0,0) facing West. Plane1 is at (4,2) facing East.\n\nGiven Cat1's perspective, Plane1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 570,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.26"
+    },
+    {
+        "prompt_id": "38",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is at (2,2) and facing North. Dog3 is at (3,1) and facing West.\n\nTo determine the direction Dog3 is located from Dog1's perspective, we need to consider the relative coordinates. Dog1 is at (2,2) and Dog3 is at (3,1).\n\nDog1 is facing North, so it's looking towards increasing y-values. Dog3's x-coordinate is 3, which is greater than Dog1's x-coordinate of 2. Dog3's y-coordinate is 1, which is less than Dog1's y-coordinate of 2.\n\nTherefore, Dog3 is located to the Right and Behind Dog1.\n\n###Answer: Behind-Right",
+        "tokens_used": 680,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "6.42"
+    },
+    {
+        "prompt_id": "39",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) facing North. Horse1 is at (3,0) facing West.\n\nThe direction from Car1 to Horse1 is Right-Behind.\n\n###Answer: Right-Behind",
+        "tokens_used": 564,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.08"
+    },
+    {
+        "prompt_id": "40",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing South. Bike1 is at (3,3) and facing East.\n\nThe direction from Train1 to Bike1 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 570,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.00"
+    },
+    {
+        "prompt_id": "41",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing North. Bike2 is at (3,4) and facing East. The direction from Plane1 to Bike2 is In-Front-Right.\n###Answer: In-Front-Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.15"
+    },
+    {
+        "prompt_id": "42",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing East. Dog2 is at (4,3) and facing South. To determine Dog2's location relative to Horse1, we need to consider the directions. Horse1 is facing East, and Dog2 is facing South. Therefore, Dog2 is located Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 594,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.13"
+    },
+    {
+        "prompt_id": "43",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "44",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "45",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Bike2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.34"
+    },
+    {
+        "prompt_id": "46",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.95"
+    },
+    {
+        "prompt_id": "47",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing West. Man1 is at (0,3). To determine the direction Man1 is located from Bike2\u2019s perspective, we need to consider the relative positions. Bike2 is at (3,4) and facing West, meaning it is looking to the East. Man1 is at (0,3), which is to the South-East of Bike2.\n\n###Answer: In-Front-Right",
+        "tokens_used": 614,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.17"
+    },
+    {
+        "prompt_id": "48",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing South. Horse1 is at (3,0) and facing West. Therefore, Horse1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 558,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.93"
+    },
+    {
+        "prompt_id": "49",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing South. Horse1 is at (3,0) and facing East.\n\nTo determine Horse1's direction relative to Car1, we need to consider the coordinates and the facing directions. Car1 is at (1,2) and facing South, meaning it's looking North. Horse1 is at (3,0) and facing East.\n\nTherefore, Horse1 is located Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 620,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "5.04"
+    },
+    {
+        "prompt_id": "50",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Horse1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.43"
+    },
+    {
+        "prompt_id": "51",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing West. Cat1 is at (0,0) and facing West. Therefore, Cat1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 558,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.69"
+    },
+    {
+        "prompt_id": "52",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing North. Dog1 is at (2,2) and facing West.\n\nTo determine Dog1's direction relative to Horse1, we need to consider the directions they are facing. Horse1 is facing North, and Dog1 is facing West. Therefore, Dog1 is located to the Behind-Left of Horse1.\n\n###Answer: Behind-Left",
+        "tokens_used": 603,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.30"
+    },
+    {
+        "prompt_id": "53",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) facing South. Train1 is at (4,1) facing East.\n\nThe direction from Car1 to Train1 is North-East.\n\n###Answer: In-Front-Right",
+        "tokens_used": 566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.96"
+    },
+    {
+        "prompt_id": "54",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at (0,0) facing East. Car1 is at (1,2) facing West.\n\nThe direction from Cat1 to Car1 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.04"
+    },
+    {
+        "prompt_id": "55",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at (0,0) facing East. Bike2 is at (3,4) and facing West. The West direction is to the Left of Cat1.\n\n###Answer: Left",
+        "tokens_used": 560,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.76"
+    },
+    {
+        "prompt_id": "56",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing South. Horse1 is at (3,0) and also facing South. Since both are facing South, Horse1 is located Behind Car1.\n\n###Answer: Behind",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.09"
+    },
+    {
+        "prompt_id": "57",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.07"
+    },
+    {
+        "prompt_id": "58",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) facing South. Train1 is at (4,1) and facing West.\n\nChild1 is looking towards the North-East. Train1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.26"
+    },
+    {
+        "prompt_id": "59",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing West. Cat1 is at (0,0) and facing South. Therefore, Cat1 is located to the Left.\n###Answer: Left",
+        "tokens_used": 560,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.81"
+    },
+    {
+        "prompt_id": "60",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is at (2,2) facing East. Dog2 is at (4,3) facing West. Dog2 is located to the Right of Dog1.\n###Answer: Right",
+        "tokens_used": 559,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.25"
+    },
+    {
+        "prompt_id": "61",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing South. Dog3 is at (3,1) and facing South. Since they are both facing South, Dog3 is located Behind.\n###Answer: Behind",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.91"
+    },
+    {
+        "prompt_id": "62",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing West. Dog1 is at (2,2) and facing West. Since both objects are facing West, Dog1 is located Behind Plane1.\n###Answer: Behind",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.06"
+    },
+    {
+        "prompt_id": "63",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing South. Horse1 is at (3,0) and facing South. Since both are facing the same direction, Horse1 is located Behind.\n\n###Answer: Behind",
+        "tokens_used": 564,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.01"
+    },
+    {
+        "prompt_id": "64",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "65",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "66",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing South. Bike1 is at (3,3) and facing North. Therefore, Bike1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.12"
+    },
+    {
+        "prompt_id": "67",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) facing East. Bike1 is at (3,3) facing West.\n\nThe direction from Child1 to Bike1 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "68",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.02"
+    },
+    {
+        "prompt_id": "69",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing East. Dog2 is at (4,3) and facing South.\n\nThe direction from Child1 to Dog2 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 570,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.30"
+    },
+    {
+        "prompt_id": "70",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) facing South. Horse1 is at (3,0) and is facing North. Therefore, Horse1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 558,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.29"
+    },
+    {
+        "prompt_id": "71",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and Dog2 is at (4,3). Bike1 is facing East, and Dog2 is facing South. Therefore, Dog2 is located in the Right direction.\n###Answer: Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.30"
+    },
+    {
+        "prompt_id": "72",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.82"
+    },
+    {
+        "prompt_id": "73",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.81"
+    },
+    {
+        "prompt_id": "74",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing South. Dog1 is at (2,2) and facing South. Since both are facing the same direction, Dog1 is located In-Front of Child1.\n\n###Answer: In-Front",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.20"
+    },
+    {
+        "prompt_id": "75",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing East. Bike1 is at (3,3) and facing South.\n\nTo determine the direction of Bike1 relative to Child1, we need to consider the directions. Child1 is facing East, and Bike1 is at (3,3), which is South of Child1\u2019s position.\n\n###Answer: Right",
+        "tokens_used": 596,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.15"
+    },
+    {
+        "prompt_id": "76",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at (4,3) and facing West. Bike1 is at (3,3) and facing South.\n\nTo determine the direction of Bike1 relative to Dog2, we need to consider the directions. Dog2 is facing West, which means it's looking East. Bike1 is at (3,3) and facing South. This means Bike1 is located to the Right of Dog2.\n\n###Answer: Right",
+        "tokens_used": 610,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.68"
+    },
+    {
+        "prompt_id": "77",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Dog3.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "78",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing West. Cat1 is at (0,0) and facing West. Since both objects are facing the same direction, Cat1 is located Behind Horse1.\n###Answer: Behind",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.18"
+    },
+    {
+        "prompt_id": "79",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front.\n###Answer: In-Front",
+        "tokens_used": 534,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.90"
+    },
+    {
+        "prompt_id": "80",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.46"
+    },
+    {
+        "prompt_id": "81",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.98"
+    },
+    {
+        "prompt_id": "82",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.96"
+    },
+    {
+        "prompt_id": "83",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing South. Dog2 is at (4,3) and facing East. The direction from Bike1 to Dog2 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.14"
+    },
+    {
+        "prompt_id": "84",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front.\n###Answer: In-Front",
+        "tokens_used": 534,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.84"
+    },
+    {
+        "prompt_id": "85",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.\n###Answer: In-Front",
+        "tokens_used": 534,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.84"
+    },
+    {
+        "prompt_id": "86",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing East. Bike2 is at (3,4) and also facing East. Therefore, Bike2 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.06"
+    },
+    {
+        "prompt_id": "87",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing North. Dog1 is at (2,2) and facing North. Since both objects are facing North, Dog1 is located In-Front of Plane1.\n###Answer: In-Front",
+        "tokens_used": 570,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.39"
+    },
+    {
+        "prompt_id": "88",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Plane1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.96"
+    },
+    {
+        "prompt_id": "89",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing West. Dog3 is at (3,1) and facing South.\n\nTo determine the direction Dog3 is located from Bike2's perspective:\n\nBike2 is at (3,4) facing West.\nDog3 is at (3,1) facing South.\n\nThis means Dog3 is to the Right and Behind of Bike2.\n\n###Answer: Right-Behind",
+        "tokens_used": 609,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.65"
+    },
+    {
+        "prompt_id": "90",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing North. Cat1 is at (0,0) and facing West. Therefore, Cat1 is located in the Behind-Left direction.\n\n###Answer: Behind-Left",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.81"
+    },
+    {
+        "prompt_id": "91",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.73"
+    },
+    {
+        "prompt_id": "92",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "93",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "94",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing North. Dog3 is at (3,1) and also facing North. Since they are both facing North, Dog3 is located Behind Train1.\n\n###Answer: Behind",
+        "tokens_used": 566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.00"
+    },
+    {
+        "prompt_id": "95",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing North. Man1 is at (0,3) and facing East. The direction from Bike1 to Man1 is Right.\n###Answer: Right",
+        "tokens_used": 561,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.80"
+    },
+    {
+        "prompt_id": "96",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.86"
+    },
+    {
+        "prompt_id": "97",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.\n###Answer: In-Front",
+        "tokens_used": 534,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.75"
+    },
+    {
+        "prompt_id": "98",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front of Car1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.85"
+    },
+    {
+        "prompt_id": "99",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing West. Dog3 is at (3,1) and facing East. Therefore, Dog3 is located to the Right of Bike1.\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.92"
+    },
+    {
+        "prompt_id": "100",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.33"
+    },
+    {
+        "prompt_id": "101",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "102",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing West. Bike1 is at (3,3) and facing North.\n\nLet's analyze the relative positions. Child1 is to the southwest of Bike1. Since Child1 is facing West, Bike1 is located to the North of Child1.\n\n###Answer: Behind",
+        "tokens_used": 587,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.76"
+    },
+    {
+        "prompt_id": "103",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.96"
+    },
+    {
+        "prompt_id": "104",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.77"
+    },
+    {
+        "prompt_id": "105",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Child1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.85"
+    },
+    {
+        "prompt_id": "106",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front of Dog2.\n###Answer: In-Front-Right",
+        "tokens_used": 539,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.99"
+    },
+    {
+        "prompt_id": "107",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.81"
+    },
+    {
+        "prompt_id": "108",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing East. Dog3 is at (3,1) and facing West. Therefore, Dog3 is located Behind-Left.\n###Answer: Behind-Left",
+        "tokens_used": 562,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.83"
+    },
+    {
+        "prompt_id": "109",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing South. Bike2 is at (3,4) and facing West. The direction from Horse1 to Bike2 is Right.\n\n###Answer: Right",
+        "tokens_used": 561,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.80"
+    },
+    {
+        "prompt_id": "110",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.37"
+    },
+    {
+        "prompt_id": "111",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing South. Bike2 is at (3,4) and facing West.\n\nGiven Bike1\u2019s perspective, Bike2 is located in the Right direction.\n\n###Answer: Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.02"
+    },
+    {
+        "prompt_id": "112",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front of Dog3.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.93"
+    },
+    {
+        "prompt_id": "113",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.02"
+    },
+    {
+        "prompt_id": "114",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front.\n###Answer: In-Front",
+        "tokens_used": 534,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.82"
+    },
+    {
+        "prompt_id": "115",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) facing West. Bike1 is at (3,3) facing South. The direction from Man1 to Bike1 is Right.\n\n###Answer: Right",
+        "tokens_used": 559,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.75"
+    },
+    {
+        "prompt_id": "116",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing West. Bike1 is at (3,3) and facing East.\n\nTo determine the direction of Bike1 relative to Child1, we consider the direction of facing. Child1 is facing West, so the East direction is to the right of Child1. Thus, Bike1 is located in the Right direction.\n\n###Answer: Right",
+        "tokens_used": 599,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.53"
+    },
+    {
+        "prompt_id": "117",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.02"
+    },
+    {
+        "prompt_id": "118",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "119",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing East. Car1 is at (1,2) and also facing East. Therefore, Car1 is located in-front of Plane1.\n###Answer: In-Front-Right",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.14"
+    },
+    {
+        "prompt_id": "120",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing North. Dog3 is at (3,1) and facing East. Therefore, Dog3 is located to the Right of Bike1.\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.70"
+    },
+    {
+        "prompt_id": "121",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing East. Bike1 is at (3,3) and facing North. To determine the direction of Bike1 relative to Plane1, we need to consider the coordinates.\n\nPlane1's coordinates are (4,2) and Bike1's coordinates are (3,3).\n\n*   x-coordinate difference: 3 - 4 = -1\n*   y-coordinate difference: 3 - 2 = 1\n\nSince the x-coordinate is decreasing and the y-coordinate is increasing, Bike1 is located Behind Plane1.\n\n###Answer: Behind",
+        "tokens_used": 649,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "5.47"
+    },
+    {
+        "prompt_id": "122",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing West. Train1 is at (4,1) and facing East.\n\nTo determine Train1's direction relative to Child1, we consider the angles between their positions. Child1 is facing West, so it's at a 180-degree angle from Train1's direction (East).\n\nTherefore, Train1 is located Behind-Right.\n###Answer: Behind-Right",
+        "tokens_used": 612,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.86"
+    },
+    {
+        "prompt_id": "123",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing South. Bike2 is at (3,4) and facing South. Since both are facing the same direction, Bike2 is located Behind.\n###Answer: Behind",
+        "tokens_used": 564,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.28"
+    },
+    {
+        "prompt_id": "124",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.85"
+    },
+    {
+        "prompt_id": "125",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing East. Dog1 is at (2,2) and also facing East. Since both are facing the same direction, Dog1 is in-front of Horse1.\n###Answer: In-Front",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "126",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at (0,0) facing South. Dog1 is at (2,2) facing West. Therefore, Dog1 is located in the Behind-Left direction.\n\n###Answer: Behind-Left",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.94"
+    },
+    {
+        "prompt_id": "127",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing South. Bike2 is at (3,4) and facing East. The direction from Man1 to Bike2 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.44"
+    },
+    {
+        "prompt_id": "128",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Car1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "129",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing East. Bike2 is at (3,4) and facing West. The West direction is directly opposite to the East direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.91"
+    },
+    {
+        "prompt_id": "130",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing North. Horse1 is at (3,0) and facing South. Therefore, Horse1 is located Behind-Left.\n\n###Answer: Behind-Left",
+        "tokens_used": 562,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.45"
+    },
+    {
+        "prompt_id": "131",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing West. Dog3 is at (3,1) and facing South.\n\nTo determine the direction of Dog3 relative to Child1, we need to consider the directions. Child1 is facing West, so the positive x-axis points to the right from Child1's perspective. Dog3 is at (3,1), which means it is to the right and below Child1.\n\nTherefore, Dog3 is located in the Right direction.\n\n###Answer: Right",
+        "tokens_used": 626,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.30"
+    },
+    {
+        "prompt_id": "132",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front.\n###Answer: In-Front",
+        "tokens_used": 534,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.86"
+    },
+    {
+        "prompt_id": "133",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.88"
+    },
+    {
+        "prompt_id": "134",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.83"
+    },
+    {
+        "prompt_id": "135",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing West. Dog2 is at (4,3) and facing South.\n\nTo determine Dog2's direction relative to Bike2, we can consider the coordinates. Bike2 is at (3,4) and Dog2 is at (4,3).\n\n*   The x-coordinate of Dog2 (4) is greater than the x-coordinate of Bike2 (3), so Dog2 is to the Right of Bike2.\n*   The y-coordinate of Dog2 (3) is less than the y-coordinate of Bike2 (4), so Dog2 is Behind Bike2.\n\nTherefore, Dog2 is located to the Right and Behind Bike2.\n\n###Answer: Behind-Right",
+        "tokens_used": 676,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "6.55"
+    },
+    {
+        "prompt_id": "136",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.84"
+    },
+    {
+        "prompt_id": "137",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing North. Cat1 is at (0,0) and facing West. Therefore, Cat1 is located to the Behind-Left of Child1.\n\n###Answer: Behind-Left",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.08"
+    },
+    {
+        "prompt_id": "138",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.87"
+    },
+    {
+        "prompt_id": "139",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.00"
+    },
+    {
+        "prompt_id": "140",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing South. Dog2 is at (4,3) and facing North. The North direction is opposite to the South direction. Therefore, Dog2 is located to the Right of Horse1.\n###Answer: Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.78"
+    },
+    {
+        "prompt_id": "141",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and is facing North. Dog2 is at (4,3) and is facing West.\n\nTo determine the direction Dog2 is located from Car1's perspective, we need to consider the relative positions. Car1 is at (1,2) and Dog2 is at (4,3).\n\n*   Car1's facing direction: North\n*   Dog2's facing direction: West\n\nConsidering Car1's view, Dog2 is located to the Right.\n\n###Answer: Right",
+        "tokens_used": 633,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.51"
+    },
+    {
+        "prompt_id": "142",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) facing East. Horse1 is at (3,0) facing South.\n\nThe direction from Man1 to Horse1 is Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 564,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.93"
+    },
+    {
+        "prompt_id": "143",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.82"
+    },
+    {
+        "prompt_id": "144",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.83"
+    },
+    {
+        "prompt_id": "145",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing East. Horse1 is at (3,0) and facing East. Since both objects are facing the same direction, Horse1 is located in-front of Car1.\n###Answer: In-Front",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.26"
+    },
+    {
+        "prompt_id": "146",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) facing South. Cat1 is at (0,0) facing North. The North direction is opposite to the South direction. Therefore, Cat1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.33"
+    },
+    {
+        "prompt_id": "147",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing West. Bike2 is at (3,4) and facing North. The direction from Train1 to Bike2 is In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.59"
+    },
+    {
+        "prompt_id": "148",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing West. Man1 is at (0,3). To determine the direction Man1 is located from Train1\u2019s perspective, we need to consider the relative coordinates.\n\nTrain1\u2019s facing direction is West, meaning it is looking to the East. Man1\u2019s coordinates are (0,3). To reach Man1 from Train1\u2019s position, Man1 is located to the Left.\n\n###Answer: Left",
+        "tokens_used": 617,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.02"
+    },
+    {
+        "prompt_id": "149",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.92"
+    },
+    {
+        "prompt_id": "150",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing East. Plane1 is at (4,2) and facing East. Since both objects are facing East, Plane1 is located In-Front-Right.\n\n###Answer: In-Front-Right",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "8.01"
+    },
+    {
+        "prompt_id": "151",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and Dog2 is at (4,3). Horse1 is facing North and Dog2 is facing West.\n\nGiven Horse1's perspective, Dog2 is located in the Behind-Right direction.\n###Answer: Behind-Right",
+        "tokens_used": 576,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.73"
+    },
+    {
+        "prompt_id": "152",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at (0,0) and Dog2 is at (4,3). Cat1 is facing North. Dog2 is also facing North. Therefore, Dog2 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.25"
+    },
+    {
+        "prompt_id": "153",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.12"
+    },
+    {
+        "prompt_id": "154",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing West. Bike1 is at (3,3) and facing West. Since both are facing the same direction, Bike1 is located Behind Train1.\n###Answer: Behind",
+        "tokens_used": 566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.41"
+    },
+    {
+        "prompt_id": "155",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing South. Cat1 is at (0,0) and facing East. Therefore, Cat1 is located in-front of Car1.\n###Answer: In-Front",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.21"
+    },
+    {
+        "prompt_id": "156",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at (0,0) facing North. Dog2 is at (4,3) facing West.\n\nThe direction from Cat1 to Dog2 is South-West.\n\n###Answer: Behind-Right",
+        "tokens_used": 564,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.66"
+    },
+    {
+        "prompt_id": "157",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.05"
+    },
+    {
+        "prompt_id": "158",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.06"
+    },
+    {
+        "prompt_id": "159",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.96"
+    },
+    {
+        "prompt_id": "160",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Man1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.46"
+    },
+    {
+        "prompt_id": "161",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "162",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing South. Dog3 is at (3,1) and is facing West.\n\nFrom Dog3\u2019s perspective (3,1) facing West, Plane1 at (4,2) is to the Right.\n\n###Answer: Right",
+        "tokens_used": 581,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.54"
+    },
+    {
+        "prompt_id": "163",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing South. Dog1 is at (2,2) and facing West.\n\nTo determine Dog1's location from Train1's perspective, we need to consider the relative directions. Train1 is facing South, so it's \"below\" Dog1. Dog1 is facing West, meaning it's to the \"left\" of Train1.\n\nTherefore, Dog1 is located in the Behind-Left direction.\n\n###Answer: Behind-Left",
+        "tokens_used": 624,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.09"
+    },
+    {
+        "prompt_id": "164",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and is facing South. Dog1 is at (2,2) and is facing North. Therefore, Dog1 is located to the right of Horse1.\n\n###Answer: Right",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.97"
+    },
+    {
+        "prompt_id": "165",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at position (3,0) and is facing West. Dog2 is at (4,3) and is facing East. From Dog2\u2019s perspective, Horse1 is located to the Right.\n###Answer: Right",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.09"
+    },
+    {
+        "prompt_id": "166",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.95"
+    },
+    {
+        "prompt_id": "167",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and Dog3 is at (3,1). Dog3 is facing South. Therefore, Man1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 557,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.69"
+    },
+    {
+        "prompt_id": "168",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing North. Dog3 is at (3,1) and facing East.\n\nTo determine Dog3's location relative to Man1, we need to consider the directions. Man1 is facing North, so it's looking towards the upper-right. Dog3 is at (3,1) and facing East. Thus, Dog3 is located to the Right of Man1.\n\n###Answer: Right",
+        "tokens_used": 613,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.79"
+    },
+    {
+        "prompt_id": "169",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at position (0,3) and is facing South. Bike2 is at (3,4) and is facing East. Bike2's perspective is towards the North-East. Therefore, Man1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 580,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.64"
+    },
+    {
+        "prompt_id": "170",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.43"
+    },
+    {
+        "prompt_id": "171",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at (4,3) and facing East. Dog1 is at (2,2) and facing North. Therefore, Dog1 is located to the South-West of Dog2.\n\n###Answer: Behind-Left",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.04"
+    },
+    {
+        "prompt_id": "172",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at position (0,0) and Child1 is at position (2,3). Child1 is facing East. Therefore, Cat1 is located to the In-Front-Right of Child1.\n\n###Answer: In-Front-Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "173",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing South. Bike2 is at (3,4) and is facing South. Since both objects are facing South, they are at the same y-coordinate. The x-coordinate difference is 1. Therefore, Bike2 is located to the Right of Plane1.\n\n###Answer: Right",
+        "tokens_used": 590,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.85"
+    },
+    {
+        "prompt_id": "174",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing North. Horse1 is at (3,0) and also facing North. Therefore, Horse1 is located to the Right of Child1.\n\n###Answer: Right",
+        "tokens_used": 564,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.93"
+    },
+    {
+        "prompt_id": "175",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "176",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is at (2,2) and facing North. Dog3 is at (3,1) and facing West.\n\nTo determine the direction Dog3 is located from Dog1's perspective, we need to consider the relative positions. Dog1 is to the Southeast of Dog3. Therefore, Dog3 is located to the Northwest of Dog1.\n\n###Answer: Behind-Left",
+        "tokens_used": 599,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.27"
+    },
+    {
+        "prompt_id": "177",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at position (0,0) and Child1 is at position (2,3). Let's analyze the relative positions. Child1 is at (2,3) and Cat1 is at (0,0). Child1 is facing East, so it's looking towards the positive x-axis. Cat1 is at (0,0), which is to the West and South of Child1. Therefore, Cat1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 618,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.89"
+    },
+    {
+        "prompt_id": "178",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and is facing South. Car1 is at (1,2) and is facing West. Child1 is located to the In-Front-Right of Car1.\n###Answer: In-Front-Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "179",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at position (4,3) and Bike2 is at (3,4). Bike2 is facing North. Therefore, Dog2 is located to the Right of Bike2.\n\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.95"
+    },
+    {
+        "prompt_id": "180",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing South. Man1 is at (0,3) and is facing North. Therefore, from Plane1's perspective, Man1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 574,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.87"
+    },
+    {
+        "prompt_id": "181",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is at position (3,1) and Bike1 is at (3,3). Bike1 is facing North. Dog3 is also facing North. Thus, Dog3 is located to the Right of Bike1.\n\n###Answer: Right",
+        "tokens_used": 570,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.16"
+    },
+    {
+        "prompt_id": "182",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at position (3,0) and Bike1 is at (3,3). Bike1 is facing North. Therefore, Horse1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 558,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.75"
+    },
+    {
+        "prompt_id": "183",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front of Man1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "184",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "185",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing East. Dog1 is at (2,2) and is facing North. Therefore, from Plane1\u2019s perspective, Dog1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 574,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.31"
+    },
+    {
+        "prompt_id": "186",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing West. Dog2 is at (4,3) and is facing North.\n\nFrom Dog2's perspective, Plane1 is to the Right.\n\n###Answer: Right",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "187",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing West. Dog1 is at (2,2) and facing East. Therefore, Dog1 is located to the Right of Car1.\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.88"
+    },
+    {
+        "prompt_id": "188",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "189",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at position (4,3) and Bike1 is at (3,3). Bike1 is facing West. Therefore, from Bike1's perspective, Dog2 is located to the Right.\n###Answer: Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.03"
+    },
+    {
+        "prompt_id": "190",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and is facing North. Dog2 is at (4,3) and is facing East.\n\nFrom Dog2's perspective (4,3) facing East, Child1 at (2,3) is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 587,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.25"
+    },
+    {
+        "prompt_id": "191",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at position (4,1) and Plane1 is at (4,2). Plane1 is facing North, so it is looking towards the top-left direction. Train1 is at (4,1), which is to the east of Plane1.\n\n###Answer: Right",
+        "tokens_used": 579,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.48"
+    },
+    {
+        "prompt_id": "192",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing South. Dog1 is at (2,2) and is facing West.\n\nConsidering Dog1's perspective (West), Plane1's location to the North-East.\n\n###Answer: In-Front-Right",
+        "tokens_used": 578,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.42"
+    },
+    {
+        "prompt_id": "193",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "194",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at grid position (4,1) and is facing North. Dog2 is at (4,3) and is also facing North. Dog2 is to the south of Train1.\n\n###Answer: Behind-Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.03"
+    },
+    {
+        "prompt_id": "195",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at (4,3) and is facing East. Bike1 is at (3,3) and facing North. Therefore, from Dog2's perspective, Bike1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "196",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "197",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.81"
+    },
+    {
+        "prompt_id": "198",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "199",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and is facing North. Dog1 is at (2,2) and is facing North. Since both are facing North, Dog1 is located Right of Child1.\n\n###Answer: Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.03"
+    },
+    {
+        "prompt_id": "200",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing East. Dog1 is at (2,2) and facing South. Therefore, Dog1 is located in the direction Behind-Right.\n###Answer: Behind-Right",
+        "tokens_used": 566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.34"
+    },
+    {
+        "prompt_id": "201",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing East. Bike1 is at (3,3). Therefore, Bike1 is located to the West of Plane1.\n###Answer: Left",
+        "tokens_used": 559,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.71"
+    },
+    {
+        "prompt_id": "202",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located to the Right of Plane1.\n###Answer: Right",
+        "tokens_used": 535,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.87"
+    },
+    {
+        "prompt_id": "203",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing East. Bike2 is at (3,4) and also facing East. Therefore, Bike2 is located to the Behind-Right of Plane1.\n\n###Answer: Behind-Right",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.03"
+    },
+    {
+        "prompt_id": "204",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "205",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at position (0,3) and Plane1 is at (4,2). Plane1 is facing East. To determine the direction Man1 is in from Plane1's perspective, we need to consider the relative positions. Plane1's x-coordinate is 4, and Man1's x-coordinate is 0. This means Man1 is to the West of Plane1. Man1's y-coordinate is 3, and Plane1's y-coordinate is 2. This means Man1 is South of Plane1. Therefore, Man1 is located Behind-Left.\n\n###Answer: Behind-Left",
+        "tokens_used": 653,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "5.04"
+    },
+    {
+        "prompt_id": "206",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "207",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located to the In-Front-Right of Man1.\n###Answer: In-Front-Right",
+        "tokens_used": 543,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.15"
+    },
+    {
+        "prompt_id": "208",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.92"
+    },
+    {
+        "prompt_id": "209",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at position (1,2) and facing South. Man1 is at (0,3) and facing West.\n\nFrom Man1\u2019s perspective, Car1 is located in the In-Front-Right direction.\n\n###Answer: In-Front-Right",
+        "tokens_used": 576,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.38"
+    },
+    {
+        "prompt_id": "210",
+        "model": "gemma3:4b",
+        "raw_response": "Let's analyze the situation from Car1's perspective. Car1 is at (1,2) and facing South. Bike2 is at (3,4). To determine the direction Bike2 is located from Car1's viewpoint, we need to consider the relative positions.\n\nCar1 is at (1,2) and facing South. Bike2 is at (3,4). If Car1 is looking straight ahead, Bike2 would be to the Right.\n\n###Answer: Right",
+        "tokens_used": 621,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.35"
+    },
+    {
+        "prompt_id": "211",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.81"
+    },
+    {
+        "prompt_id": "212",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and Train1 is at (4,1). Train1 is facing East. From Train1's perspective, Child1 is located to the West.\n\n###Answer: Left",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.92"
+    },
+    {
+        "prompt_id": "213",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing North. Cat1 is at (0,0) and facing West. Therefore, Cat1 is located to the Right of Plane1.\n\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.85"
+    },
+    {
+        "prompt_id": "214",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.93"
+    },
+    {
+        "prompt_id": "215",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "216",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Horse1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "217",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3's perspective is at (3,1) and it's facing North. Cat1 is at (0,0) and facing East. Therefore, Cat1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.41"
+    },
+    {
+        "prompt_id": "218",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at (4,3) and facing North. Dog1 is at (2,2) and facing South. Therefore, Dog1 is located to the Right.\n###Answer: Right",
+        "tokens_used": 560,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.80"
+    },
+    {
+        "prompt_id": "219",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing East. Bike2 is at (3,4) and is facing West. From Bike2's perspective, Plane1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 574,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.29"
+    },
+    {
+        "prompt_id": "220",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and Dog3 is at (3,1). Man1 is facing West, so he is looking East. Dog3 is at (3,1), which is to the East and North of Man1.\n\n###Answer: Right",
+        "tokens_used": 575,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.03"
+    },
+    {
+        "prompt_id": "221",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is at (3,1) and facing North. Dog2 is at (4,3).\nTo determine the direction Dog2 is located from Dog3's perspective:\n- Dog3 is at (3,1) and facing North.\n- Dog2 is at (4,3).\nThe x-coordinate of Dog2 is greater than Dog3's, and the y-coordinate of Dog2 is greater than Dog3's. This means Dog2 is located to the Right and Ahead of Dog3.\n\n###Answer: In-Front-Right",
+        "tokens_used": 639,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.86"
+    },
+    {
+        "prompt_id": "222",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.96"
+    },
+    {
+        "prompt_id": "223",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is located to the Right of Cat1.\n###Answer: Right",
+        "tokens_used": 535,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.87"
+    },
+    {
+        "prompt_id": "224",
+        "model": "gemma3:4b",
+        "raw_response": "Dog1 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.96"
+    },
+    {
+        "prompt_id": "225",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "226",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "227",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "228",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and is facing East. Dog1 is at (2,2) and is facing East. Therefore, Dog1 is located to the Right of Man1.\n\n###Answer: Right",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.93"
+    },
+    {
+        "prompt_id": "229",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "230",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing East. Horse1 is at (3,0) and facing South.\n\nTo determine Horse1's location from Car1's perspective, we need to consider the relative directions. Car1 is facing East, so its right is Northeast. Horse1 is facing South. Therefore, Horse1 is located Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 603,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.80"
+    },
+    {
+        "prompt_id": "231",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at position (0,0) and Child1 is at (2,3). Let's analyze Child1's perspective. Child1 is facing South, which means it's looking North. Cat1 is at (0,0), which is to the North-West of Child1.\n\n###Answer: Behind-Left",
+        "tokens_used": 590,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.85"
+    },
+    {
+        "prompt_id": "232",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and is facing South. Man1 is at (0,3) and facing North. Therefore, from Bike2's perspective, Man1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 573,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.24"
+    },
+    {
+        "prompt_id": "233",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.95"
+    },
+    {
+        "prompt_id": "234",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "235",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.93"
+    },
+    {
+        "prompt_id": "236",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and is facing West. Dog1 is at (2,2) and is facing North. Therefore, from Horse1\u2019s perspective, Dog1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 574,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.28"
+    },
+    {
+        "prompt_id": "237",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.86"
+    },
+    {
+        "prompt_id": "238",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.98"
+    },
+    {
+        "prompt_id": "239",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "240",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at position (0,3) and Dog3 is at (3,1). Dog3 is facing West. Therefore, Man1 is located to the Right of Dog3.\n\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.31"
+    },
+    {
+        "prompt_id": "241",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at position (0,3) and Child1 is at (2,3). Child1 is facing North and Man1 is facing East. Therefore, Man1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.17"
+    },
+    {
+        "prompt_id": "242",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is at position (3,1) and is facing South. Bike1 is at (3,3) and is facing West. Bike1\u2019s perspective is West, so it\u2019s looking East. Dog3 is at (3,1) and is facing South. Therefore, Dog3 is located Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 594,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.00"
+    },
+    {
+        "prompt_id": "243",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and is facing South. Dog2 is at position (4,3) and is facing North.\n\nFrom Dog2's perspective, Child1 is located in the In-Front-Right direction.\n\n###Answer: In-Front-Right",
+        "tokens_used": 579,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.45"
+    },
+    {
+        "prompt_id": "244",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing West. Horse1 is at (3,0) and facing East. Therefore, Horse1 is located to the Right of Bike2.\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.87"
+    },
+    {
+        "prompt_id": "245",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and Dog2 is at (4,3). Child1 is facing East, and Dog2 is facing North. Therefore, Child1 is located to the Right of Dog2.\n\n###Answer: Right",
+        "tokens_used": 570,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.15"
+    },
+    {
+        "prompt_id": "246",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing North. Car1 is at (1,2) and facing South. Therefore, Car1 is located in-front of Plane1.\n###Answer: In-Front-Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.06"
+    },
+    {
+        "prompt_id": "247",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at position (1,2) and is facing West. Dog1 is at (2,2) and facing North.\n\nFrom Dog1's perspective (2,2) facing North, Car1 at (1,2) is to the right.\n\n###Answer: Right",
+        "tokens_used": 580,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.48"
+    },
+    {
+        "prompt_id": "248",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "249",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located at Behind-Right.\n###Answer:",
+        "tokens_used": 532,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.75"
+    },
+    {
+        "prompt_id": "250",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing North. Dog1 is at (2,2) and is facing East.\n\nThe relative position of Dog1 with respect to Plane1 is: Dog1 is to the South-West of Plane1.\n\n###Answer: Behind-Left",
+        "tokens_used": 580,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.97"
+    },
+    {
+        "prompt_id": "251",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front of Dog3.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "252",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing North. Dog1 is at (2,2) and is facing South.\nSince Dog1 is facing South, it is looking North. Therefore, Plane1 is located in-front of Dog1.\n\n###Answer: In-Front",
+        "tokens_used": 581,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.53"
+    },
+    {
+        "prompt_id": "253",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and facing West. Horse1 is at (3,0) and facing East. Therefore, from Bike1's perspective, Horse1 is located to the Right.\n###Answer: Right",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.02"
+    },
+    {
+        "prompt_id": "254",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at grid position (4,2) and is facing West. Dog2 is at (4,3) and is also facing West. Since both objects are facing the same direction, Plane1 is located Behind Dog2.\n\n###Answer: Behind",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.20"
+    },
+    {
+        "prompt_id": "255",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and is facing West. Bike1 is at (3,3) and is facing North. Therefore, Bike1 is located to the Right.\n###Answer: Right",
+        "tokens_used": 562,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.84"
+    },
+    {
+        "prompt_id": "256",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing South. Dog1 is at (2,2) and is also facing South. Since both objects are facing the same direction, Plane1 is located In-Front of Dog1.\n\n###Answer: In-Front",
+        "tokens_used": 576,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.41"
+    },
+    {
+        "prompt_id": "257",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing North. Cat1 is at (0,0) and facing South. Therefore, from Horse1's perspective, Cat1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.19"
+    },
+    {
+        "prompt_id": "258",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and facing East. Dog2 is at (4,3). Therefore, Dog2 is located to the Right of Plane1.\n###Answer: Right",
+        "tokens_used": 559,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.73"
+    },
+    {
+        "prompt_id": "259",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "260",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.43"
+    },
+    {
+        "prompt_id": "261",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "262",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and is facing West. Dog1 is at (2,2) and is facing South. Therefore, Dog1 is located to the In-Front-Right direction.\n###Answer: In-Front-Right",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.18"
+    },
+    {
+        "prompt_id": "263",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at position (4,3) and Bike2 is at (3,4). Bike2 is facing South. Therefore, Dog2 is located to the Right of Bike2.\n\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.91"
+    },
+    {
+        "prompt_id": "264",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at position (1,2) and is facing North. Bike2 is at (3,4) and is facing West.\n\nBike2's perspective is West, so it is looking East. Car1 is at (1,2) and is facing North. Therefore, Car1 is located in-front of Bike2.\n\n###Answer: In-Front",
+        "tokens_used": 597,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.11"
+    },
+    {
+        "prompt_id": "265",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "266",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and Plane1 is at (4,2). Plane1 is facing North. Therefore, Child1 is located to the In-Front-Right direction.\n\n###Answer: In-Front-Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.09"
+    },
+    {
+        "prompt_id": "267",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.79"
+    },
+    {
+        "prompt_id": "268",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at position (3,0) and is facing West. Dog2 is at (4,3) and is also facing West. Since both are facing West, Horse1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 566,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.99"
+    },
+    {
+        "prompt_id": "269",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at position (4,1) and is facing South. Car1 is at (1,2) and is also facing South. Since both are facing the same direction, Train1 is located Behind.\n###Answer: Behind",
+        "tokens_used": 568,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.07"
+    },
+    {
+        "prompt_id": "270",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing West. Cat1 is at (0,0) and facing North. Therefore, Plane1 is located in the Right direction.\n\n###Answer: Right",
+        "tokens_used": 562,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.31"
+    },
+    {
+        "prompt_id": "271",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.92"
+    },
+    {
+        "prompt_id": "272",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at position (4,1) and is facing West. Man1 is at (0,3) and is facing South.\n\nTo determine Train1's location from Man1's perspective, we need to consider the directions. Man1 is facing South, so he is looking North-West. Train1 is at (4,1) and Man1 is at (0,3).\n\nLet\u2019s calculate the angle between the North direction (from Man1\u2019s perspective) and the direction of Train1.\n\nSince Train1 is at (4,1) and facing West, it is at an angle of 270 degrees from the North direction.\n\nNow, let's consider Man1's facing direction (South). To find the direction Train1 is in relative to Man1, we need to find the direction from Man1's perspective.\n\nTrain1 is at (4,1) and Man1 is at (0,3). Let\u2019s calculate the difference in x and y coordinates:\nx_diff = 4 - 0 = 4\ny_diff = 1 - 3 = -2\n\nThe direction is North-West.\n\nNow, let's determine the primary direction. Considering Man1 is facing South, Train1 is located Behind-Left.\n\n###Answer: Behind-Left",
+        "tokens_used": 801,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "10.71"
+    },
+    {
+        "prompt_id": "273",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is at (1,2) and facing South. Dog3 is at (3,1) and facing West.\n\nTo determine Dog3's location from Car1's perspective, we need to consider the relative directions. Car1 is facing South, so its right is East. Dog3 is facing West. Therefore, Dog3 is located Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 603,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.41"
+    },
+    {
+        "prompt_id": "274",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and is facing West. Cat1 is at (0,0) and facing South. Therefore, Train1 is located to the In-Front-Right of Cat1.\n###Answer: In-Front-Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.20"
+    },
+    {
+        "prompt_id": "275",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at position (0,0) and facing South. Car1 is at (1,2) and facing West.\n\nCar1's perspective is West, meaning it's looking East. Cat1 is at (0,0), which is North of Car1.\n\n###Answer: Right",
+        "tokens_used": 583,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.59"
+    },
+    {
+        "prompt_id": "276",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.99"
+    },
+    {
+        "prompt_id": "277",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at grid position (4,1) and is facing South. Dog1 is at (2,2) and is facing South. Since both objects are facing the same direction, Train1 is located Behind Dog1.\n\n###Answer: Behind",
+        "tokens_used": 571,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.18"
+    },
+    {
+        "prompt_id": "278",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at grid position (4,1) and is facing East. Dog1 is at (2,2) and is facing South.\n\nDog1 is at (2,2) and is facing South. Therefore, Dog1 is looking towards the North-East direction. Train1 is at (4,1) and is facing East. This means Train1 is located Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 608,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.50"
+    },
+    {
+        "prompt_id": "279",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front-right.###Answer: In-Front-Right",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "280",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing North. Car1 is at (1,2). To determine Car1\u2019s direction relative to Train1, we consider the coordinates. Train1 is at (4,1) and Car1 is at (1,2). The x-coordinate difference is 4-1 = 3. The y-coordinate difference is 1-2 = -1. This means Car1 is to the Right and Below Train1.\n\n###Answer: Behind-Right",
+        "tokens_used": 625,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "4.64"
+    },
+    {
+        "prompt_id": "281",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing South. Dog1 is at (2,2) and is facing North. Therefore, Dog1 is located in-front of Plane1.\n###Answer: In-Front",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.03"
+    },
+    {
+        "prompt_id": "282",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and is facing East. Bike1 is at (3,3). Therefore, Bike1 is located to the West of Bike2.\n###Answer: Left",
+        "tokens_used": 560,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.77"
+    },
+    {
+        "prompt_id": "283",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is at (3,0) and facing West. Dog3 is at (3,1) and facing North. Therefore, Dog3 is located to the Right.\n###Answer: Right",
+        "tokens_used": 560,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.89"
+    },
+    {
+        "prompt_id": "284",
+        "model": "gemma3:4b",
+        "raw_response": "Cat1 is at position (0,0) and Man1 is at position (0,3). Man1 is facing East. Therefore, from Man1's perspective, Cat1 is located to the Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.20"
+    },
+    {
+        "prompt_id": "285",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at grid position (4,2) and is facing North. Dog1 is at (2,2) and is facing North. Since both objects are facing North, Plane1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 574,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.30"
+    },
+    {
+        "prompt_id": "286",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at position (0,3) and Dog2 is at (4,3). Dog2 is facing South, and Man1 is facing North. Therefore, Man1 is located in-front of Dog2.\n\n###Answer: In-Front",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.23"
+    },
+    {
+        "prompt_id": "287",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at position (4,2) and is facing North. Dog2 is at (4,3) and is facing East.\n\nBased on Dog2's perspective, Plane1 is located in the Behind-Right direction.\n###Answer: Behind-Right",
+        "tokens_used": 575,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.31"
+    },
+    {
+        "prompt_id": "288",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is at (4,2) and is facing South. Car1 is at (1,2) and is facing North. Therefore, Plane1 sees Car1 to its Front.\n\n###Answer: In-Front",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.95"
+    },
+    {
+        "prompt_id": "289",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at (3,4) and facing East. Bike1 is at (3,3) and facing South. Therefore, Bike1 is located in the direction Behind-Right.\n\n###Answer: Behind-Right",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.06"
+    },
+    {
+        "prompt_id": "290",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is located Behind###Answer: Behind",
+        "tokens_used": 528,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.12"
+    },
+    {
+        "prompt_id": "291",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front. ###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.78"
+    },
+    {
+        "prompt_id": "292",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and Dog2 is at (4,3). Dog2 is facing South. Child1 is facing North. Therefore, Child1 is located to the Right of Dog2.\n\n###Answer: Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.13"
+    },
+    {
+        "prompt_id": "293",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing North. Dog2 is at (4,3) and facing East. Therefore, Dog2 is located to the Right of Child1.\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.89"
+    },
+    {
+        "prompt_id": "294",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located in-front.###Answer: In-Front-Right",
+        "tokens_used": 535,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.86"
+    },
+    {
+        "prompt_id": "295",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located in-front of Dog1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.94"
+    },
+    {
+        "prompt_id": "296",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing West. Plane1 is at (4,2) and facing South. Therefore, from Train1's perspective, Plane1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.20"
+    },
+    {
+        "prompt_id": "297",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and facing West. Bike1 is at (3,3) and facing South. We need to determine the direction from Bike1's perspective.\n\nBike1 is at (3,3) facing South. This means it's looking North. Child1 is at (2,3). To get from (3,3) to (2,3), Child1 must move Left and Up.\n\nTherefore, Child1 is located in-front-left.\n###Answer: In-Front-Left",
+        "tokens_used": 633,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "5.04"
+    },
+    {
+        "prompt_id": "298",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.80"
+    },
+    {
+        "prompt_id": "299",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is located in-front.###Answer: In-Front-Right",
+        "tokens_used": 535,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.88"
+    },
+    {
+        "prompt_id": "300",
+        "model": "gemma3:4b",
+        "raw_response": "Bike1 is at (3,3) and is facing South. Man1 is at (0,3). The angle between their positions is 90 degrees. Therefore, Man1 is located in the Right direction.\n\n###Answer: Right",
+        "tokens_used": 569,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.80"
+    },
+    {
+        "prompt_id": "301",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is located to the Right.\n###Answer: Right",
+        "tokens_used": 532,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.81"
+    },
+    {
+        "prompt_id": "302",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing East. Dog2 is at (4,3). Therefore, Dog2 is located to the Right.\n###Answer: Right",
+        "tokens_used": 556,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.70"
+    },
+    {
+        "prompt_id": "303",
+        "model": "gemma3:4b",
+        "raw_response": "Car1 is located to the In-Front-Left direction.\n###Answer: In-Front-Left",
+        "tokens_used": 541,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.19"
+    },
+    {
+        "prompt_id": "304",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at (4,1) and facing North. Dog2 is at (4,3). The direction from Train1 to Dog2 is West.\n###Answer: Left",
+        "tokens_used": 557,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.81"
+    },
+    {
+        "prompt_id": "305",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at grid position (4,1) and is facing North. Dog2 is at (4,3) and is facing South. Dog2 is looking towards the North. Therefore, Train1 is located to the right of Dog2.\n\n###Answer: Right",
+        "tokens_used": 575,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.43"
+    },
+    {
+        "prompt_id": "306",
+        "model": "gemma3:4b",
+        "raw_response": "Horse1 is located in-front.###Answer: In-Front",
+        "tokens_used": 533,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.90"
+    },
+    {
+        "prompt_id": "307",
+        "model": "gemma3:4b",
+        "raw_response": "Bike2 is at position (3,4) and is facing West. Dog3 is at (3,1) and is facing North.\n\nFrom Dog3's perspective (3,1), Bike2 is at (3,4). Since Dog3 is facing North, it's looking South. Therefore, Bike2 is located Behind.\n\n###Answer: Behind",
+        "tokens_used": 595,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.02"
+    },
+    {
+        "prompt_id": "308",
+        "model": "gemma3:4b",
+        "raw_response": "Train1 is at grid position (4,1) and is facing South. Plane1 is at (4,2) and is also facing South. Since both are facing the same direction, Train1 is located In-Front of Plane1.\n\n###Answer: In-Front",
+        "tokens_used": 576,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.32"
+    },
+    {
+        "prompt_id": "309",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is located in-front-right.\n###Answer: In-Front-Right",
+        "tokens_used": 538,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.97"
+    },
+    {
+        "prompt_id": "310",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is located to the Right.\n###Answer: Right",
+        "tokens_used": 532,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.23"
+    },
+    {
+        "prompt_id": "311",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and Dog1 is at (2,2). Dog1 is facing North, so it is looking towards the top-left of its current location. Child1 is at (2,3), which is to the right and above Dog1.\n\n###Answer: Right-Ahead",
+        "tokens_used": 585,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.77"
+    },
+    {
+        "prompt_id": "312",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at (2,3) and facing South. Dog1 is at (2,2) and facing West. Therefore, Dog1 is located to the South-West of Child1.\n\n###Answer: Behind-Left",
+        "tokens_used": 567,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.31"
+    },
+    {
+        "prompt_id": "313",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at (0,3) and facing South. Cat1 is at (0,0) and facing East. Therefore, Cat1 is located in the Behind-Right direction.\n\n###Answer: Behind-Right",
+        "tokens_used": 565,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.05"
+    },
+    {
+        "prompt_id": "314",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is at position (0,3) and Dog2 is at (4,3). Dog2 is facing West, and Man1 is facing North. Therefore, Man1 is located in-front of Dog2.\n###Answer: In-Front",
+        "tokens_used": 572,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "2.38"
+    },
+    {
+        "prompt_id": "315",
+        "model": "gemma3:4b",
+        "raw_response": "Child1 is at position (2,3) and is facing South. Dog2 is at (4,3) and is facing West.\n\nDog2's perspective is West, which means it is looking East. Child1 is at (2,3) and is facing South. Therefore, Child1 is located to the Right of Dog2.\n\n###Answer: Right",
+        "tokens_used": 596,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.21"
+    },
+    {
+        "prompt_id": "316",
+        "model": "gemma3:4b",
+        "raw_response": "Let's analyze Horse1's position relative to Bike1's perspective. Bike1 is at (3,3) and facing South. Horse1 is at (3,0) and facing East.\n\nSince Bike1 is facing South, its right is Northeast. Horse1 is at (3,0) and facing East, so it is to the South-East of Bike1.\n\n###Answer: Right",
+        "tokens_used": 605,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "3.55"
+    },
+    {
+        "prompt_id": "317",
+        "model": "gemma3:4b",
+        "raw_response": "Dog2 is at position (4,3) and Child1 is at (2,3). Child1 is facing East. Therefore, Dog2 is located to the right of Child1.\n\n###Answer: Right",
+        "tokens_used": 563,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.94"
+    },
+    {
+        "prompt_id": "318",
+        "model": "gemma3:4b",
+        "raw_response": "Man1 is located in-front of Cat1.\n###Answer: In-Front",
+        "tokens_used": 537,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "0.98"
+    },
+    {
+        "prompt_id": "319",
+        "model": "gemma3:4b",
+        "raw_response": "Dog3 is located at (3,1) and Bike2 is at (3,4), both facing South. Therefore, Dog3 is located to the North of Bike2.\n\n###Answer: Behind",
+        "tokens_used": 561,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.90"
+    },
+    {
+        "prompt_id": "320",
+        "model": "gemma3:4b",
+        "raw_response": "Plane1 is located to the Right.###Answer: Right",
+        "tokens_used": 531,
+        "temperature_setting": 0.0,
+        "seed_setting": 42,
+        "complexity_level": "low",
+        "time_taken": "1.86"
+    }
+]

@@ -1,0 +1,35 @@
+{
+  "complexity_level": "low",
+  "prompt_templates": [
+    {
+      "id": "1",
+      "template_string": "Consider the observer, [AGENT_ID], who is at grid position ([AGENT_X],[AGENT_Y]) and is facing [AGENT_ORIENTATION]. [TARGET_OBJECT_ID], which is located at ([TARGET_OBJECT_X],[TARGET_OBJECT_Y]) and is facing [TARGET_OBJECT_ORIENTATION]. Based on [AGENT_ID]'s current perspective, in which primary direction is [TARGET_OBJECT_ID] located?",
+      "placeholders": [
+        "[AGENT_ID]",
+        "[AGENT_X]",
+        "[AGENT_Y]",
+        "[AGENT_ORIENTATION]",
+        "[TARGET_OBJECT_ID]",
+        "[TARGET_OBJECT_X]",
+        "[TARGET_OBJECT_Y]",
+        "[TARGET_OBJECT_ORIENTATION]"
+      ],
+      "expected_answer_format": "Spatial Direction (e.g., 'Left', 'Right', 'In front', 'Behind')"
+    },
+    {
+      "id": "2",
+      "template_string": "Consider the observer, [AGENT_ID], who is at grid position ([AGENT_X],[AGENT_Y]) and is facing [AGENT_ORIENTATION]. [TARGET_OBJECT_ID], which is located at ([TARGET_OBJECT_X],[TARGET_OBJECT_Y]) and is facing [TARGET_OBJECT_ORIENTATION]. Based on [TARGET_OBJECT_ID]'s current perspective, in which primary direction is [AGENT_ID] located?",
+      "placeholders": [
+        "[AGENT_ID]",
+        "[AGENT_X]",
+        "[AGENT_Y]",
+        "[AGENT_ORIENTATION]",
+        "[TARGET_OBJECT_ID]",
+        "[TARGET_OBJECT_X]",
+        "[TARGET_OBJECT_Y]",
+        "[TARGET_OBJECT_ORIENTATION]"
+      ],
+      "expected_answer_format": "Spatial Direction (e.g., 'Left', 'Right', 'In front', 'Behind')"
+    }
+  ]
+}

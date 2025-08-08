@@ -1,0 +1,401 @@
+prompt_id,model,expected_answer,predicted_answer,is_correct,complexity_level,time_taken,grid_size
+1,gpt-4.1,behind-left,incorrect prompt,0,high,2.95,10
+2,gpt-4.1,behind-left,incorrect prompt,0,high,2.78,10
+3,gpt-4.1,behind-left,left,0,high,6.44,10
+4,gpt-4.1,behind-left,right,0,high,5.15,10
+5,gpt-4.1,behind-left,incorrect prompt,0,high,2.34,10
+6,gpt-4.1,behind-left,right,0,high,6.31,10
+7,gpt-4.1,behind-left,incorrect prompt,0,high,1.98,10
+8,gpt-4.1,behind-left,right,0,high,7.93,10
+9,gpt-4.1,behind-left,incorrect prompt,0,high,2.15,10
+10,gpt-4.1,behind-left,incorrect prompt,0,high,1.38,10
+11,gpt-4.1,behind-left,incorrect prompt,0,high,2.15,10
+12,gpt-4.1,behind-left,right,0,high,5.06,10
+13,gpt-4.1,behind-left,left,0,high,5.32,10
+14,gpt-4.1,behind-left,incorrect prompt,0,high,3.12,10
+15,gpt-4.1,behind-left,incorrect prompt,0,high,1.58,10
+16,gpt-4.1,behind-left,right,0,high,5.44,10
+17,gpt-4.1,behind-left,in-front,0,high,5.18,10
+18,gpt-4.1,behind-left,left,0,high,11.10,10
+19,gpt-4.1,behind-left,left,0,high,6.96,10
+20,gpt-4.1,behind-left,incorrect prompt,0,high,3.54,10
+21,gpt-4.1,behind-left,incorrect prompt,0,high,4.20,10
+22,gpt-4.1,behind-left,right,0,high,6.10,10
+23,gpt-4.1,behind-left,right,0,high,5.92,10
+24,gpt-4.1,behind-left,left,0,high,4.98,10
+25,gpt-4.1,behind-left,right,0,high,3.64,10
+26,gpt-4.1,behind-left,left,0,high,5.21,10
+27,gpt-4.1,behind-left,left,0,high,4.06,10
+28,gpt-4.1,behind-left,right,0,high,6.60,10
+29,gpt-4.1,behind-left,behind,0,high,3.74,10
+30,gpt-4.1,behind-left,incorrect prompt,0,high,3.01,10
+31,gpt-4.1,behind-left,incorrect prompt,0,high,2.50,10
+32,gpt-4.1,behind-left,left,0,high,4.83,10
+33,gpt-4.1,behind-left,incorrect prompt,0,high,3.51,10
+34,gpt-4.1,behind-left,behind,0,high,4.31,10
+35,gpt-4.1,behind-left,incorrect prompt,0,high,7.19,10
+36,gpt-4.1,behind-left,right,0,high,3.68,10
+37,gpt-4.1,behind-left,behind,0,high,5.43,10
+38,gpt-4.1,behind-left,left,0,high,4.14,10
+39,gpt-4.1,behind-left,incorrect prompt,0,high,3.08,10
+40,gpt-4.1,behind-left,incorrect prompt,0,high,2.25,10
+41,gpt-4.1,behind-left,incorrect prompt,0,high,2.47,10
+42,gpt-4.1,behind-left,left,0,high,6.37,10
+43,gpt-4.1,behind-left,incorrect prompt,0,high,2.81,10
+44,gpt-4.1,behind-left,incorrect prompt,0,high,3.02,10
+45,gpt-4.1,behind-left,left,0,high,9.68,10
+46,gpt-4.1,behind-left,incorrect prompt,0,high,2.18,10
+47,gpt-4.1,behind-left,right,0,high,5.86,10
+48,gpt-4.1,behind-left,left,0,high,5.94,10
+49,gpt-4.1,behind-left,incorrect prompt,0,high,1.50,10
+50,gpt-4.1,behind-left,right,0,high,10.73,10
+51,gpt-4.1,in-front-left,incorrect prompt,0,high,4.87,10
+52,gpt-4.1,in-front-left,left,0,high,7.93,10
+53,gpt-4.1,in-front-left,right,0,high,5.69,10
+54,gpt-4.1,in-front-left,incorrect prompt,0,high,2.72,10
+55,gpt-4.1,in-front-left,right,0,high,4.70,10
+56,gpt-4.1,in-front-left,incorrect prompt,0,high,1.65,10
+57,gpt-4.1,in-front-left,right,0,high,3.79,10
+58,gpt-4.1,in-front-left,right,0,high,6.91,10
+59,gpt-4.1,in-front-left,incorrect prompt,0,high,5.04,10
+60,gpt-4.1,in-front-left,right,0,high,3.89,10
+61,gpt-4.1,in-front-left,right,0,high,8.04,10
+62,gpt-4.1,in-front-left,incorrect prompt,0,high,2.03,10
+63,gpt-4.1,in-front-left,incorrect prompt,0,high,6.60,10
+64,gpt-4.1,in-front-left,left,0,high,4.20,10
+65,gpt-4.1,in-front-left,left,0,high,6.56,10
+66,gpt-4.1,in-front-left,incorrect prompt,0,high,3.23,10
+67,gpt-4.1,in-front-left,right,0,high,6.50,10
+68,gpt-4.1,in-front-left,incorrect prompt,0,high,1.59,10
+69,gpt-4.1,in-front-left,incorrect prompt,0,high,2.46,10
+70,gpt-4.1,in-front-left,left,0,high,4.62,10
+71,gpt-4.1,in-front-left,incorrect prompt,0,high,3.19,10
+72,gpt-4.1,in-front-left,incorrect prompt,0,high,4.51,10
+73,gpt-4.1,in-front-left,incorrect prompt,0,high,2.63,10
+74,gpt-4.1,in-front-left,left,0,high,6.16,10
+75,gpt-4.1,in-front-left,left,0,high,4.07,10
+76,gpt-4.1,in-front-left,right,0,high,6.82,10
+77,gpt-4.1,in-front-left,incorrect prompt,0,high,3.02,10
+78,gpt-4.1,in-front-left,left,0,high,8.54,10
+79,gpt-4.1,in-front-left,right,0,high,4.67,10
+80,gpt-4.1,in-front-left,right,0,high,9.56,10
+81,gpt-4.1,in-front-left,incorrect prompt,0,high,8.40,10
+82,gpt-4.1,in-front-left,incorrect prompt,0,high,4.72,10
+83,gpt-4.1,in-front-left,incorrect prompt,0,high,2.87,10
+84,gpt-4.1,in-front-left,left,0,high,6.49,10
+85,gpt-4.1,in-front-left,incorrect prompt,0,high,1.86,10
+86,gpt-4.1,in-front-left,left,0,high,7.45,10
+87,gpt-4.1,in-front-left,left,0,high,6.14,10
+88,gpt-4.1,in-front-left,right,0,high,5.61,10
+89,gpt-4.1,in-front-left,incorrect prompt,0,high,1.89,10
+90,gpt-4.1,in-front-left,right,0,high,4.61,10
+91,gpt-4.1,in-front-left,incorrect prompt,0,high,2.49,10
+92,gpt-4.1,in-front-left,left,0,high,4.68,10
+93,gpt-4.1,in-front-left,incorrect prompt,0,high,5.27,10
+94,gpt-4.1,in-front-left,left,0,high,4.04,10
+95,gpt-4.1,in-front-left,in-front,0,high,5.11,10
+96,gpt-4.1,in-front-left,left,0,high,9.20,10
+97,gpt-4.1,in-front-left,incorrect prompt,0,high,2.83,10
+98,gpt-4.1,in-front-left,left,0,high,6.28,10
+99,gpt-4.1,in-front-left,incorrect prompt,0,high,2.27,10
+100,gpt-4.1,in-front-left,incorrect prompt,0,high,1.78,10
+101,gpt-4.1,in-front-right,left,0,high,6.49,10
+102,gpt-4.1,in-front-right,right,0,high,4.80,10
+103,gpt-4.1,in-front-right,right,0,high,3.21,10
+104,gpt-4.1,in-front-right,incorrect prompt,0,high,2.12,10
+105,gpt-4.1,in-front-right,incorrect prompt,0,high,3.53,10
+106,gpt-4.1,in-front-right,incorrect prompt,0,high,1.65,10
+107,gpt-4.1,in-front-right,left,0,high,4.65,10
+108,gpt-4.1,in-front-right,incorrect prompt,0,high,3.22,10
+109,gpt-4.1,in-front-right,incorrect prompt,0,high,3.02,10
+110,gpt-4.1,in-front-right,incorrect prompt,0,high,2.04,10
+111,gpt-4.1,in-front-right,left,0,high,3.46,10
+112,gpt-4.1,in-front-right,left,0,high,4.84,10
+113,gpt-4.1,in-front-right,right,0,high,6.25,10
+114,gpt-4.1,in-front-right,incorrect prompt,0,high,3.38,10
+115,gpt-4.1,in-front-right,right,0,high,4.30,10
+116,gpt-4.1,in-front-right,right,0,high,10.14,10
+117,gpt-4.1,in-front-right,right,0,high,7.27,10
+118,gpt-4.1,in-front-right,incorrect prompt,0,high,2.13,10
+119,gpt-4.1,in-front-right,right,0,high,8.87,10
+120,gpt-4.1,in-front-right,left,0,high,2.68,10
+121,gpt-4.1,in-front-right,left,0,high,5.87,10
+122,gpt-4.1,in-front-right,incorrect prompt,0,high,6.20,10
+123,gpt-4.1,in-front-right,left,0,high,5.27,10
+124,gpt-4.1,in-front-right,right,0,high,4.91,10
+125,gpt-4.1,in-front-right,incorrect prompt,0,high,2.39,10
+126,gpt-4.1,in-front-right,left,0,high,4.79,10
+127,gpt-4.1,in-front-right,incorrect prompt,0,high,2.68,10
+128,gpt-4.1,in-front-right,incorrect prompt,0,high,1.60,10
+129,gpt-4.1,in-front-right,incorrect prompt,0,high,3.73,10
+130,gpt-4.1,in-front-right,incorrect prompt,0,high,1.84,10
+131,gpt-4.1,in-front-right,right,0,high,5.62,10
+132,gpt-4.1,in-front-right,right,0,high,8.36,10
+133,gpt-4.1,in-front-right,right,0,high,4.00,10
+134,gpt-4.1,in-front-right,left,0,high,3.96,10
+135,gpt-4.1,in-front-right,right,0,high,6.20,10
+136,gpt-4.1,in-front-right,left,0,high,4.82,10
+137,gpt-4.1,in-front-right,right,0,high,4.75,10
+138,gpt-4.1,in-front-right,incorrect prompt,0,high,4.97,10
+139,gpt-4.1,in-front-right,incorrect prompt,0,high,4.80,10
+140,gpt-4.1,in-front-right,incorrect prompt,0,high,2.43,10
+141,gpt-4.1,in-front-right,left,0,high,10.08,10
+142,gpt-4.1,in-front-right,left,0,high,5.08,10
+143,gpt-4.1,in-front-right,left,0,high,7.45,10
+144,gpt-4.1,in-front-right,left,0,high,3.14,10
+145,gpt-4.1,in-front-right,right,0,high,5.21,10
+146,gpt-4.1,in-front-right,right,0,high,4.80,10
+147,gpt-4.1,in-front-right,incorrect prompt,0,high,4.13,10
+148,gpt-4.1,in-front-right,left,0,high,10.27,10
+149,gpt-4.1,in-front-right,behind,0,high,6.10,10
+150,gpt-4.1,in-front-right,right,0,high,5.63,10
+151,gpt-4.1,behind-right,right,0,high,5.54,10
+152,gpt-4.1,behind-right,incorrect prompt,0,high,3.12,10
+153,gpt-4.1,behind-right,incorrect prompt,0,high,2.87,10
+154,gpt-4.1,behind-right,left,0,high,5.28,10
+155,gpt-4.1,behind-right,incorrect prompt,0,high,3.52,10
+156,gpt-4.1,behind-right,left,0,high,4.97,10
+157,gpt-4.1,behind-right,left,0,high,3.76,10
+158,gpt-4.1,behind-right,left,0,high,7.17,10
+159,gpt-4.1,behind-right,incorrect prompt,0,high,3.95,10
+160,gpt-4.1,behind-right,incorrect prompt,0,high,3.16,10
+161,gpt-4.1,behind-right,left,0,high,8.66,10
+162,gpt-4.1,behind-right,right,0,high,5.33,10
+163,gpt-4.1,behind-right,incorrect prompt,0,high,2.00,10
+164,gpt-4.1,behind-right,left,0,high,6.27,10
+165,gpt-4.1,behind-right,incorrect prompt,0,high,3.60,10
+166,gpt-4.1,behind-right,left,0,high,4.10,10
+167,gpt-4.1,behind-right,left,0,high,4.94,10
+168,gpt-4.1,behind-right,left,0,high,5.31,10
+169,gpt-4.1,behind-right,right,0,high,4.18,10
+170,gpt-4.1,behind-right,incorrect prompt,0,high,2.42,10
+171,gpt-4.1,behind-right,left,0,high,7.31,10
+172,gpt-4.1,behind-right,left,0,high,5.82,10
+173,gpt-4.1,behind-right,incorrect prompt,0,high,1.68,10
+174,gpt-4.1,behind-right,incorrect prompt,0,high,1.90,10
+175,gpt-4.1,behind-right,left,0,high,4.83,10
+176,gpt-4.1,behind-right,left,0,high,8.89,10
+177,gpt-4.1,behind-right,right,0,high,6.72,10
+178,gpt-4.1,behind-right,right,0,high,4.87,10
+179,gpt-4.1,behind-right,left,0,high,2.71,10
+180,gpt-4.1,behind-right,incorrect prompt,0,high,3.08,10
+181,gpt-4.1,behind-right,incorrect prompt,0,high,2.15,10
+182,gpt-4.1,behind-right,left,0,high,7.44,10
+183,gpt-4.1,behind-right,right,0,high,4.10,10
+184,gpt-4.1,behind-right,incorrect prompt,0,high,2.12,10
+185,gpt-4.1,behind-right,incorrect prompt,0,high,1.63,10
+186,gpt-4.1,behind-right,incorrect prompt,0,high,1.60,10
+187,gpt-4.1,behind-right,incorrect prompt,0,high,3.17,10
+188,gpt-4.1,behind-right,incorrect prompt,0,high,2.25,10
+189,gpt-4.1,behind-right,incorrect prompt,0,high,2.40,10
+190,gpt-4.1,behind-right,left,0,high,5.53,10
+191,gpt-4.1,behind-right,incorrect prompt,0,high,3.33,10
+192,gpt-4.1,behind-right,incorrect prompt,0,high,5.68,10
+193,gpt-4.1,behind-right,incorrect prompt,0,high,2.92,10
+194,gpt-4.1,behind-right,incorrect prompt,0,high,2.66,10
+195,gpt-4.1,behind-right,right,0,high,4.56,10
+196,gpt-4.1,behind-right,left,0,high,4.97,10
+197,gpt-4.1,behind-right,incorrect prompt,0,high,2.96,10
+198,gpt-4.1,behind-right,incorrect prompt,0,high,3.00,10
+199,gpt-4.1,behind-right,right,0,high,7.02,10
+200,gpt-4.1,behind-right,incorrect prompt,0,high,3.07,10
+201,gpt-4.1,behind,incorrect prompt,0,high,1.74,10
+202,gpt-4.1,behind,incorrect prompt,0,high,1.68,10
+203,gpt-4.1,behind,behind,1,high,3.26,10
+204,gpt-4.1,behind,right,0,high,3.35,10
+205,gpt-4.1,behind,incorrect prompt,0,high,1.67,10
+206,gpt-4.1,behind,left,0,high,4.14,10
+207,gpt-4.1,behind,right,0,high,3.65,10
+208,gpt-4.1,behind,incorrect prompt,0,high,6.23,10
+209,gpt-4.1,behind,right,0,high,4.16,10
+210,gpt-4.1,behind,right,0,high,4.91,10
+211,gpt-4.1,behind,right,0,high,4.58,10
+212,gpt-4.1,behind,left,0,high,5.55,10
+213,gpt-4.1,behind,incorrect prompt,0,high,3.95,10
+214,gpt-4.1,behind,right,0,high,4.44,10
+215,gpt-4.1,behind,behind,1,high,3.26,10
+216,gpt-4.1,behind,incorrect prompt,0,high,2.20,10
+217,gpt-4.1,behind,incorrect prompt,0,high,2.64,10
+218,gpt-4.1,behind,incorrect prompt,0,high,1.97,10
+219,gpt-4.1,behind,incorrect prompt,0,high,2.52,10
+220,gpt-4.1,behind,left,0,high,7.42,10
+221,gpt-4.1,behind,right,0,high,6.37,10
+222,gpt-4.1,behind,right,0,high,10.30,10
+223,gpt-4.1,behind,left,0,high,6.40,10
+224,gpt-4.1,behind,in-front-right,0,high,3.78,10
+225,gpt-4.1,behind,incorrect prompt,0,high,1.40,10
+226,gpt-4.1,behind,incorrect prompt,0,high,2.16,10
+227,gpt-4.1,behind,incorrect prompt,0,high,1.99,10
+228,gpt-4.1,behind,right,0,high,3.35,10
+229,gpt-4.1,behind,incorrect prompt,0,high,1.96,10
+230,gpt-4.1,behind,incorrect prompt,0,high,1.64,10
+231,gpt-4.1,behind,incorrect prompt,0,high,3.26,10
+232,gpt-4.1,behind,incorrect prompt,0,high,3.84,10
+233,gpt-4.1,behind,incorrect prompt,0,high,1.97,10
+234,gpt-4.1,behind,left,0,high,5.71,10
+235,gpt-4.1,behind,left,0,high,5.59,10
+236,gpt-4.1,behind,incorrect prompt,0,high,1.47,10
+237,gpt-4.1,behind,incorrect prompt,0,high,3.45,10
+238,gpt-4.1,behind,incorrect prompt,0,high,1.88,10
+239,gpt-4.1,behind,right,0,high,7.76,10
+240,gpt-4.1,behind,left,0,high,2.83,10
+241,gpt-4.1,behind,left,0,high,3.74,10
+242,gpt-4.1,behind,incorrect prompt,0,high,1.53,10
+243,gpt-4.1,behind,left,0,high,3.58,10
+244,gpt-4.1,behind,left,0,high,3.36,10
+245,gpt-4.1,behind,incorrect prompt,0,high,1.82,10
+246,gpt-4.1,behind,incorrect prompt,0,high,2.07,10
+247,gpt-4.1,behind,incorrect prompt,0,high,1.54,10
+248,gpt-4.1,behind,incorrect prompt,0,high,1.59,10
+249,gpt-4.1,behind,incorrect prompt,0,high,1.74,10
+250,gpt-4.1,behind,left,0,high,5.76,10
+251,gpt-4.1,right,incorrect prompt,0,high,3.61,10
+252,gpt-4.1,right,left,0,high,7.51,10
+253,gpt-4.1,right,incorrect prompt,0,high,4.20,10
+254,gpt-4.1,right,incorrect prompt,0,high,3.77,10
+255,gpt-4.1,right,incorrect prompt,0,high,4.42,10
+256,gpt-4.1,right,incorrect prompt,0,high,2.00,10
+257,gpt-4.1,right,right,1,high,4.55,10
+258,gpt-4.1,right,incorrect prompt,0,high,4.51,10
+259,gpt-4.1,right,right,1,high,5.06,10
+260,gpt-4.1,right,incorrect prompt,0,high,2.99,10
+261,gpt-4.1,right,incorrect prompt,0,high,2.34,10
+262,gpt-4.1,right,left,0,high,3.54,10
+263,gpt-4.1,right,left,0,high,7.50,10
+264,gpt-4.1,right,incorrect prompt,0,high,3.30,10
+265,gpt-4.1,right,incorrect prompt,0,high,3.69,10
+266,gpt-4.1,right,right,1,high,3.11,10
+267,gpt-4.1,right,incorrect prompt,0,high,3.29,10
+268,gpt-4.1,right,right,1,high,8.80,10
+269,gpt-4.1,right,left,0,high,3.54,10
+270,gpt-4.1,right,incorrect prompt,0,high,1.47,10
+271,gpt-4.1,right,incorrect prompt,0,high,1.81,10
+272,gpt-4.1,right,left,0,high,4.97,10
+273,gpt-4.1,right,left,0,high,4.90,10
+274,gpt-4.1,right,incorrect prompt,0,high,3.75,10
+275,gpt-4.1,right,right,1,high,5.27,10
+276,gpt-4.1,right,incorrect prompt,0,high,3.09,10
+277,gpt-4.1,right,left,0,high,4.44,10
+278,gpt-4.1,right,incorrect prompt,0,high,1.78,10
+279,gpt-4.1,right,left,0,high,4.21,10
+280,gpt-4.1,right,incorrect prompt,0,high,2.51,10
+281,gpt-4.1,right,left,0,high,5.31,10
+282,gpt-4.1,right,incorrect prompt,0,high,4.03,10
+283,gpt-4.1,right,right,1,high,4.59,10
+284,gpt-4.1,right,right,1,high,3.91,10
+285,gpt-4.1,right,incorrect prompt,0,high,2.39,10
+286,gpt-4.1,right,incorrect prompt,0,high,1.49,10
+287,gpt-4.1,right,incorrect prompt,0,high,2.04,10
+288,gpt-4.1,right,incorrect prompt,0,high,2.40,10
+289,gpt-4.1,right,left,0,high,3.69,10
+290,gpt-4.1,right,incorrect prompt,0,high,5.82,10
+291,gpt-4.1,right,incorrect prompt,0,high,1.81,10
+292,gpt-4.1,right,left,0,high,8.81,10
+293,gpt-4.1,right,incorrect prompt,0,high,2.09,10
+294,gpt-4.1,right,left,0,high,5.60,10
+295,gpt-4.1,right,incorrect prompt,0,high,1.91,10
+296,gpt-4.1,right,incorrect prompt,0,high,5.16,10
+297,gpt-4.1,right,incorrect prompt,0,high,1.86,10
+298,gpt-4.1,right,right,1,high,3.05,10
+299,gpt-4.1,right,left,0,high,7.88,10
+300,gpt-4.1,right,left,0,high,2.49,10
+301,gpt-4.1,left,incorrect prompt,0,high,2.18,10
+302,gpt-4.1,left,left,1,high,3.23,10
+303,gpt-4.1,left,left,1,high,4.63,10
+304,gpt-4.1,left,left,1,high,4.76,10
+305,gpt-4.1,left,right,0,high,6.52,10
+306,gpt-4.1,left,right,0,high,3.00,10
+307,gpt-4.1,left,left,1,high,4.17,10
+308,gpt-4.1,left,left,1,high,3.67,10
+309,gpt-4.1,left,incorrect prompt,0,high,3.40,10
+310,gpt-4.1,left,incorrect prompt,0,high,1.41,10
+311,gpt-4.1,left,incorrect prompt,0,high,3.82,10
+312,gpt-4.1,left,incorrect prompt,0,high,4.14,10
+313,gpt-4.1,left,incorrect prompt,0,high,2.67,10
+314,gpt-4.1,left,incorrect prompt,0,high,2.09,10
+315,gpt-4.1,left,incorrect prompt,0,high,2.53,10
+316,gpt-4.1,left,right,0,high,6.23,10
+317,gpt-4.1,left,incorrect prompt,0,high,2.44,10
+318,gpt-4.1,left,incorrect prompt,0,high,1.63,10
+319,gpt-4.1,left,incorrect prompt,0,high,4.23,10
+320,gpt-4.1,left,incorrect prompt,0,high,3.08,10
+321,gpt-4.1,left,incorrect prompt,0,high,2.15,10
+322,gpt-4.1,left,incorrect prompt,0,high,4.05,10
+323,gpt-4.1,left,incorrect prompt,0,high,3.79,10
+324,gpt-4.1,left,left,1,high,7.79,10
+325,gpt-4.1,left,right,0,high,9.35,10
+326,gpt-4.1,left,incorrect prompt,0,high,1.49,10
+327,gpt-4.1,left,right,0,high,5.71,10
+328,gpt-4.1,left,incorrect prompt,0,high,6.08,10
+329,gpt-4.1,left,incorrect prompt,0,high,3.06,10
+330,gpt-4.1,left,left,1,high,4.23,10
+331,gpt-4.1,left,left,1,high,3.43,10
+332,gpt-4.1,left,incorrect prompt,0,high,2.26,10
+333,gpt-4.1,left,left,1,high,5.40,10
+334,gpt-4.1,left,left,1,high,6.97,10
+335,gpt-4.1,left,left,1,high,10.31,10
+336,gpt-4.1,left,left,1,high,5.21,10
+337,gpt-4.1,left,incorrect prompt,0,high,2.71,10
+338,gpt-4.1,left,incorrect prompt,0,high,3.16,10
+339,gpt-4.1,left,incorrect prompt,0,high,1.91,10
+340,gpt-4.1,left,incorrect prompt,0,high,4.62,10
+341,gpt-4.1,left,left,1,high,3.89,10
+342,gpt-4.1,left,incorrect prompt,0,high,1.38,10
+343,gpt-4.1,left,left,1,high,5.08,10
+344,gpt-4.1,left,right,0,high,4.14,10
+345,gpt-4.1,left,right,0,high,5.37,10
+346,gpt-4.1,left,right,0,high,5.73,10
+347,gpt-4.1,left,left,1,high,3.48,10
+348,gpt-4.1,left,incorrect prompt,0,high,3.36,10
+349,gpt-4.1,left,right,0,high,4.27,10
+350,gpt-4.1,left,right,0,high,5.78,10
+351,gpt-4.1,in-front,left,0,high,5.46,10
+352,gpt-4.1,in-front,right,0,high,7.85,10
+353,gpt-4.1,in-front,incorrect prompt,0,high,1.59,10
+354,gpt-4.1,in-front,right,0,high,3.59,10
+355,gpt-4.1,in-front,right,0,high,2.59,10
+356,gpt-4.1,in-front,incorrect prompt,0,high,4.75,10
+357,gpt-4.1,in-front,right,0,high,3.31,10
+358,gpt-4.1,in-front,incorrect prompt,0,high,1.72,10
+359,gpt-4.1,in-front,behind,0,high,4.04,10
+360,gpt-4.1,in-front,right,0,high,3.58,10
+361,gpt-4.1,in-front,right,0,high,3.46,10
+362,gpt-4.1,in-front,left,0,high,5.57,10
+363,gpt-4.1,in-front,incorrect prompt,0,high,2.63,10
+364,gpt-4.1,in-front,right,0,high,4.41,10
+365,gpt-4.1,in-front,incorrect prompt,0,high,1.95,10
+366,gpt-4.1,in-front,incorrect prompt,0,high,3.05,10
+367,gpt-4.1,in-front,left,0,high,2.97,10
+368,gpt-4.1,in-front,right,0,high,3.58,10
+369,gpt-4.1,in-front,left,0,high,5.22,10
+370,gpt-4.1,in-front,left,0,high,4.14,10
+371,gpt-4.1,in-front,incorrect prompt,0,high,3.41,10
+372,gpt-4.1,in-front,incorrect prompt,0,high,2.08,10
+373,gpt-4.1,in-front,right,0,high,7.19,10
+374,gpt-4.1,in-front,incorrect prompt,0,high,1.72,10
+375,gpt-4.1,in-front,right,0,high,4.28,10
+376,gpt-4.1,in-front,incorrect prompt,0,high,1.86,10
+377,gpt-4.1,in-front,right,0,high,2.79,10
+378,gpt-4.1,in-front,left,0,high,5.25,10
+379,gpt-4.1,in-front,incorrect prompt,0,high,3.66,10
+380,gpt-4.1,in-front,incorrect prompt,0,high,5.13,10
+381,gpt-4.1,in-front,incorrect prompt,0,high,1.72,10
+382,gpt-4.1,in-front,incorrect prompt,0,high,2.89,10
+383,gpt-4.1,in-front,right,0,high,5.34,10
+384,gpt-4.1,in-front,left,0,high,3.54,10
+385,gpt-4.1,in-front,incorrect prompt,0,high,1.50,10
+386,gpt-4.1,in-front,incorrect prompt,0,high,3.87,10
+387,gpt-4.1,in-front,incorrect prompt,0,high,2.10,10
+388,gpt-4.1,in-front,incorrect prompt,0,high,1.64,10
+389,gpt-4.1,in-front,left,0,high,5.06,10
+390,gpt-4.1,in-front,left,0,high,3.42,10
+391,gpt-4.1,in-front,left,0,high,2.37,10
+392,gpt-4.1,in-front,incorrect prompt,0,high,3.07,10
+393,gpt-4.1,in-front,right,0,high,6.87,10
+394,gpt-4.1,in-front,in-front,1,high,6.69,10
+395,gpt-4.1,in-front,incorrect prompt,0,high,1.59,10
+396,gpt-4.1,in-front,left,0,high,3.17,10
+397,gpt-4.1,in-front,right,0,high,4.24,10
+398,gpt-4.1,in-front,left,0,high,4.68,10
+399,gpt-4.1,in-front,incorrect prompt,0,high,1.93,10
+400,gpt-4.1,in-front,incorrect prompt,0,high,2.66,10

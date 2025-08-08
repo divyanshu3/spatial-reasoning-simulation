@@ -1,0 +1,401 @@
+prompt_id,model,expected_answer,predicted_answer,is_correct,complexity_level,time_taken,grid_size
+1,gemini-2.5-flash,behind-left,left,0,high,15.05,10
+2,gemini-2.5-flash,behind-left,left,0,high,19.87,10
+3,gemini-2.5-flash,behind-left,right,0,high,23.81,10
+4,gemini-2.5-flash,behind-left,right,0,high,11.82,10
+5,gemini-2.5-flash,behind-left,right,0,high,20.38,10
+6,gemini-2.5-flash,behind-left,incorrect prompt,0,high,6.31,10
+7,gemini-2.5-flash,behind-left,left,0,high,15.06,10
+8,gemini-2.5-flash,behind-left,right,0,high,13.77,10
+9,gemini-2.5-flash,behind-left,incorrect prompt,0,high,3.36,10
+10,gemini-2.5-flash,behind-left,left,0,high,7.83,10
+11,gemini-2.5-flash,behind-left,right,0,high,11.57,10
+12,gemini-2.5-flash,behind-left,right,0,high,6.72,10
+13,gemini-2.5-flash,behind-left,left,0,high,10.61,10
+14,gemini-2.5-flash,behind-left,right,0,high,16.06,10
+15,gemini-2.5-flash,behind-left,left,0,high,9.11,10
+16,gemini-2.5-flash,behind-left,right,0,high,11.15,10
+17,gemini-2.5-flash,behind-left,left,0,high,5.64,10
+18,gemini-2.5-flash,behind-left,left,0,high,15.72,10
+19,gemini-2.5-flash,behind-left,left,0,high,9.57,10
+20,gemini-2.5-flash,behind-left,right,0,high,15.71,10
+21,gemini-2.5-flash,behind-left,incorrect prompt,0,high,14.30,10
+22,gemini-2.5-flash,behind-left,right,0,high,10.94,10
+23,gemini-2.5-flash,behind-left,right,0,high,10.39,10
+24,gemini-2.5-flash,behind-left,left,0,high,15.24,10
+25,gemini-2.5-flash,behind-left,right,0,high,6.24,10
+26,gemini-2.5-flash,behind-left,left,0,high,24.70,10
+27,gemini-2.5-flash,behind-left,left,0,high,8.71,10
+28,gemini-2.5-flash,behind-left,right,0,high,24.16,10
+29,gemini-2.5-flash,behind-left,behind,0,high,14.48,10
+30,gemini-2.5-flash,behind-left,incorrect prompt,0,high,18.39,10
+31,gemini-2.5-flash,behind-left,right,0,high,9.77,10
+32,gemini-2.5-flash,behind-left,left,0,high,6.55,10
+33,gemini-2.5-flash,behind-left,right,0,high,21.20,10
+34,gemini-2.5-flash,behind-left,behind,0,high,5.73,10
+35,gemini-2.5-flash,behind-left,incorrect prompt,0,high,11.29,10
+36,gemini-2.5-flash,behind-left,right,0,high,13.59,10
+37,gemini-2.5-flash,behind-left,behind,0,high,14.74,10
+38,gemini-2.5-flash,behind-left,left,0,high,10.24,10
+39,gemini-2.5-flash,behind-left,error,0,high,59.60,10
+40,gemini-2.5-flash,behind-left,left,0,high,15.91,10
+41,gemini-2.5-flash,behind-left,right,0,high,10.46,10
+42,gemini-2.5-flash,behind-left,left,0,high,17.96,10
+43,gemini-2.5-flash,behind-left,left,0,high,12.43,10
+44,gemini-2.5-flash,behind-left,incorrect prompt,0,high,14.33,10
+45,gemini-2.5-flash,behind-left,left,0,high,16.84,10
+46,gemini-2.5-flash,behind-left,behind,0,high,9.04,10
+47,gemini-2.5-flash,behind-left,right,0,high,15.09,10
+48,gemini-2.5-flash,behind-left,left,0,high,11.77,10
+49,gemini-2.5-flash,behind-left,incorrect prompt,0,high,2.46,10
+50,gemini-2.5-flash,behind-left,right,0,high,14.57,10
+51,gemini-2.5-flash,in-front-left,left,0,high,23.99,10
+52,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,9.11,10
+53,gemini-2.5-flash,in-front-left,right,0,high,10.34,10
+54,gemini-2.5-flash,in-front-left,left,0,high,13.20,10
+55,gemini-2.5-flash,in-front-left,right,0,high,11.75,10
+56,gemini-2.5-flash,in-front-left,right,0,high,13.07,10
+57,gemini-2.5-flash,in-front-left,right,0,high,13.14,10
+58,gemini-2.5-flash,in-front-left,right,0,high,21.28,10
+59,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,12.13,10
+60,gemini-2.5-flash,in-front-left,right,0,high,4.94,10
+61,gemini-2.5-flash,in-front-left,right,0,high,17.40,10
+62,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,5.45,10
+63,gemini-2.5-flash,in-front-left,right,0,high,21.10,10
+64,gemini-2.5-flash,in-front-left,left,0,high,8.12,10
+65,gemini-2.5-flash,in-front-left,left,0,high,10.50,10
+66,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,7.27,10
+67,gemini-2.5-flash,in-front-left,right,0,high,10.41,10
+68,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,1.70,10
+69,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,6.02,10
+70,gemini-2.5-flash,in-front-left,left,0,high,10.32,10
+71,gemini-2.5-flash,in-front-left,right,0,high,17.93,10
+72,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,7.38,10
+73,gemini-2.5-flash,in-front-left,left,0,high,21.35,10
+74,gemini-2.5-flash,in-front-left,left,0,high,16.69,10
+75,gemini-2.5-flash,in-front-left,left,0,high,6.77,10
+76,gemini-2.5-flash,in-front-left,right,0,high,11.26,10
+77,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,6.25,10
+78,gemini-2.5-flash,in-front-left,left,0,high,14.03,10
+79,gemini-2.5-flash,in-front-left,right,0,high,13.34,10
+80,gemini-2.5-flash,in-front-left,right,0,high,17.24,10
+81,gemini-2.5-flash,in-front-left,behind,0,high,20.10,10
+82,gemini-2.5-flash,in-front-left,right,0,high,31.55,10
+83,gemini-2.5-flash,in-front-left,right,0,high,16.32,10
+84,gemini-2.5-flash,in-front-left,left,0,high,11.44,10
+85,gemini-2.5-flash,in-front-left,right,0,high,13.32,10
+86,gemini-2.5-flash,in-front-left,left,0,high,21.42,10
+87,gemini-2.5-flash,in-front-left,left,0,high,13.12,10
+88,gemini-2.5-flash,in-front-left,right,0,high,15.69,10
+89,gemini-2.5-flash,in-front-left,right,0,high,12.91,10
+90,gemini-2.5-flash,in-front-left,right,0,high,9.33,10
+91,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,9.30,10
+92,gemini-2.5-flash,in-front-left,left,0,high,8.62,10
+93,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,10.14,10
+94,gemini-2.5-flash,in-front-left,left,0,high,13.19,10
+95,gemini-2.5-flash,in-front-left,behind,0,high,13.98,10
+96,gemini-2.5-flash,in-front-left,left,0,high,12.93,10
+97,gemini-2.5-flash,in-front-left,left,0,high,9.42,10
+98,gemini-2.5-flash,in-front-left,incorrect prompt,0,high,22.98,10
+99,gemini-2.5-flash,in-front-left,right,0,high,17.31,10
+100,gemini-2.5-flash,in-front-left,right,0,high,10.48,10
+101,gemini-2.5-flash,in-front-right,left,0,high,19.05,10
+102,gemini-2.5-flash,in-front-right,right,0,high,11.41,10
+103,gemini-2.5-flash,in-front-right,right,0,high,9.59,10
+104,gemini-2.5-flash,in-front-right,right,0,high,8.67,10
+105,gemini-2.5-flash,in-front-right,left,0,high,8.16,10
+106,gemini-2.5-flash,in-front-right,right,0,high,12.86,10
+107,gemini-2.5-flash,in-front-right,in-front-right,1,high,4.40,10
+108,gemini-2.5-flash,in-front-right,left,0,high,19.15,10
+109,gemini-2.5-flash,in-front-right,right,0,high,16.90,10
+110,gemini-2.5-flash,in-front-right,right,0,high,7.04,10
+111,gemini-2.5-flash,in-front-right,left,0,high,5.68,10
+112,gemini-2.5-flash,in-front-right,left,0,high,7.07,10
+113,gemini-2.5-flash,in-front-right,right,0,high,38.62,10
+114,gemini-2.5-flash,in-front-right,incorrect prompt,0,high,6.64,10
+115,gemini-2.5-flash,in-front-right,right,0,high,19.83,10
+116,gemini-2.5-flash,in-front-right,right,0,high,21.64,10
+117,gemini-2.5-flash,in-front-right,right,0,high,18.62,10
+118,gemini-2.5-flash,in-front-right,incorrect prompt,0,high,6.43,10
+119,gemini-2.5-flash,in-front-right,right,0,high,10.48,10
+120,gemini-2.5-flash,in-front-right,left,0,high,7.72,10
+121,gemini-2.5-flash,in-front-right,left,0,high,7.27,10
+122,gemini-2.5-flash,in-front-right,incorrect prompt,0,high,6.96,10
+123,gemini-2.5-flash,in-front-right,left,0,high,22.02,10
+124,gemini-2.5-flash,in-front-right,right,0,high,9.52,10
+125,gemini-2.5-flash,in-front-right,left,0,high,14.44,10
+126,gemini-2.5-flash,in-front-right,left,0,high,9.01,10
+127,gemini-2.5-flash,in-front-right,left,0,high,12.91,10
+128,gemini-2.5-flash,in-front-right,left,0,high,9.50,10
+129,gemini-2.5-flash,in-front-right,incorrect prompt,0,high,10.66,10
+130,gemini-2.5-flash,in-front-right,right,0,high,8.91,10
+131,gemini-2.5-flash,in-front-right,right,0,high,13.26,10
+132,gemini-2.5-flash,in-front-right,right,0,high,14.38,10
+133,gemini-2.5-flash,in-front-right,right,0,high,5.74,10
+134,gemini-2.5-flash,in-front-right,left,0,high,7.78,10
+135,gemini-2.5-flash,in-front-right,right,0,high,10.34,10
+136,gemini-2.5-flash,in-front-right,left,0,high,9.89,10
+137,gemini-2.5-flash,in-front-right,right,0,high,11.25,10
+138,gemini-2.5-flash,in-front-right,left,0,high,19.17,10
+139,gemini-2.5-flash,in-front-right,incorrect prompt,0,high,6.86,10
+140,gemini-2.5-flash,in-front-right,right,0,high,22.87,10
+141,gemini-2.5-flash,in-front-right,left,0,high,18.36,10
+142,gemini-2.5-flash,in-front-right,left,0,high,9.95,10
+143,gemini-2.5-flash,in-front-right,left,0,high,10.70,10
+144,gemini-2.5-flash,in-front-right,left,0,high,9.63,10
+145,gemini-2.5-flash,in-front-right,left,0,high,8.63,10
+146,gemini-2.5-flash,in-front-right,right,0,high,11.54,10
+147,gemini-2.5-flash,in-front-right,left,0,high,25.14,10
+148,gemini-2.5-flash,in-front-right,left,0,high,15.60,10
+149,gemini-2.5-flash,in-front-right,behind,0,high,16.33,10
+150,gemini-2.5-flash,in-front-right,right,0,high,6.87,10
+151,gemini-2.5-flash,behind-right,right,0,high,10.17,10
+152,gemini-2.5-flash,behind-right,right,0,high,13.38,10
+153,gemini-2.5-flash,behind-right,incorrect prompt,0,high,9.89,10
+154,gemini-2.5-flash,behind-right,left,0,high,8.74,10
+155,gemini-2.5-flash,behind-right,incorrect prompt,0,high,6.60,10
+156,gemini-2.5-flash,behind-right,left,0,high,17.74,10
+157,gemini-2.5-flash,behind-right,left,0,high,10.27,10
+158,gemini-2.5-flash,behind-right,left,0,high,10.88,10
+159,gemini-2.5-flash,behind-right,left,0,high,8.00,10
+160,gemini-2.5-flash,behind-right,incorrect prompt,0,high,12.74,10
+161,gemini-2.5-flash,behind-right,left,0,high,21.59,10
+162,gemini-2.5-flash,behind-right,right,0,high,11.33,10
+163,gemini-2.5-flash,behind-right,left,0,high,20.91,10
+164,gemini-2.5-flash,behind-right,left,0,high,10.75,10
+165,gemini-2.5-flash,behind-right,incorrect prompt,0,high,5.51,10
+166,gemini-2.5-flash,behind-right,left,0,high,10.60,10
+167,gemini-2.5-flash,behind-right,left,0,high,9.70,10
+168,gemini-2.5-flash,behind-right,left,0,high,10.40,10
+169,gemini-2.5-flash,behind-right,right,0,high,8.53,10
+170,gemini-2.5-flash,behind-right,incorrect prompt,0,high,14.60,10
+171,gemini-2.5-flash,behind-right,left,0,high,9.52,10
+172,gemini-2.5-flash,behind-right,left,0,high,16.48,10
+173,gemini-2.5-flash,behind-right,right,0,high,12.80,10
+174,gemini-2.5-flash,behind-right,left,0,high,17.69,10
+175,gemini-2.5-flash,behind-right,left,0,high,15.11,10
+176,gemini-2.5-flash,behind-right,left,0,high,15.04,10
+177,gemini-2.5-flash,behind-right,right,0,high,13.19,10
+178,gemini-2.5-flash,behind-right,right,0,high,10.51,10
+179,gemini-2.5-flash,behind-right,left,0,high,7.31,10
+180,gemini-2.5-flash,behind-right,left,0,high,31.60,10
+181,gemini-2.5-flash,behind-right,left,0,high,13.37,10
+182,gemini-2.5-flash,behind-right,left,0,high,13.66,10
+183,gemini-2.5-flash,behind-right,right,0,high,5.47,10
+184,gemini-2.5-flash,behind-right,left,0,high,17.68,10
+185,gemini-2.5-flash,behind-right,left,0,high,16.41,10
+186,gemini-2.5-flash,behind-right,right,0,high,11.14,10
+187,gemini-2.5-flash,behind-right,left,0,high,14.11,10
+188,gemini-2.5-flash,behind-right,left,0,high,12.20,10
+189,gemini-2.5-flash,behind-right,left,0,high,23.77,10
+190,gemini-2.5-flash,behind-right,left,0,high,13.35,10
+191,gemini-2.5-flash,behind-right,incorrect prompt,0,high,3.74,10
+192,gemini-2.5-flash,behind-right,incorrect prompt,0,high,18.06,10
+193,gemini-2.5-flash,behind-right,left,0,high,11.37,10
+194,gemini-2.5-flash,behind-right,right,0,high,10.66,10
+195,gemini-2.5-flash,behind-right,right,0,high,8.59,10
+196,gemini-2.5-flash,behind-right,left,0,high,9.73,10
+197,gemini-2.5-flash,behind-right,left,0,high,15.16,10
+198,gemini-2.5-flash,behind-right,right,0,high,11.20,10
+199,gemini-2.5-flash,behind-right,right,0,high,25.05,10
+200,gemini-2.5-flash,behind-right,left,0,high,13.86,10
+201,gemini-2.5-flash,behind,error,0,high,59.62,10
+202,gemini-2.5-flash,behind,incorrect prompt,0,high,6.24,10
+203,gemini-2.5-flash,behind,behind,1,high,5.92,10
+204,gemini-2.5-flash,behind,right,0,high,8.22,10
+205,gemini-2.5-flash,behind,left,0,high,18.50,10
+206,gemini-2.5-flash,behind,left,0,high,9.08,10
+207,gemini-2.5-flash,behind,right,0,high,10.07,10
+208,gemini-2.5-flash,behind,right,0,high,20.82,10
+209,gemini-2.5-flash,behind,right,0,high,9.69,10
+210,gemini-2.5-flash,behind,right,0,high,7.63,10
+211,gemini-2.5-flash,behind,right,0,high,15.97,10
+212,gemini-2.5-flash,behind,left,0,high,11.74,10
+213,gemini-2.5-flash,behind,left,0,high,13.91,10
+214,gemini-2.5-flash,behind,right,0,high,6.35,10
+215,gemini-2.5-flash,behind,behind,1,high,7.11,10
+216,gemini-2.5-flash,behind,incorrect prompt,0,high,4.79,10
+217,gemini-2.5-flash,behind,left,0,high,14.63,10
+218,gemini-2.5-flash,behind,incorrect prompt,0,high,9.57,10
+219,gemini-2.5-flash,behind,incorrect prompt,0,high,3.38,10
+220,gemini-2.5-flash,behind,left,0,high,19.56,10
+221,gemini-2.5-flash,behind,right,0,high,8.21,10
+222,gemini-2.5-flash,behind,right,0,high,16.12,10
+223,gemini-2.5-flash,behind,left,0,high,12.47,10
+224,gemini-2.5-flash,behind,behind,1,high,5.13,10
+225,gemini-2.5-flash,behind,left,0,high,14.12,10
+226,gemini-2.5-flash,behind,incorrect prompt,0,high,6.96,10
+227,gemini-2.5-flash,behind,incorrect prompt,0,high,5.58,10
+228,gemini-2.5-flash,behind,behind,1,high,2.67,10
+229,gemini-2.5-flash,behind,error,0,high,59.65,10
+230,gemini-2.5-flash,behind,right,0,high,9.12,10
+231,gemini-2.5-flash,behind,behind,1,high,8.83,10
+232,gemini-2.5-flash,behind,right,0,high,18.26,10
+233,gemini-2.5-flash,behind,incorrect prompt,0,high,3.35,10
+234,gemini-2.5-flash,behind,left,0,high,17.10,10
+235,gemini-2.5-flash,behind,left,0,high,14.01,10
+236,gemini-2.5-flash,behind,right,0,high,10.47,10
+237,gemini-2.5-flash,behind,left,0,high,24.68,10
+238,gemini-2.5-flash,behind,left,0,high,6.83,10
+239,gemini-2.5-flash,behind,right,0,high,24.92,10
+240,gemini-2.5-flash,behind,left,0,high,13.67,10
+241,gemini-2.5-flash,behind,left,0,high,9.21,10
+242,gemini-2.5-flash,behind,left,0,high,10.64,10
+243,gemini-2.5-flash,behind,left,0,high,11.68,10
+244,gemini-2.5-flash,behind,left,0,high,8.19,10
+245,gemini-2.5-flash,behind,left,0,high,20.58,10
+246,gemini-2.5-flash,behind,right,0,high,6.56,10
+247,gemini-2.5-flash,behind,right,0,high,12.97,10
+248,gemini-2.5-flash,behind,left,0,high,8.89,10
+249,gemini-2.5-flash,behind,incorrect prompt,0,high,5.75,10
+250,gemini-2.5-flash,behind,left,0,high,11.33,10
+251,gemini-2.5-flash,right,right,1,high,15.78,10
+252,gemini-2.5-flash,right,left,0,high,17.54,10
+253,gemini-2.5-flash,right,right,1,high,13.49,10
+254,gemini-2.5-flash,right,right,1,high,16.85,10
+255,gemini-2.5-flash,right,left,0,high,11.64,10
+256,gemini-2.5-flash,right,left,0,high,18.81,10
+257,gemini-2.5-flash,right,right,1,high,10.99,10
+258,gemini-2.5-flash,right,incorrect prompt,0,high,14.06,10
+259,gemini-2.5-flash,right,right,1,high,9.27,10
+260,gemini-2.5-flash,right,right,1,high,20.72,10
+261,gemini-2.5-flash,right,left,0,high,16.31,10
+262,gemini-2.5-flash,right,left,0,high,9.14,10
+263,gemini-2.5-flash,right,left,0,high,13.52,10
+264,gemini-2.5-flash,right,incorrect prompt,0,high,6.59,10
+265,gemini-2.5-flash,right,left,0,high,16.47,10
+266,gemini-2.5-flash,right,right,1,high,7.09,10
+267,gemini-2.5-flash,right,right,1,high,14.79,10
+268,gemini-2.5-flash,right,right,1,high,15.22,10
+269,gemini-2.5-flash,right,left,0,high,10.80,10
+270,gemini-2.5-flash,right,left,0,high,12.36,10
+271,gemini-2.5-flash,right,left,0,high,9.71,10
+272,gemini-2.5-flash,right,left,0,high,6.83,10
+273,gemini-2.5-flash,right,left,0,high,9.95,10
+274,gemini-2.5-flash,right,right,1,high,15.17,10
+275,gemini-2.5-flash,right,incorrect prompt,0,high,8.10,10
+276,gemini-2.5-flash,right,incorrect prompt,0,high,4.64,10
+277,gemini-2.5-flash,right,left,0,high,8.47,10
+278,gemini-2.5-flash,right,incorrect prompt,0,high,5.66,10
+279,gemini-2.5-flash,right,left,0,high,11.38,10
+280,gemini-2.5-flash,right,left,0,high,16.32,10
+281,gemini-2.5-flash,right,left,0,high,13.53,10
+282,gemini-2.5-flash,right,left,0,high,13.19,10
+283,gemini-2.5-flash,right,right,1,high,16.10,10
+284,gemini-2.5-flash,right,right,1,high,11.77,10
+285,gemini-2.5-flash,right,left,0,high,8.18,10
+286,gemini-2.5-flash,right,left,0,high,9.22,10
+287,gemini-2.5-flash,right,incorrect prompt,0,high,6.93,10
+288,gemini-2.5-flash,right,left,0,high,12.62,10
+289,gemini-2.5-flash,right,left,0,high,9.63,10
+290,gemini-2.5-flash,right,incorrect prompt,0,high,12.75,10
+291,gemini-2.5-flash,right,behind,0,high,11.57,10
+292,gemini-2.5-flash,right,left,0,high,15.43,10
+293,gemini-2.5-flash,right,incorrect prompt,0,high,2.90,10
+294,gemini-2.5-flash,right,left,0,high,13.65,10
+295,gemini-2.5-flash,right,left,0,high,11.86,10
+296,gemini-2.5-flash,right,right,1,high,27.69,10
+297,gemini-2.5-flash,right,right,1,high,12.96,10
+298,gemini-2.5-flash,right,right,1,high,4.81,10
+299,gemini-2.5-flash,right,left,0,high,16.19,10
+300,gemini-2.5-flash,right,left,0,high,10.99,10
+301,gemini-2.5-flash,left,right,0,high,20.48,10
+302,gemini-2.5-flash,left,left,1,high,5.62,10
+303,gemini-2.5-flash,left,left,1,high,12.70,10
+304,gemini-2.5-flash,left,left,1,high,12.74,10
+305,gemini-2.5-flash,left,right,0,high,8.92,10
+306,gemini-2.5-flash,left,right,0,high,7.04,10
+307,gemini-2.5-flash,left,left,1,high,7.20,10
+308,gemini-2.5-flash,left,left,1,high,7.93,10
+309,gemini-2.5-flash,left,incorrect prompt,0,high,10.85,10
+310,gemini-2.5-flash,left,incorrect prompt,0,high,5.58,10
+311,gemini-2.5-flash,left,right,0,high,11.94,10
+312,gemini-2.5-flash,left,incorrect prompt,0,high,6.28,10
+313,gemini-2.5-flash,left,left,1,high,14.11,10
+314,gemini-2.5-flash,left,incorrect prompt,0,high,9.96,10
+315,gemini-2.5-flash,left,incorrect prompt,0,high,6.45,10
+316,gemini-2.5-flash,left,right,0,high,15.26,10
+317,gemini-2.5-flash,left,behind,0,high,16.51,10
+318,gemini-2.5-flash,left,incorrect prompt,0,high,7.45,10
+319,gemini-2.5-flash,left,left,1,high,21.20,10
+320,gemini-2.5-flash,left,right,0,high,11.40,10
+321,gemini-2.5-flash,left,right,0,high,13.13,10
+322,gemini-2.5-flash,left,right,0,high,17.60,10
+323,gemini-2.5-flash,left,incorrect prompt,0,high,9.68,10
+324,gemini-2.5-flash,left,left,1,high,23.76,10
+325,gemini-2.5-flash,left,right,0,high,9.78,10
+326,gemini-2.5-flash,left,left,1,high,15.98,10
+327,gemini-2.5-flash,left,right,0,high,14.74,10
+328,gemini-2.5-flash,left,right,0,high,15.12,10
+329,gemini-2.5-flash,left,incorrect prompt,0,high,13.96,10
+330,gemini-2.5-flash,left,left,1,high,12.85,10
+331,gemini-2.5-flash,left,left,1,high,9.62,10
+332,gemini-2.5-flash,left,right,0,high,15.37,10
+333,gemini-2.5-flash,left,right,0,high,15.11,10
+334,gemini-2.5-flash,left,incorrect prompt,0,high,3.61,10
+335,gemini-2.5-flash,left,left,1,high,9.77,10
+336,gemini-2.5-flash,left,left,1,high,12.56,10
+337,gemini-2.5-flash,left,right,0,high,24.88,10
+338,gemini-2.5-flash,left,left,1,high,15.72,10
+339,gemini-2.5-flash,left,in-front,0,high,6.90,10
+340,gemini-2.5-flash,left,right,0,high,15.45,10
+341,gemini-2.5-flash,left,left,1,high,12.23,10
+342,gemini-2.5-flash,left,incorrect prompt,0,high,7.79,10
+343,gemini-2.5-flash,left,left,1,high,5.73,10
+344,gemini-2.5-flash,left,right,0,high,9.23,10
+345,gemini-2.5-flash,left,right,0,high,12.78,10
+346,gemini-2.5-flash,left,right,0,high,12.76,10
+347,gemini-2.5-flash,left,left,1,high,8.74,10
+348,gemini-2.5-flash,left,left,1,high,15.36,10
+349,gemini-2.5-flash,left,right,0,high,13.92,10
+350,gemini-2.5-flash,left,right,0,high,14.75,10
+351,gemini-2.5-flash,in-front,left,0,high,16.69,10
+352,gemini-2.5-flash,in-front,right,0,high,16.54,10
+353,gemini-2.5-flash,in-front,behind,0,high,12.16,10
+354,gemini-2.5-flash,in-front,in-front,1,high,2.46,10
+355,gemini-2.5-flash,in-front,right,0,high,5.60,10
+356,gemini-2.5-flash,in-front,incorrect prompt,0,high,6.17,10
+357,gemini-2.5-flash,in-front,right,0,high,6.14,10
+358,gemini-2.5-flash,in-front,left,0,high,7.96,10
+359,gemini-2.5-flash,in-front,behind,0,high,13.18,10
+360,gemini-2.5-flash,in-front,right,0,high,7.27,10
+361,gemini-2.5-flash,in-front,right,0,high,10.33,10
+362,gemini-2.5-flash,in-front,right,0,high,9.93,10
+363,gemini-2.5-flash,in-front,incorrect prompt,0,high,7.37,10
+364,gemini-2.5-flash,in-front,left,0,high,14.27,10
+365,gemini-2.5-flash,in-front,right,0,high,14.62,10
+366,gemini-2.5-flash,in-front,left,0,high,14.64,10
+367,gemini-2.5-flash,in-front,left,0,high,4.41,10
+368,gemini-2.5-flash,in-front,right,0,high,10.63,10
+369,gemini-2.5-flash,in-front,left,0,high,18.57,10
+370,gemini-2.5-flash,in-front,left,0,high,9.22,10
+371,gemini-2.5-flash,in-front,right,0,high,18.31,10
+372,gemini-2.5-flash,in-front,right,0,high,15.65,10
+373,gemini-2.5-flash,in-front,right,0,high,12.48,10
+374,gemini-2.5-flash,in-front,left,0,high,8.74,10
+375,gemini-2.5-flash,in-front,right,0,high,12.20,10
+376,gemini-2.5-flash,in-front,incorrect prompt,0,high,6.77,10
+377,gemini-2.5-flash,in-front,in-front,1,high,3.22,10
+378,gemini-2.5-flash,in-front,left,0,high,14.14,10
+379,gemini-2.5-flash,in-front,left,0,high,23.40,10
+380,gemini-2.5-flash,in-front,incorrect prompt,0,high,7.71,10
+381,gemini-2.5-flash,in-front,incorrect prompt,0,high,5.02,10
+382,gemini-2.5-flash,in-front,incorrect prompt,0,high,5.08,10
+383,gemini-2.5-flash,in-front,right,0,high,17.64,10
+384,gemini-2.5-flash,in-front,left,0,high,13.54,10
+385,gemini-2.5-flash,in-front,right,0,high,10.54,10
+386,gemini-2.5-flash,in-front,left,0,high,19.26,10
+387,gemini-2.5-flash,in-front,left,0,high,8.80,10
+388,gemini-2.5-flash,in-front,left,0,high,15.93,10
+389,gemini-2.5-flash,in-front,in-front,1,high,2.51,10
+390,gemini-2.5-flash,in-front,left,0,high,10.23,10
+391,gemini-2.5-flash,in-front,in-front,1,high,2.85,10
+392,gemini-2.5-flash,in-front,incorrect prompt,0,high,5.62,10
+393,gemini-2.5-flash,in-front,right,0,high,14.93,10
+394,gemini-2.5-flash,in-front,right,0,high,11.47,10
+395,gemini-2.5-flash,in-front,right,0,high,9.58,10
+396,gemini-2.5-flash,in-front,left,0,high,6.49,10
+397,gemini-2.5-flash,in-front,right,0,high,12.10,10
+398,gemini-2.5-flash,in-front,left,0,high,25.91,10
+399,gemini-2.5-flash,in-front,right,0,high,8.35,10
+400,gemini-2.5-flash,in-front,error,0,high,59.68,10

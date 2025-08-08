@@ -1,0 +1,401 @@
+prompt_id,model,expected_answer,predicted_answer,is_correct,complexity_level,time_taken,grid_size
+1,deepSeek-v3,in-front-left,right,0,high,20.05,5
+2,deepSeek-v3,in-front-left,incorrect prompt,0,high,4.18,5
+3,deepSeek-v3,in-front-left,incorrect prompt,0,high,14.34,5
+4,deepSeek-v3,in-front-left,left,0,high,30.29,5
+5,deepSeek-v3,in-front-left,incorrect prompt,0,high,6.72,5
+6,deepSeek-v3,in-front-left,in-front,0,high,12.04,5
+7,deepSeek-v3,in-front-left,left,0,high,9.65,5
+8,deepSeek-v3,in-front-left,incorrect prompt,0,high,19.43,5
+9,deepSeek-v3,in-front-left,right,0,high,8.39,5
+10,deepSeek-v3,in-front-left,right,0,high,40.44,5
+11,deepSeek-v3,in-front-left,left,0,high,12.35,5
+12,deepSeek-v3,in-front-left,left,0,high,12.39,5
+13,deepSeek-v3,in-front-left,incorrect prompt,0,high,9.06,5
+14,deepSeek-v3,in-front-left,left,0,high,11.63,5
+15,deepSeek-v3,in-front-left,right,0,high,29.75,5
+16,deepSeek-v3,in-front-left,incorrect prompt,0,high,7.40,5
+17,deepSeek-v3,in-front-left,right,0,high,10.41,5
+18,deepSeek-v3,in-front-left,right,0,high,46.62,5
+19,deepSeek-v3,in-front-left,left,0,high,14.11,5
+20,deepSeek-v3,in-front-left,incorrect prompt,0,high,49.77,5
+21,deepSeek-v3,in-front-left,behind,0,high,14.74,5
+22,deepSeek-v3,in-front-left,incorrect prompt,0,high,5.11,5
+23,deepSeek-v3,in-front-left,right,0,high,8.30,5
+24,deepSeek-v3,in-front-left,incorrect prompt,0,high,11.48,5
+25,deepSeek-v3,in-front-left,right,0,high,37.46,5
+26,deepSeek-v3,in-front-left,right,0,high,23.67,5
+27,deepSeek-v3,in-front-left,right,0,high,15.06,5
+28,deepSeek-v3,in-front-left,left,0,high,10.74,5
+29,deepSeek-v3,in-front-left,left,0,high,14.04,5
+30,deepSeek-v3,in-front-left,right,0,high,13.96,5
+31,deepSeek-v3,in-front-left,right,0,high,21.47,5
+32,deepSeek-v3,in-front-left,right,0,high,16.53,5
+33,deepSeek-v3,in-front-left,incorrect prompt,0,high,3.43,5
+34,deepSeek-v3,in-front-left,right,0,high,16.17,5
+35,deepSeek-v3,in-front-left,left,0,high,14.04,5
+36,deepSeek-v3,in-front-left,right,0,high,26.01,5
+37,deepSeek-v3,in-front-left,right,0,high,18.73,5
+38,deepSeek-v3,in-front-left,right,0,high,40.05,5
+39,deepSeek-v3,in-front-left,incorrect prompt,0,high,18.13,5
+40,deepSeek-v3,in-front-left,incorrect prompt,0,high,10.24,5
+41,deepSeek-v3,in-front-left,incorrect prompt,0,high,19.67,5
+42,deepSeek-v3,in-front-left,right,0,high,33.27,5
+43,deepSeek-v3,in-front-left,right,0,high,20.34,5
+44,deepSeek-v3,in-front-left,right,0,high,14.88,5
+45,deepSeek-v3,in-front-left,incorrect prompt,0,high,4.89,5
+46,deepSeek-v3,in-front-left,incorrect prompt,0,high,10.37,5
+47,deepSeek-v3,in-front-left,incorrect prompt,0,high,31.75,5
+48,deepSeek-v3,in-front-left,left,0,high,9.79,5
+49,deepSeek-v3,in-front-left,behind,0,high,12.12,5
+50,deepSeek-v3,in-front-left,incorrect prompt,0,high,4.30,5
+51,deepSeek-v3,right,right,1,high,37.83,5
+52,deepSeek-v3,right,right,1,high,10.50,5
+53,deepSeek-v3,right,incorrect prompt,0,high,23.54,5
+54,deepSeek-v3,right,right,1,high,7.68,5
+55,deepSeek-v3,right,left,0,high,11.18,5
+56,deepSeek-v3,right,incorrect prompt,0,high,4.99,5
+57,deepSeek-v3,right,incorrect prompt,0,high,25.25,5
+58,deepSeek-v3,right,right,1,high,22.63,5
+59,deepSeek-v3,right,incorrect prompt,0,high,15.30,5
+60,deepSeek-v3,right,right,1,high,37.08,5
+61,deepSeek-v3,right,right,1,high,25.25,5
+62,deepSeek-v3,right,left,0,high,8.71,5
+63,deepSeek-v3,right,left,0,high,9.66,5
+64,deepSeek-v3,right,right,1,high,9.60,5
+65,deepSeek-v3,right,right,1,high,14.67,5
+66,deepSeek-v3,right,right,1,high,27.65,5
+67,deepSeek-v3,right,left,0,high,4.74,5
+68,deepSeek-v3,right,incorrect prompt,0,high,5.13,5
+69,deepSeek-v3,right,incorrect prompt,0,high,14.39,5
+70,deepSeek-v3,right,right,1,high,46.59,5
+71,deepSeek-v3,right,right,1,high,22.43,5
+72,deepSeek-v3,right,right,1,high,9.31,5
+73,deepSeek-v3,right,incorrect prompt,0,high,12.61,5
+74,deepSeek-v3,right,incorrect prompt,0,high,7.13,5
+75,deepSeek-v3,right,incorrect prompt,0,high,23.51,5
+76,deepSeek-v3,right,right,1,high,7.33,5
+77,deepSeek-v3,right,incorrect prompt,0,high,6.15,5
+78,deepSeek-v3,right,left,0,high,21.31,5
+79,deepSeek-v3,right,behind,0,high,5.15,5
+80,deepSeek-v3,right,right,1,high,55.06,5
+81,deepSeek-v3,right,incorrect prompt,0,high,5.27,5
+82,deepSeek-v3,right,incorrect prompt,0,high,15.45,5
+83,deepSeek-v3,right,right,1,high,11.73,5
+84,deepSeek-v3,right,incorrect prompt,0,high,6.22,5
+85,deepSeek-v3,right,left,0,high,9.11,5
+86,deepSeek-v3,right,right,1,high,8.24,5
+87,deepSeek-v3,right,left,0,high,14.48,5
+88,deepSeek-v3,right,right,1,high,53.00,5
+89,deepSeek-v3,right,incorrect prompt,0,high,30.34,5
+90,deepSeek-v3,right,incorrect prompt,0,high,7.64,5
+91,deepSeek-v3,right,left,0,high,11.72,5
+92,deepSeek-v3,right,left,0,high,16.32,5
+93,deepSeek-v3,right,left,0,high,15.48,5
+94,deepSeek-v3,right,left,0,high,6.59,5
+95,deepSeek-v3,right,left,0,high,14.33,5
+96,deepSeek-v3,right,incorrect prompt,0,high,16.14,5
+97,deepSeek-v3,right,left,0,high,10.13,5
+98,deepSeek-v3,right,right,1,high,19.85,5
+99,deepSeek-v3,right,behind,0,high,15.93,5
+100,deepSeek-v3,right,right,1,high,21.54,5
+101,deepSeek-v3,behind-left,left,0,high,9.16,5
+102,deepSeek-v3,behind-left,incorrect prompt,0,high,6.73,5
+103,deepSeek-v3,behind-left,right,0,high,18.72,5
+104,deepSeek-v3,behind-left,incorrect prompt,0,high,5.28,5
+105,deepSeek-v3,behind-left,right,0,high,37.25,5
+106,deepSeek-v3,behind-left,right,0,high,57.63,5
+107,deepSeek-v3,behind-left,incorrect prompt,0,high,3.40,5
+108,deepSeek-v3,behind-left,right,0,high,50.46,5
+109,deepSeek-v3,behind-left,incorrect prompt,0,high,5.04,5
+110,deepSeek-v3,behind-left,left,0,high,11.06,5
+111,deepSeek-v3,behind-left,right,0,high,8.74,5
+112,deepSeek-v3,behind-left,incorrect prompt,0,high,17.93,5
+113,deepSeek-v3,behind-left,incorrect prompt,0,high,8.33,5
+114,deepSeek-v3,behind-left,incorrect prompt,0,high,5.50,5
+115,deepSeek-v3,behind-left,left,0,high,7.41,5
+116,deepSeek-v3,behind-left,incorrect prompt,0,high,16.23,5
+117,deepSeek-v3,behind-left,right,0,high,18.13,5
+118,deepSeek-v3,behind-left,right,0,high,13.16,5
+119,deepSeek-v3,behind-left,left,0,high,4.71,5
+120,deepSeek-v3,behind-left,incorrect prompt,0,high,15.47,5
+121,deepSeek-v3,behind-left,right,0,high,20.64,5
+122,deepSeek-v3,behind-left,right,0,high,15.91,5
+123,deepSeek-v3,behind-left,right,0,high,7.70,5
+124,deepSeek-v3,behind-left,right,0,high,8.99,5
+125,deepSeek-v3,behind-left,right,0,high,24.20,5
+126,deepSeek-v3,behind-left,right,0,high,23.62,5
+127,deepSeek-v3,behind-left,left,0,high,9.81,5
+128,deepSeek-v3,behind-left,incorrect prompt,0,high,48.35,5
+129,deepSeek-v3,behind-left,right,0,high,35.74,5
+130,deepSeek-v3,behind-left,right,0,high,22.16,5
+131,deepSeek-v3,behind-left,right,0,high,7.45,5
+132,deepSeek-v3,behind-left,incorrect prompt,0,high,12.48,5
+133,deepSeek-v3,behind-left,right,0,high,31.39,5
+134,deepSeek-v3,behind-left,left,0,high,11.17,5
+135,deepSeek-v3,behind-left,right,0,high,16.89,5
+136,deepSeek-v3,behind-left,left,0,high,10.50,5
+137,deepSeek-v3,behind-left,right,0,high,22.18,5
+138,deepSeek-v3,behind-left,right,0,high,10.77,5
+139,deepSeek-v3,behind-left,incorrect prompt,0,high,6.95,5
+140,deepSeek-v3,behind-left,incorrect prompt,0,high,3.48,5
+141,deepSeek-v3,behind-left,right,0,high,23.26,5
+142,deepSeek-v3,behind-left,right,0,high,22.69,5
+143,deepSeek-v3,behind-left,left,0,high,13.34,5
+144,deepSeek-v3,behind-left,right,0,high,7.00,5
+145,deepSeek-v3,behind-left,right,0,high,28.84,5
+146,deepSeek-v3,behind-left,incorrect prompt,0,high,8.20,5
+147,deepSeek-v3,behind-left,right,0,high,14.96,5
+148,deepSeek-v3,behind-left,right,0,high,15.14,5
+149,deepSeek-v3,behind-left,right,0,high,7.95,5
+150,deepSeek-v3,behind-left,left,0,high,10.58,5
+151,deepSeek-v3,behind-right,left,0,high,9.21,5
+152,deepSeek-v3,behind-right,right,0,high,7.35,5
+153,deepSeek-v3,behind-right,right,0,high,24.50,5
+154,deepSeek-v3,behind-right,incorrect prompt,0,high,9.01,5
+155,deepSeek-v3,behind-right,right,0,high,7.55,5
+156,deepSeek-v3,behind-right,incorrect prompt,0,high,7.20,5
+157,deepSeek-v3,behind-right,right,0,high,24.28,5
+158,deepSeek-v3,behind-right,incorrect prompt,0,high,3.95,5
+159,deepSeek-v3,behind-right,behind,0,high,19.56,5
+160,deepSeek-v3,behind-right,incorrect prompt,0,high,8.02,5
+161,deepSeek-v3,behind-right,left,0,high,11.06,5
+162,deepSeek-v3,behind-right,right,0,high,19.66,5
+163,deepSeek-v3,behind-right,incorrect prompt,0,high,3.17,5
+164,deepSeek-v3,behind-right,right,0,high,14.34,5
+165,deepSeek-v3,behind-right,right,0,high,5.60,5
+166,deepSeek-v3,behind-right,right,0,high,7.72,5
+167,deepSeek-v3,behind-right,incorrect prompt,0,high,3.42,5
+168,deepSeek-v3,behind-right,right,0,high,32.12,5
+169,deepSeek-v3,behind-right,incorrect prompt,0,high,16.25,5
+170,deepSeek-v3,behind-right,left,0,high,9.83,5
+171,deepSeek-v3,behind-right,incorrect prompt,0,high,6.88,5
+172,deepSeek-v3,behind-right,incorrect prompt,0,high,9.80,5
+173,deepSeek-v3,behind-right,left,0,high,10.22,5
+174,deepSeek-v3,behind-right,right,0,high,11.96,5
+175,deepSeek-v3,behind-right,incorrect prompt,0,high,7.52,5
+176,deepSeek-v3,behind-right,left,0,high,7.75,5
+177,deepSeek-v3,behind-right,right,0,high,6.41,5
+178,deepSeek-v3,behind-right,incorrect prompt,0,high,9.04,5
+179,deepSeek-v3,behind-right,incorrect prompt,0,high,6.68,5
+180,deepSeek-v3,behind-right,right,0,high,17.26,5
+181,deepSeek-v3,behind-right,right,0,high,7.16,5
+182,deepSeek-v3,behind-right,right,0,high,5.62,5
+183,deepSeek-v3,behind-right,incorrect prompt,0,high,4.30,5
+184,deepSeek-v3,behind-right,right,0,high,23.27,5
+185,deepSeek-v3,behind-right,right,0,high,21.79,5
+186,deepSeek-v3,behind-right,incorrect prompt,0,high,7.29,5
+187,deepSeek-v3,behind-right,right,0,high,8.08,5
+188,deepSeek-v3,behind-right,right,0,high,33.49,5
+189,deepSeek-v3,behind-right,right,0,high,16.48,5
+190,deepSeek-v3,behind-right,left,0,high,11.12,5
+191,deepSeek-v3,behind-right,right,0,high,11.79,5
+192,deepSeek-v3,behind-right,right,0,high,5.77,5
+193,deepSeek-v3,behind-right,left,0,high,7.99,5
+194,deepSeek-v3,behind-right,incorrect prompt,0,high,3.20,5
+195,deepSeek-v3,behind-right,left,0,high,5.19,5
+196,deepSeek-v3,behind-right,right,0,high,14.45,5
+197,deepSeek-v3,behind-right,right,0,high,16.10,5
+198,deepSeek-v3,behind-right,left,0,high,4.47,5
+199,deepSeek-v3,behind-right,incorrect prompt,0,high,21.03,5
+200,deepSeek-v3,behind-right,left,0,high,10.86,5
+201,deepSeek-v3,left,right,0,high,32.13,5
+202,deepSeek-v3,left,right,0,high,26.70,5
+203,deepSeek-v3,left,incorrect prompt,0,high,21.91,5
+204,deepSeek-v3,left,left,1,high,16.59,5
+205,deepSeek-v3,left,right,0,high,25.19,5
+206,deepSeek-v3,left,right,0,high,21.60,5
+207,deepSeek-v3,left,right,0,high,17.62,5
+208,deepSeek-v3,left,incorrect prompt,0,high,10.85,5
+209,deepSeek-v3,left,right,0,high,13.63,5
+210,deepSeek-v3,left,incorrect prompt,0,high,3.88,5
+211,deepSeek-v3,left,left,1,high,18.70,5
+212,deepSeek-v3,left,right,0,high,14.82,5
+213,deepSeek-v3,left,right,0,high,11.23,5
+214,deepSeek-v3,left,right,0,high,8.40,5
+215,deepSeek-v3,left,right,0,high,10.96,5
+216,deepSeek-v3,left,right,0,high,12.19,5
+217,deepSeek-v3,left,incorrect prompt,0,high,3.91,5
+218,deepSeek-v3,left,right,0,high,19.94,5
+219,deepSeek-v3,left,incorrect prompt,0,high,6.67,5
+220,deepSeek-v3,left,incorrect prompt,0,high,10.12,5
+221,deepSeek-v3,left,incorrect prompt,0,high,5.73,5
+222,deepSeek-v3,left,right,0,high,22.46,5
+223,deepSeek-v3,left,right,0,high,33.77,5
+224,deepSeek-v3,left,right,0,high,16.07,5
+225,deepSeek-v3,left,behind,0,high,7.57,5
+226,deepSeek-v3,left,left,1,high,15.64,5
+227,deepSeek-v3,left,incorrect prompt,0,high,6.62,5
+228,deepSeek-v3,left,incorrect prompt,0,high,14.15,5
+229,deepSeek-v3,left,right,0,high,20.16,5
+230,deepSeek-v3,left,left,1,high,12.49,5
+231,deepSeek-v3,left,left,1,high,9.06,5
+232,deepSeek-v3,left,incorrect prompt,0,high,7.60,5
+233,deepSeek-v3,left,right,0,high,10.04,5
+234,deepSeek-v3,left,left,1,high,12.68,5
+235,deepSeek-v3,left,left,1,high,19.06,5
+236,deepSeek-v3,left,right,0,high,22.87,5
+237,deepSeek-v3,left,incorrect prompt,0,high,3.36,5
+238,deepSeek-v3,left,right,0,high,18.32,5
+239,deepSeek-v3,left,right,0,high,21.02,5
+240,deepSeek-v3,left,right,0,high,31.70,5
+241,deepSeek-v3,left,incorrect prompt,0,high,13.23,5
+242,deepSeek-v3,left,right,0,high,25.04,5
+243,deepSeek-v3,left,right,0,high,21.03,5
+244,deepSeek-v3,left,incorrect prompt,0,high,6.05,5
+245,deepSeek-v3,left,right,0,high,26.72,5
+246,deepSeek-v3,left,left,1,high,9.37,5
+247,deepSeek-v3,left,left,1,high,10.72,5
+248,deepSeek-v3,left,right,0,high,11.64,5
+249,deepSeek-v3,left,left,1,high,24.58,5
+250,deepSeek-v3,left,behind,0,high,11.13,5
+251,deepSeek-v3,behind,incorrect prompt,0,high,7.83,5
+252,deepSeek-v3,behind,right,0,high,27.52,5
+253,deepSeek-v3,behind,right,0,high,18.57,5
+254,deepSeek-v3,behind,right,0,high,8.92,5
+255,deepSeek-v3,behind,right,0,high,8.86,5
+256,deepSeek-v3,behind,right,0,high,22.49,5
+257,deepSeek-v3,behind,right,0,high,26.05,5
+258,deepSeek-v3,behind,right,0,high,12.67,5
+259,deepSeek-v3,behind,incorrect prompt,0,high,20.37,5
+260,deepSeek-v3,behind,right,0,high,5.82,5
+261,deepSeek-v3,behind,right,0,high,23.42,5
+262,deepSeek-v3,behind,incorrect prompt,0,high,2.95,5
+263,deepSeek-v3,behind,right,0,high,7.11,5
+264,deepSeek-v3,behind,right,0,high,26.32,5
+265,deepSeek-v3,behind,right,0,high,21.70,5
+266,deepSeek-v3,behind,left,0,high,7.25,5
+267,deepSeek-v3,behind,incorrect prompt,0,high,5.38,5
+268,deepSeek-v3,behind,left,0,high,3.82,5
+269,deepSeek-v3,behind,right,0,high,19.18,5
+270,deepSeek-v3,behind,incorrect prompt,0,high,5.43,5
+271,deepSeek-v3,behind,right,0,high,8.81,5
+272,deepSeek-v3,behind,left,0,high,9.13,5
+273,deepSeek-v3,behind,right,0,high,16.78,5
+274,deepSeek-v3,behind,incorrect prompt,0,high,15.58,5
+275,deepSeek-v3,behind,right,0,high,21.41,5
+276,deepSeek-v3,behind,behind,1,high,7.45,5
+277,deepSeek-v3,behind,incorrect prompt,0,high,29.91,5
+278,deepSeek-v3,behind,right,0,high,6.04,5
+279,deepSeek-v3,behind,incorrect prompt,0,high,7.17,5
+280,deepSeek-v3,behind,left,0,high,15.26,5
+281,deepSeek-v3,behind,right,0,high,14.84,5
+282,deepSeek-v3,behind,incorrect prompt,0,high,3.19,5
+283,deepSeek-v3,behind,left,0,high,5.01,5
+284,deepSeek-v3,behind,incorrect prompt,0,high,3.28,5
+285,deepSeek-v3,behind,left,0,high,9.43,5
+286,deepSeek-v3,behind,right,0,high,34.93,5
+287,deepSeek-v3,behind,incorrect prompt,0,high,19.76,5
+288,deepSeek-v3,behind,incorrect prompt,0,high,9.10,5
+289,deepSeek-v3,behind,left,0,high,4.06,5
+290,deepSeek-v3,behind,incorrect prompt,0,high,7.11,5
+291,deepSeek-v3,behind,right,0,high,7.47,5
+292,deepSeek-v3,behind,incorrect prompt,0,high,12.38,5
+293,deepSeek-v3,behind,incorrect prompt,0,high,6.05,5
+294,deepSeek-v3,behind,right,0,high,22.43,5
+295,deepSeek-v3,behind,left,0,high,7.64,5
+296,deepSeek-v3,behind,left,0,high,10.07,5
+297,deepSeek-v3,behind,left,0,high,32.00,5
+298,deepSeek-v3,behind,incorrect prompt,0,high,4.24,5
+299,deepSeek-v3,behind,right,0,high,7.89,5
+300,deepSeek-v3,behind,left,0,high,8.50,5
+301,deepSeek-v3,in-front,right,0,high,25.95,5
+302,deepSeek-v3,in-front,incorrect prompt,0,high,30.78,5
+303,deepSeek-v3,in-front,left,0,high,5.03,5
+304,deepSeek-v3,in-front,right,0,high,29.27,5
+305,deepSeek-v3,in-front,right,0,high,19.15,5
+306,deepSeek-v3,in-front,incorrect prompt,0,high,4.91,5
+307,deepSeek-v3,in-front,incorrect prompt,0,high,7.43,5
+308,deepSeek-v3,in-front,right,0,high,19.20,5
+309,deepSeek-v3,in-front,left,0,high,21.65,5
+310,deepSeek-v3,in-front,left,0,high,4.86,5
+311,deepSeek-v3,in-front,incorrect prompt,0,high,4.30,5
+312,deepSeek-v3,in-front,right,0,high,14.54,5
+313,deepSeek-v3,in-front,right,0,high,52.60,5
+314,deepSeek-v3,in-front,right,0,high,26.31,5
+315,deepSeek-v3,in-front,incorrect prompt,0,high,8.23,5
+316,deepSeek-v3,in-front,right,0,high,9.22,5
+317,deepSeek-v3,in-front,right,0,high,10.45,5
+318,deepSeek-v3,in-front,right,0,high,11.88,5
+319,deepSeek-v3,in-front,incorrect prompt,0,high,16.36,5
+320,deepSeek-v3,in-front,right,0,high,23.08,5
+321,deepSeek-v3,in-front,right,0,high,4.93,5
+322,deepSeek-v3,in-front,right,0,high,21.31,5
+323,deepSeek-v3,in-front,incorrect prompt,0,high,6.66,5
+324,deepSeek-v3,in-front,right,0,high,26.23,5
+325,deepSeek-v3,in-front,in-front,1,high,3.53,5
+326,deepSeek-v3,in-front,incorrect prompt,0,high,17.20,5
+327,deepSeek-v3,in-front,right,0,high,10.14,5
+328,deepSeek-v3,in-front,left,0,high,18.28,5
+329,deepSeek-v3,in-front,incorrect prompt,0,high,3.84,5
+330,deepSeek-v3,in-front,left,0,high,4.47,5
+331,deepSeek-v3,in-front,right,0,high,25.84,5
+332,deepSeek-v3,in-front,incorrect prompt,0,high,11.02,5
+333,deepSeek-v3,in-front,right,0,high,15.23,5
+334,deepSeek-v3,in-front,incorrect prompt,0,high,12.44,5
+335,deepSeek-v3,in-front,right,0,high,10.43,5
+336,deepSeek-v3,in-front,incorrect prompt,0,high,14.34,5
+337,deepSeek-v3,in-front,incorrect prompt,0,high,3.18,5
+338,deepSeek-v3,in-front,right,0,high,13.74,5
+339,deepSeek-v3,in-front,right,0,high,24.94,5
+340,deepSeek-v3,in-front,incorrect prompt,0,high,9.28,5
+341,deepSeek-v3,in-front,right,0,high,6.43,5
+342,deepSeek-v3,in-front,right,0,high,24.30,5
+343,deepSeek-v3,in-front,right,0,high,6.75,5
+344,deepSeek-v3,in-front,incorrect prompt,0,high,12.78,5
+345,deepSeek-v3,in-front,left,0,high,13.92,5
+346,deepSeek-v3,in-front,left,0,high,9.22,5
+347,deepSeek-v3,in-front,incorrect prompt,0,high,4.67,5
+348,deepSeek-v3,in-front,left,0,high,13.44,5
+349,deepSeek-v3,in-front,left,0,high,11.86,5
+350,deepSeek-v3,in-front,right,0,high,19.17,5
+351,deepSeek-v3,in-front-right,incorrect prompt,0,high,6.69,5
+352,deepSeek-v3,in-front-right,right,0,high,9.51,5
+353,deepSeek-v3,in-front-right,incorrect prompt,0,high,6.84,5
+354,deepSeek-v3,in-front-right,incorrect prompt,0,high,13.82,5
+355,deepSeek-v3,in-front-right,right,0,high,7.69,5
+356,deepSeek-v3,in-front-right,incorrect prompt,0,high,5.12,5
+357,deepSeek-v3,in-front-right,incorrect prompt,0,high,7.33,5
+358,deepSeek-v3,in-front-right,incorrect prompt,0,high,8.46,5
+359,deepSeek-v3,in-front-right,left,0,high,11.57,5
+360,deepSeek-v3,in-front-right,incorrect prompt,0,high,6.55,5
+361,deepSeek-v3,in-front-right,right,0,high,26.72,5
+362,deepSeek-v3,in-front-right,right,0,high,16.53,5
+363,deepSeek-v3,in-front-right,incorrect prompt,0,high,5.33,5
+364,deepSeek-v3,in-front-right,behind,0,high,12.85,5
+365,deepSeek-v3,in-front-right,incorrect prompt,0,high,7.20,5
+366,deepSeek-v3,in-front-right,incorrect prompt,0,high,3.73,5
+367,deepSeek-v3,in-front-right,left,0,high,42.09,5
+368,deepSeek-v3,in-front-right,incorrect prompt,0,high,9.04,5
+369,deepSeek-v3,in-front-right,right,0,high,22.02,5
+370,deepSeek-v3,in-front-right,right,0,high,10.44,5
+371,deepSeek-v3,in-front-right,right,0,high,19.43,5
+372,deepSeek-v3,in-front-right,incorrect prompt,0,high,3.60,5
+373,deepSeek-v3,in-front-right,left,0,high,7.63,5
+374,deepSeek-v3,in-front-right,right,0,high,17.07,5
+375,deepSeek-v3,in-front-right,right,0,high,21.70,5
+376,deepSeek-v3,in-front-right,incorrect prompt,0,high,3.91,5
+377,deepSeek-v3,in-front-right,right,0,high,10.93,5
+378,deepSeek-v3,in-front-right,error,0,high,60.17,5
+379,deepSeek-v3,in-front-right,left,0,high,9.80,5
+380,deepSeek-v3,in-front-right,error,0,high,60.18,5
+381,deepSeek-v3,in-front-right,right,0,high,28.06,5
+382,deepSeek-v3,in-front-right,left,0,high,13.20,5
+383,deepSeek-v3,in-front-right,right,0,high,11.57,5
+384,deepSeek-v3,in-front-right,right,0,high,16.09,5
+385,deepSeek-v3,in-front-right,right,0,high,12.79,5
+386,deepSeek-v3,in-front-right,right,0,high,20.91,5
+387,deepSeek-v3,in-front-right,right,0,high,17.19,5
+388,deepSeek-v3,in-front-right,incorrect prompt,0,high,3.07,5
+389,deepSeek-v3,in-front-right,right,0,high,9.41,5
+390,deepSeek-v3,in-front-right,right,0,high,9.54,5
+391,deepSeek-v3,in-front-right,left,0,high,16.18,5
+392,deepSeek-v3,in-front-right,incorrect prompt,0,high,5.42,5
+393,deepSeek-v3,in-front-right,right,0,high,13.96,5
+394,deepSeek-v3,in-front-right,right,0,high,18.20,5
+395,deepSeek-v3,in-front-right,right,0,high,9.30,5
+396,deepSeek-v3,in-front-right,right,0,high,27.78,5
+397,deepSeek-v3,in-front-right,left,0,high,25.17,5
+398,deepSeek-v3,in-front-right,incorrect prompt,0,high,6.55,5
+399,deepSeek-v3,in-front-right,incorrect prompt,0,high,8.09,5
+400,deepSeek-v3,in-front-right,right,0,high,6.45,5

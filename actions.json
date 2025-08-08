@@ -1,0 +1,104 @@
+{
+  "performable_actions": [
+    {
+      "id": 1,
+      "type": "translational_single",
+      "text": "Move one step to the Front."
+    },
+    {
+      "id": 2,
+      "type": "translational_single",
+      "text": "Move one step to the Behind."
+    },
+    {
+      "id": 3,
+      "type": "translational_single",
+      "text": "Move one step to the Left."
+    },
+    {
+      "id": 4,
+      "type": "translational_single",
+      "text": "Move one step to the Right."
+    },
+    {
+      "id": 5,
+      "type": "translational_single",
+      "text": "Take a single step forward."
+    },
+    {
+      "id": 6,
+      "type": "translational_single",
+      "text": "Take a single step backward."
+    },
+    {
+      "id": 7,
+      "type": "translational_single",
+      "text": "Shift one cell to the Left."
+    },
+    {
+      "id": 8,
+      "type": "translational_single",
+      "text": "Shift one cell to the Right."
+    },
+    {
+      "id": 9,
+      "type": "rotational",
+      "text": "Turn 90 degrees to the Left."
+    },
+    {
+      "id": 10,
+      "type": "rotational",
+      "text": "Turn 90 degrees to the Right."
+    },
+    {
+      "id": 11,
+      "type": "rotational",
+      "text": "Turn 180 degrees around."
+    },
+    {
+      "id": 12,
+      "type": "rotational",
+      "text": "Make a 90-degree left turn."
+    },
+    {
+      "id": 13,
+      "type": "rotational",
+      "text": "Make a 90-degree right turn."
+    },
+    {
+      "id": 14,
+      "type": "rotational",
+      "text": "Reverse direction on the spot."
+    },
+    {
+      "id": 15,
+      "type": "rotational",
+      "text": "Face the direction on their Left."
+    },
+    {
+      "id": 16,
+      "type": "rotational",
+      "text": "Face the direction on their Right."
+    },
+    {
+      "id": "T3_ACTION_17",
+      "type": "translational_compound",
+      "text": "Move two steps to the Front."
+    },
+    {
+      "id": 18,
+      "type": "translational_compound",
+      "text": "Move three steps to the Front."
+    },
+    {
+      "id": 19,
+      "type": "translational_compound",
+      "text": "Move two steps to the Left."
+    },
+    {
+      "id": 20,
+      "type": "translational_compound",
+      "text": "Move two steps to the Right."
+    }
+  ]
+}

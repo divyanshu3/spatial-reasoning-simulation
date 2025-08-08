@@ -1,0 +1,4 @@
+--minor tweeks to remove english word from template 1 and 2
+--create dynamic actions into the template3 prompt
+--justify the answer why grid is empty and not fully filled w.r.t template 1 and template2
+--try to different kind for PnC for grid generation and testing for different templates..like every level has its unique grid.
