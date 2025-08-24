@@ -11,8 +11,10 @@ def parse_llm_response(raw_response: str) -> str:
     if not isinstance(raw_response, str) or "Error:" in raw_response:
         return "error"
     response_lower = raw_response.lower().strip().replace('.', '').replace(',', '')
-    if '###Answer:' in response_lower:
-        answer_part = response_lower.split('###Answer:')[1]
+    answer = "###Answer:"
+    answer = answer.lower()
+    if answer in response_lower:
+        answer_part = response_lower.split(answer)[1]
         parsed_answer = answer_part.strip().replace('.', '').replace(',', '')
         # Standardize format (e.g., 'in front left' -> 'in-front-left')
         parsed_answer = parsed_answer.replace(' ', '-')
@@ -24,6 +26,7 @@ def parse_llm_response(raw_response: str) -> str:
     return directions_found[0] if directions_found else "unparseable"
 
 def read_expected_answer_file(answers_filename):
+    answers_filename = '/Users/divyanshu03/Desktop/University of Leeds/Modules/Msc_Project/spatial-reasoning-simulation/data_files/expected_answers/'+answers_filename
     try:
         with open(answers_filename, 'r') as f:
             ground_truth_list = json.load(f)
@@ -105,7 +108,7 @@ def analyze_all_results(root_results_dir: str):
             print(confusion_matrix)
 
             # NEW: Save the analysis summary CSV in the SAME directory
-            analysis_output_filepath = os.path.join(subdir, 'analysis_summary.csv')
+            analysis_output_filepath = os.path.join(subdir, 'analysis_summary_new.csv')
             try:
                 df.to_csv(analysis_output_filepath, index=False)
                 print(f"  --> Detailed analysis summary saved to '{analysis_output_filepath}'")
